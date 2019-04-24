@@ -1,0 +1,26 @@
+Accession,Name,Symbol,Gene Symbol,Entrez,Matrix,IMS,Acetylated Residues,DKO_TACvsDFC_TAC_FC,DKO_ShamvsDFC_Sham_FC
+D3Z7X0,"Acyl-Coenzyme A dehydrogenase family, member 12",Acad12,Acad12,338350,False,False,K542,128.4443516617713,511.3053279417776
+Q99N15,17beta-hydroxysteroid dehydrogenase type 10/short chain L-3-hydroxyacyl-CoA dehydrogenase,Hsd17b10,Hsd17b10,15108,True,False,K104,139.8225138359014,145.3210515543596
+Q99LC5,"Electron transfer flavoprotein subunit alpha, mitochondrial",Etfa,Etfa,110842,True,False,K331,93.57663004483699,143.4286836268448
+Q99KR7,"Peptidyl-prolyl cis-trans isomerase F, mitochondrial",Ppif,Ppif,105675,True,False,K189,66.52106438768712,137.2741932936283
+Q61425,"Hydroxyacyl-coenzyme A dehydrogenase, mitochondrial",Hadh,Hadh,15107,True,False,K312,40.52403685782208,111.36001463298275
+Q8QZT1,"Acetyl-CoA acetyltransferase, mitochondrial",Acat1,Acat1,110446,True,False,K265,160.6423228371406,94.12917041134541
+P97450,"ATP synthase-coupling factor 6, mitochondrial",Atp5j,Atp5j,11957,False,True,K94,83.36538307175397,83.50734554812607
+Q8BMS1,"Trifunctional enzyme subunit alpha, mitochondrial",Hadha,Hadha,97212,True,False,K406,118.66604159831672,77.7184620234332
+Q8BWT1,"3-ketoacyl-CoA thiolase, mitochondrial",Acaa2,Acaa2,52538,True,False,K209,20.505507130762073,70.8222652971497
+Q61425,"Hydroxyacyl-coenzyme A dehydrogenase, mitochondrial",Hadh,Hadh,15107,True,False,K312,29.334924083986177,63.335614619552125
+Q8BWT1,"3-ketoacyl-CoA thiolase, mitochondrial",Acaa2,Acaa2,52538,True,False,K209,21.79042230858997,59.92851244421082
+Q8BMS1,"Trifunctional enzyme subunit alpha, mitochondrial",Hadha,Hadha,97212,True,False,K411; K413,47.814431479189395,59.6026516254506
+Q8BMS1,"Trifunctional enzyme subunit alpha, mitochondrial",Hadha,Hadha,97212,True,False,K350,27.592079907443633,56.381772971937636
+Q3ULD5,"Methylcrotonoyl-CoA carboxylase beta chain, mitochondrial",Mccc2,Mccc2,78038,False,False,K70,107.0578617908577,53.50357536403401
+Q8QZT1,"Acetyl-CoA acetyltransferase, mitochondrial",Acat1,Acat1,110446,True,False,K240,21.663684410045622,53.225895239946844
+Q99LC5,"Electron transfer flavoprotein subunit alpha, mitochondrial",Etfa,Etfa,110842,True,False,K226,31.673126384846498,53.12155392589689
+Q91ZA3,"Propionyl-CoA carboxylase alpha chain, mitochondrial",Pcca,Pcca,110821,False,False,K57,22.282794291719497,51.6377151919809
+Q8QZS1,"3-hydroxyisobutyryl-CoA hydrolase, mitochondrial",Hibch,Hibch,227095,True,False,K357,23.650080130203964,50.60791568817498
+P03930,ATP synthase protein 8,Mtatp8,ATP8,17706,False,False,K46,60.05272665074816,48.93859237568899
+Q8QZT1,"Acetyl-CoA acetyltransferase, mitochondrial",Acat1,Acat1,110446,True,False,K240,25.36312793945357,48.36414368543504
+Q8BMS1,"Trifunctional enzyme subunit alpha, mitochondrial",Hadha,Hadha,97212,True,False,K259,52.90724160496864,42.80029341248476
+Q8BMS1,"Trifunctional enzyme subunit alpha, mitochondrial",Hadha,Hadha,97212,True,False,K259,35.050726327199875,40.91883873920492
+Q99KR7,"Peptidyl-prolyl cis-trans isomerase F, mitochondrial",Ppif,Ppif,105675,True,False,K181,46.39531704217733,39.05134607110269
+Q61941,"NAD(P) transhydrogenase, mitochondrial",Nnt,Nnt,18115,True,False,K1079,26.86227652766508,37.289918446478396
+P48962,ADP/ATP translocase 1,Slc25a4,Slc25a4,11739,False,False,K33,34.75410478595732,37.126145579503984

@@ -1,0 +1,1159 @@
+HumanOrthologGeneID,MouseGeneID,Symbol,Synonyms,Description,EnsemblGeneID,Matrix,IMS,MitoCarta2_List
+1537.0,66445,Cyc1,2610002H19Rik|AA408921|Q9D0M3,cytochrome c-1,ENSMUSG00000022551,True,True,True
+5160.0,18597,Pdha1,Pdha-1|P35486,pyruvate dehydrogenase E1 alpha 1,ENSMUSG00000031299,True,False,True
+513.0,66043,Atp5d,0610008F14Rik|1500000I11Rik|AA960090|AI876556|AU020773|C85518|Q9D3D9,"ATP synthase, H+ transporting, mitochondrial F1 complex, delta subunit",ENSMUSG00000003072,True,False,True
+122961.0,74316,Isca2,0710001C05Rik|5730594E03Rik|Hbld1|Q9DCB8,iron-sulfur cluster assembly 2 homolog (S. cerevisiae),ENSMUSG00000021241,True,False,True
+7384.0,22273,Uqcrc1,1110032G10Rik|Q9CZ13,ubiquinol-cytochrome c reductase core protein 1,ENSMUSG00000025651,True,False,True
+5162.0,68263,Pdhb,2610103L06Rik|AL024199|C81408|Q9D051,pyruvate dehydrogenase (lipoamide) beta,ENSMUSG00000021748,False,False,True
+57017.0,67914,Coq9,2310005O14Rik|C78387|Q8K1Z0,coenzyme Q9 homolog (yeast),ENSMUSG00000031782,True,False,True
+6182.0,56282,Mrpl12,0610034O11Rik|1500031N16Rik|MRP-L12|Rpml12|Q9DB15,mitochondrial ribosomal protein L12,ENSMUSG00000039640,False,False,True
+9377.0,12858,Cox5a,AA959768|CcOX|P12787,cytochrome c oxidase subunit Va,ENSMUSG00000000088,True,True,True
+60488.0,232536,Mrps35,MDSO23|MRP-S28|MRPS28|Q8BJZ4,mitochondrial ribosomal protein S35,ENSMUSG00000040112,True,False,True
+10229.0,12850,Coq7,clk-1|P97478,demethyl-Q 7,ENSMUSG00000030652,False,False,True
+7386.0,66694,Uqcrfs1,4430402G14Rik|AI875505|Q9CR68,"ubiquinol-cytochrome c reductase, Rieske iron-sulfur polypeptide 1",ENSMUSG00000038462,True,False,True
+6389.0,66945,Sdha,1500032O14Rik|2310034D06Rik|4921513A11|C81073|FP|SDH2|SDHF|Q8K2B3,"succinate dehydrogenase complex, subunit A, flavoprotein (Fp)",ENSMUSG00000021577,True,False,True
+6390.0,67680,Sdhb,0710008N11Rik|Q9CQA3,"succinate dehydrogenase complex, subunit B, iron sulfur (Ip)",ENSMUSG00000009863,True,False,True
+498.0,11946,Atp5a1,AI035633|AL022851|AL023067|Atpm|D18Ertd206e|Mom2|Q03265,"ATP synthase, H+ transporting, mitochondrial F1 complex, alpha subunit 1",ENSMUSG00000025428,True,False,True
+135154.0,68002,1110058L19Rik,1700001E18Rik|C6orf57|Q8BTE0,RIKEN cDNA 1110058L19 gene,ENSMUSG00000026154,False,False,True
+9512.0,73078,Pmpcb,3110004O18Rik|MPP11|MPPB|MPPP52|Q9CXT8,peptidase (mitochondrial processing) beta,ENSMUSG00000029017,True,False,True
+6392.0,66925,Sdhd,3110001M13Rik|AVLL5809|C78570|PRO19626|Q9CXV1,"succinate dehydrogenase complex, subunit D, integral membrane protein",ENSMUSG00000000171,False,False,True
+4967.0,18293,Ogdh,2210403E04Rik|2210412K19Rik|AA409584|d1401|mKIAA4192|Q60597,oxoglutarate (alpha-ketoglutarate) dehydrogenase (lipoamide),ENSMUSG00000020456,True,False,True
+84274.0,52064,Coq5,1810014G04Rik|D5Ertd33e|Q9CXI0,"coenzyme Q5 homolog, methyltransferase (yeast)",ENSMUSG00000041733,True,False,True
+7385.0,67003,Uqcrc2,1500004O06Rik|Q9DB77,ubiquinol cytochrome c reductase core protein 2,ENSMUSG00000030884,True,False,True
+27089.0,22272,Uqcrq,1100001F06Rik|1500040F11Rik|5830407L17Rik|9.5kDa|AA959903|QP-C|Qpc|Uqcrb|c1502|Q9CQ69,"ubiquinol-cytochrome c reductase, complex III subunit VII",ENSMUSG00000044894,False,True,True
+4191.0,17448,Mdh2,MDH|Mdh-2|Mor-1|Mor1|P08249,"malate dehydrogenase 2, NAD (mitochondrial)",ENSMUSG00000019179,True,False,True
+1629.0,13171,Dbt,D3Wsu60e|P53395,dihydrolipoamide branched chain transacylase E2,ENSMUSG00000000340,True,False,True
+1737.0,235339,Dlat,6332404G05Rik|DLTA|PDC-E2|Q8BMF4,dihydrolipoamide S-acetyltransferase (E2 component of pyruvate dehydrogenase complex),ENSMUSG00000000168,True,False,True
+10128.0,72416,Lrpprc,3110001K13Rik|C76645|Gp130|Lrp130|Lsfc|Q6PB66,leucine-rich PPR-motif containing,ENSMUSG00000024120,True,False,True
+116540.0,68499,Mrpl53,1110007K17Rik|Q9D1H8,mitochondrial ribosomal protein L53,ENSMUSG00000030037,True,False,True
+8050.0,27402,Pdhx,AI481367|E3bp|Pdx1|Q8BKZ9,"pyruvate dehydrogenase complex, component X",ENSMUSG00000010914,True,False,True
+1743.0,78920,Dlst,1600017E01Rik|4632413C10Rik|4930529O08Rik|DLTS|Q9D2G2,dihydrolipoamide S-succinyltransferase (E2 component of 2-oxo-glutarate complex),ENSMUSG00000004789,True,True,True
+85476.0,28030,Gfm1,AW545374|D3Wsu133e|Gfm|Q8K0D5,"G elongation factor, mitochondrial 1",ENSMUSG00000027774,True,False,True
+80273.0,17713,Grpel1,AA408748|mt-GrpE#1|mt-Grpel1|Q99LP6,"GrpE-like 1, mitochondrial",ENSMUSG00000029198,True,False,True
+29796.0,66152,Uqcr10,1110020P15Rik|AA960494|Ucrc|Q8R1I1,"ubiquinol-cytochrome c reductase, complex III subunit X",ENSMUSG00000059534,False,False,True
+25874.0,70456,Mpc2,0610006C01Rik|2010002I07Rik|2610205H19Rik|AA108335|Brp44|ESTM43|Q9D023,mitochondrial pyruvate carrier 2,ENSMUSG00000026568,False,False,True
+51805.0,230027,Coq3,4732433J24|C77934|Q8BMS4,"coenzyme Q3 homolog, methyltransferase (yeast)",ENSMUSG00000028247,True,False,True
+5250.0,18674,Slc25a3,5730556H19Rik|PTP|Phc|Q8VEM8,"solute carrier family 25 (mitochondrial carrier, phosphate carrier), member 3",ENSMUSG00000061904,False,False,True
+514.0,67126,Atp5e,2410043G19Rik|ATPE|AV000645|P56382,"ATP synthase, H+ transporting, mitochondrial F1 complex, epsilon subunit",ENSMUSG00000016252,False,False,True
+64981.0,94065,Mrpl34,0610007O17Rik|D8Bwg1484e|Q99N91,mitochondrial ribosomal protein L34,ENSMUSG00000034880,True,False,True
+64960.0,66407,Mrps15,1500003E24Rik|2410002B11Rik|Mprs15|Q9DC71,mitochondrial ribosomal protein S15,ENSMUSG00000028861,False,False,True
+6391.0,66052,Sdhc,0610010E03Rik|AI316496|AU019277|Q9CZB0,"succinate dehydrogenase complex, subunit C, integral membrane protein",ENSMUSG00000058076,False,False,True
+506.0,11947,Atp5b,P56480,"ATP synthase, H+ transporting mitochondrial F1 complex, beta subunit",ENSMUSG00000025393,True,False,True
+51649.0,64656,Mrps23,2310047I09Rik|D11Bwg1153e|Rpms23|Q8VE22,mitochondrial ribosomal protein S23,ENSMUSG00000023723,True,False,True
+2108.0,110842,Etfa,2010200I21Rik|D9Ertd394e|Q99LC5,"electron transferring flavoprotein, alpha polypeptide",ENSMUSG00000032314,True,False,True
+2271.0,14194,Fh1,Fh|Fh-1|P97807,fumarate hydratase 1,ENSMUSG00000026526,True,False,True
+23107.0,218506,Mrps27,2610028H14Rik|Q8BK72,mitochondrial ribosomal protein S27,ENSMUSG00000041632,True,False,True
+81689.0,69046,Isca1,1810010A06Rik|Hbld2|Q9D924,iron-sulfur cluster assembly 1 homolog (S. cerevisiae),ENSMUSG00000044792,True,False,True
+3419.0,67834,Idh3a,1110003P10Rik|1500012E04Rik|AA407078|AI316514|Q9D6R2,isocitrate dehydrogenase 3 (NAD+) alpha,ENSMUSG00000032279,True,False,True
+4719.0,227197,Ndufs1,5830412M15Rik|9930026A05Rik|Q91VD9,NADH dehydrogenase (ubiquinone) Fe-S protein 1,ENSMUSG00000025968,True,False,True
+549.0,11992,Auh,C77140|W91705|Q9JLZ3,AU RNA binding protein/enoyl-coenzyme A hydratase,ENSMUSG00000021460,True,False,True
+10939.0,69597,Afg3l2,2310036I02Rik|AW260507|Emv66|par|Q8JZQ2,AFG3(ATPase family gene 3)-like 2 (yeast),ENSMUSG00000024527,True,False,True
+23203.0,66865,Pmpca,1200002L24Rik|4933435E07Rik|Alpha-MPP|P-55|Q9DC61,peptidase (mitochondrial processing) alpha,ENSMUSG00000026926,True,False,True
+1353.0,69802,Cox11,2010004I09Rik|Q6P8I6,cytochrome c oxidase assembly protein 11,ENSMUSG00000020544,False,True,True
+8803.0,20916,Sucla2,4930547K18Rik|Q9Z2I9,"succinate-Coenzyme A ligase, ADP-forming, beta subunit",ENSMUSG00000022110,True,False,True
+23395.0,102436,Lars2,AI035546|Kiaa0028|LEURS|Q8VDC0,"leucyl-tRNA synthetase, mitochondrial",ENSMUSG00000035202,True,False,True
+539.0,28080,Atp5o,ATPO|D12Wsu28e|OSCP|Q9DB20,"ATP synthase, H+ transporting, mitochondrial F1 complex, O subunit",ENSMUSG00000022956,True,False,True
+26589.0,67308,Mrpl46,3110052F15Rik|C15orf4|C80107|LIECG2|P2ECSL|Q9EQI8,mitochondrial ribosomal protein L46,ENSMUSG00000030612,True,False,True
+1355.0,226139,Cox15,2900026G05Rik|Q8BJ03,cytochrome c oxidase assembly protein 15,ENSMUSG00000040018,False,False,True
+7388.0,66576,Uqcrh,2210416J04Rik|2310021J10Rik|2610041P16Rik|P99028,ubiquinol-cytochrome c reductase hinge protein,ENSMUSG00000063882,False,True,True
+192286.0,67044,Higd2a,2010110M21Rik|AA690237|Q9CQJ1,"HIG1 domain family, member 2A",ENSMUSG00000025868,False,True,True
+26519.0,30059,Timm10,Tim13|Timm13a|P62073,translocase of inner mitochondrial membrane 10,ENSMUSG00000027076,False,True,True
+2110.0,66841,Etfdh,0610010I20Rik|AV001013|Q921G7,"electron transferring flavoprotein, dehydrogenase",ENSMUSG00000027809,True,False,True
+1892.0,93747,Echs1,C80529|Q8BH95,"enoyl Coenzyme A hydratase, short chain, 1, mitochondrial",ENSMUSG00000025465,True,False,True
+3030.0,97212,Hadha,C77020|Mtpa|Q8BMS1,"hydroxyacyl-Coenzyme A dehydrogenase/3-ketoacyl-Coenzyme A thiolase/enoyl-Coenzyme A hydratase (trifunctional protein), alpha subunit",ENSMUSG00000025745,True,False,True
+593.0,12039,Bckdha,Q3U3J1,"branched chain ketoacid dehydrogenase E1, alpha polypeptide",ENSMUSG00000060376,True,False,True
+1431.0,12974,Cs,2610511A05Rik|9030605P22Rik|BB234005|Cis|ahl4|Q9CZU6,citrate synthase,ENSMUSG00000005683,True,False,True
+8802.0,56451,Suclg1,1500000I01Rik|Sucla1|Q9WUM5,"succinate-CoA ligase, GDP-forming, alpha subunit",ENSMUSG00000052738,False,False,True
+1337.0,12861,Cox6a1,VIaL|P43024,cytochrome c oxidase subunit VIa polypeptide 1,ENSMUSG00000041697,False,False,True
+35.0,11409,Acads,AI196007|Bcd-1|Bcd1|Hdlq8|SCAD|Q07417,"acyl-Coenzyme A dehydrogenase, short chain",ENSMUSG00000029545,True,False,True
+4729.0,72900,Ndufv2,2900010C23Rik|Q9D6J6,NADH dehydrogenase (ubiquinone) flavoprotein 2,ENSMUSG00000024099,True,False,True
+55699.0,381314,Iars2,2010002H18Rik|C79125|Q8BIJ6,"isoleucine-tRNA synthetase 2, mitochondrial",ENSMUSG00000026618,True,False,True
+51004.0,217707,Coq6,5930427M12Rik|AW742344|Q8R1S0,coenzyme Q6 homolog (yeast),ENSMUSG00000021235,True,False,True
+521.0,11958,Atp5k,2610008D24Rik|Atp5i|Lfm1|Q06185,"ATP synthase, H+ transporting, mitochondrial F1F0 complex, subunit E",ENSMUSG00000050856,False,True,True
+3420.0,170718,Idh3b,C78231|Q91VA7,isocitrate dehydrogenase 3 (NAD+) beta,ENSMUSG00000027406,True,False,True
+4700.0,67130,Ndufa6,14kDa|2700038D15Rik|B230217P19Rik|Q9CQZ5,"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 6 (B14)",ENSMUSG00000022450,True,False,True
+3954.0,56384,Letm1,Q9Z2I0,leucine zipper-EF-hand containing transmembrane protein 1,ENSMUSG00000005299,True,True,True
+91647.0,246782,Atpaf2,ATP12|ATP12p|Q91YY4,ATP synthase mitochondrial F1 complex assembly factor 2,ENSMUSG00000042709,False,False,True
+84816.0,170728,Rtn4ip1,D10Ertd690e|NIMP|Q924D0,reticulon 4 interacting protein 1,ENSMUSG00000019864,True,False,True
+84545.0,94067,Mrpl43,4930442D21Rik|bMRP36a|Q5RL20,mitochondrial ribosomal protein L43,ENSMUSG00000025208,False,False,True
+83451.0,68758,Abhd11,1110054D16Rik|A630008N09Rik|Wbscr21|Q8K4F5,abhydrolase domain containing 11,ENSMUSG00000040532,True,False,True
+92609.0,66525,Timm50,2810403L02Rik|AU015082|TIM50L|Q9D880,translocase of inner mitochondrial membrane 50,ENSMUSG00000003438,False,True,True
+10573.0,68611,Mrpl28,1110015G04Rik|L28mt|MAAT1|MRP-L28|p15|Q9D1B9,mitochondrial ribosomal protein L28,ENSMUSG00000024181,True,False,True
+54949.0,66072,Sdhaf2,0610038F07Rik|AA407634|AW049997|Q8C6I2,succinate dehydrogenase complex assembly factor 2,ENSMUSG00000024668,False,False,True
+4714.0,67264,Ndufb8,2900010I05Rik|AI987932|Q9D6J5,NADH dehydrogenase (ubiquinone) 1 beta subcomplex 8,ENSMUSG00000025204,True,True,True
+1738.0,13382,Dld,O08749,dihydrolipoamide dehydrogenase,ENSMUSG00000020664,True,False,True
+4723.0,17995,Ndufv1,CI-51kD|Q91YT0,NADH dehydrogenase (ubiquinone) flavoprotein 1,ENSMUSG00000037916,True,False,True
+4720.0,226646,Ndufs2,AL033311|Q91WD5,NADH dehydrogenase (ubiquinone) Fe-S protein 2,ENSMUSG00000013593,True,False,True
+4976.0,74143,Opa1,1200011N24Rik|AI225888|AI847218|lilr3|mKIAA0567|P58281,optic atrophy 1,ENSMUSG00000038084,False,True,True
+10989.0,76614,Immt,1700082C19Rik|D830041H16Rik|HMP|P87|P87/89|P89|Q8CAQ8,"inner membrane protein, mitochondrial",ENSMUSG00000052337,False,False,True
+139322.0,68117,Apool,6720473G16Rik|9430083G14Rik|E130106L15Rik|Q78IK4,apolipoprotein O-like,ENSMUSG00000025525,False,False,True
+9361.0,74142,Lonp1,1200017E13Rik|LON|Prss15|Q8CGK3,"lon peptidase 1, mitochondrial",ENSMUSG00000041168,True,False,True
+5166.0,27273,Pdk4,AV005916|O70571,"pyruvate dehydrogenase kinase, isoenzyme 4",ENSMUSG00000019577,False,False,True
+25875.0,68614,Letmd1,1110019O13Rik|AI593524|BB130465|BB235638|HCCR-2|HCCR1|MCC-32|Mccr|Q924L1,LETM1 domain containing 1,ENSMUSG00000037353,False,False,True
+4528.0,76784,Mtif2,2310038D14Rik|2410112O06Rik|IF-2(Mt)|IF-2mt|IF2(mt)|Q91YJ5,mitochondrial translational initiation factor 2,ENSMUSG00000020459,True,False,True
+374291.0,75406,Ndufs7,1010001M04Rik|Q9DC70,NADH dehydrogenase (ubiquinone) Fe-S protein 7,ENSMUSG00000020153,True,False,True
+4728.0,225887,Ndufs8,BC021616|CI-23kD|TYKY|Q8K3J1,NADH dehydrogenase (ubiquinone) Fe-S protein 8,ENSMUSG00000059734,True,False,True
+92399.0,67871,Mrrf,2400002D02Rik|MRFF|MTRRF|RRF|Q9D6S7,mitochondrial ribosome recycling factor,ENSMUSG00000026887,True,False,True
+51069.0,27398,Mrpl2,CGI-22|MRP-L14|Rpml14|Q9D773,mitochondrial ribosomal protein L2,ENSMUSG00000002767,True,False,True
+84340.0,320806,Gfm2,6530419G12Rik|A930009M04Rik|EF-G2mt|EFG2|MST027|RRF2mt|Q8R2Q4,"G elongation factor, mitochondrial 2",ENSMUSG00000021666,True,False,True
+26520.0,30056,Timm9,2810011L15Rik|Tim10a|Timm10|Q9WV98,translocase of inner mitochondrial membrane 9,ENSMUSG00000021079,False,True,True
+10531.0,69617,Pitrm1,2310012C15Rik|AA410010|MP-1|MP1|Ntup1|PreP|mKIAA1104|Q8K411,pitrilysin metallepetidase 1,ENSMUSG00000021193,True,False,True
+34.0,11364,Acadm,AU018656|MCAD|P45952,"acyl-Coenzyme A dehydrogenase, medium chain",ENSMUSG00000062908,True,False,True
+6832.0,338359,Supv3l1,6330443E10Rik|Q80YD1,"suppressor of var1, 3-like 1 (S. cerevisiae)",ENSMUSG00000020079,True,False,True
+65008.0,94061,Mrpl1,2410002L03Rik|5830418D04Rik|AI462572|L1mt|Q99N96,mitochondrial ribosomal protein L1,ENSMUSG00000029486,True,False,True
+50.0,11429,Aco2,Aco-2|Aco3|D10Wsu183e|Q99KI0,"aconitase 2, mitochondrial",ENSMUSG00000022477,True,False,True
+93058.0,210582,Coq10a,Gm1|E9Q3H6,coenzyme Q10 homolog A (yeast),ENSMUSG00000039914,False,False,True
+25813.0,68653,Samm50,1110030L07Rik|Q8BGH2,sorting and assembly machinery component 50 homolog (S. cerevisiae),ENSMUSG00000022437,True,True,True
+51116.0,118451,Mrps2,1500019M10Rik|Q924T2,mitochondrial ribosomal protein S2,ENSMUSG00000035772,True,False,True
+6834.0,20930,Surf1,0610010F23Rik|Surf-1|P09925,surfeit gene 1,ENSMUSG00000015790,False,False,True
+65080.0,69163,Mrpl44,1810030E18Rik|5730593H20Rik|AI463302|Q9CY73,mitochondrial ribosomal protein L44,ENSMUSG00000026248,True,False,True
+5245.0,18673,Phb,Bap32|P67778,prohibitin,ENSMUSG00000038845,False,False,True
+60558.0,231279,Guf1,4631409J12|AA407526|EF-4|Q8C3X4,GUF1 GTPase homolog (S. cerevisiae),ENSMUSG00000029208,True,False,True
+5442.0,216151,Polrmt,1110018N15Rik|4932416K13|Q8BKF1,polymerase (RNA) mitochondrial (DNA directed),ENSMUSG00000020329,True,False,True
+27069.0,66092,Ghitm,1010001P14Rik|C77840|MICS1|PTD010|Tmbim5|Q91VC9,growth hormone inducible transmembrane protein,ENSMUSG00000041028,False,True,True
+26517.0,30055,Timm13,D10Ertd378e|Tim9|Timm9|P62075,translocase of inner mitochondrial membrane 13,ENSMUSG00000020219,False,True,True
+1376.0,12896,Cpt2,AI323697|CPTII|P52825,carnitine palmitoyltransferase 2,ENSMUSG00000028607,True,False,True
+124995.0,107732,Mrpl10,0610040E02Rik|C78440|MRP-L8|Rpml8|Q3TBW2,mitochondrial ribosomal protein L10,ENSMUSG00000001445,True,False,True
+25821.0,68291,Mto1,2310039H01Rik|5730419A02Rik|Q923Z3,mitochondrial translation optimization 1 homolog (S. cerevisiae),ENSMUSG00000032342,True,False,True
+10935.0,11757,Prdx3,AW822249|Aop1|D0Tohi1|Ef2l|Mer5|Prx3|SP22|TDXM|P20108,peroxiredoxin 3,ENSMUSG00000024997,True,True,True
+522.0,11957,Atp5j,P97450,"ATP synthase, H+ transporting, mitochondrial F0 complex, subunit F",ENSMUSG00000022890,False,True,True
+1347.0,12866,Cox7a2,COX7AL|Cox7a3|CoxVIIa-L|P48771,cytochrome c oxidase subunit VIIa 2,ENSMUSG00000032330,False,False,True
+200205.0,216792,Iba57,4930543L23Rik|A230051G13Rik|C1orf69|Q8CAK1,"IBA57, iron-sulfur cluster assembly homolog (S. cerevisiae)",ENSMUSG00000049287,True,False,True
+64976.0,18100,Mrpl40,Nlvcf|Q9Z2Q5,mitochondrial ribosomal protein L40,ENSMUSG00000022706,True,False,True
+26275.0,227095,Hibch,2610509I15Rik|AI648812|Q8QZS1,3-hydroxyisobutyryl-Coenzyme A hydrolase,ENSMUSG00000041426,True,False,True
+4726.0,407785,Ndufs6,BC059730|IP13|P52503,NADH dehydrogenase (ubiquinone) Fe-S protein 6,ENSMUSG00000021606,True,False,True
+8209.0,28295,D10Jhu81e,C21orf33|ES1|Q9D172,"DNA segment, Chr 10, Johns Hopkins University 81 expressed",ENSMUSG00000053329,True,False,True
+5019.0,67041,Oxct1,2610008O03Rik|Oxct|Oxct2a|Scot-s|Q9D0K2,3-oxoacid CoA transferase 1,ENSMUSG00000022186,True,False,True
+1345.0,12864,Cox6c,Q9CPQ1,cytochrome c oxidase subunit VIc,ENSMUSG00000014313,True,True,True
+4715.0,66218,Ndufb9,1190008J14Rik|Q9CQJ8,"NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 9",ENSMUSG00000022354,True,True,True
+6648.0,20656,Sod2,MnSOD|Sod-2|P09671,"superoxide dismutase 2, mitochondrial",ENSMUSG00000006818,True,False,True
+4711.0,66046,Ndufb5,0610007D05Rik|AU015782|SGDH|Q9CQH3,"NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 5",ENSMUSG00000027673,True,True,True
+3033.0,15107,Hadh,AA409008|AU019341|AW742602|HCDH|Hadhsc|Schad|Q61425,hydroxyacyl-Coenzyme A dehydrogenase,ENSMUSG00000027984,True,False,True
+2235.0,14151,Fech,AI894116|Fcl|fch|Q544X6,ferrochelatase,ENSMUSG00000024588,True,False,True
+11019.0,79464,Lias,2900022L22Rik|4933425M12Rik|7a5ex|C77512|mLip1|Q99M04,lipoic acid synthetase,ENSMUSG00000029199,True,False,True
+9054.0,18041,Nfs1,AA987187|m-Nfs1|m-Nfsl|Q9Z1J3,nitrogen fixation gene 1 (S. cerevisiae),ENSMUSG00000027618,True,False,True
+2230.0,14148,Fdx1,P46656,ferredoxin 1,ENSMUSG00000032051,True,False,True
+79922.0,217038,Mrm1,A530065E19Rik|ENSMUSG00000054212|Q99J25,mitochondrial rRNA methyltransferase 1 homolog (S. cerevisiae),ENSMUSG00000018405,True,False,True
+55168.0,68565,Mrps18a,1110004O20Rik|C79712|Q99N85,mitochondrial ribosomal protein S18A,ENSMUSG00000023967,True,False,True
+115416.0,75593,Malsu1,2410003K15Rik|Matsu1|Q9CWV0,mitochondrial assembly of ribosomal large subunit 1,ENSMUSG00000029815,True,False,True
+5188.0,229487,Pet112,9430026F02Rik|Pet112l|Q99JT1,PET112 homolog (S. cerevisiae),ENSMUSG00000028085,True,False,True
+2395.0,14297,Fxn,FA|FARR|Frda|X25|O35943,frataxin,ENSMUSG00000059363,True,False,True
+51067.0,70120,Yars2,2210023C10Rik|tyrRS|Q8BYL4,tyrosyl-tRNA synthetase 2 (mitochondrial),ENSMUSG00000022792,True,False,True
+3421.0,15929,Idh3g,P70404,"isocitrate dehydrogenase 3 (NAD+), gamma",ENSMUSG00000002010,True,False,True
+28957.0,66230,Mrps28,1500012D08Rik|AW061224|Q9CY16,mitochondrial ribosomal protein S28,ENSMUSG00000040269,False,False,True
+10469.0,21856,Timm44,0710005E20Rik|D8Ertd118e|Mimt44|Tim44|O35857,translocase of inner mitochondrial membrane 44,ENSMUSG00000002949,True,False,True
+10845.0,270166,Clpx,AU014732|E330029I21|Q9JHS4,caseinolytic peptidase X (E.coli),ENSMUSG00000015357,True,False,True
+11222.0,94062,Mrpl3,2010320L16Rik|5930422H18Rik|AA407889|Q99N95,mitochondrial ribosomal protein L3,ENSMUSG00000032563,True,False,True
+51102.0,26922,Mecr,AI195831|Nrbf1|Q9DCS3,mitochondrial trans-2-enoyl-CoA reductase,ENSMUSG00000028910,True,False,True
+291.0,11739,Slc25a4,AU019225|Ant1|P48962,"solute carrier family 25 (mitochondrial carrier, adenine nucleotide translocator), member 4",ENSMUSG00000031633,False,False,True
+788.0,57279,Slc25a20,1110007P09Rik|C78826|Cact|mCAC|Q9Z2Z6,"solute carrier family 25 (mitochondrial carnitine/acylcarnitine translocase), member 20",ENSMUSG00000032602,False,False,True
+23788.0,56428,Mtch2,2310034D24Rik|4930539J07Rik|HSPC032|Q791V5,mitochondrial carrier homolog 2 (C. elegans),ENSMUSG00000027282,False,True,True
+5164.0,18604,Pdk2,Q9JK42,"pyruvate dehydrogenase kinase, isoenzyme 2",ENSMUSG00000038967,True,False,True
+7416.0,22333,Vdac1,AL033343|Vdac5|Q60932,voltage-dependent anion channel 1,ENSMUSG00000020402,False,True,True
+1340.0,110323,Cox6b1,2010000G05Rik|Cox6b|P56391,"cytochrome c oxidase, subunit VIb polypeptide 1",ENSMUSG00000036751,False,True,True
+51073.0,66163,Mrpl4,1110017G11Rik|Q9DCU6,mitochondrial ribosomal protein L4,ENSMUSG00000003299,True,False,True
+63931.0,64659,Mrps14,1810032L21Rik|AL022847|Rpms14|Q9CR88,mitochondrial ribosomal protein S14,ENSMUSG00000058267,True,False,True
+3313.0,15526,Hspa9,74kDa|Csa|Grp75|Hsc74|Hsp74|Hsp74a|Hspa9a|Mortalin|Mot-2|Mot2|Mthsp70|Pbp74|P38647,heat shock protein 9,ENSMUSG00000024359,True,False,True
+4695.0,17991,Ndufa2,AV000592|B8|C1-B8|CI-B8|Q9CQ75,"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 2",ENSMUSG00000014294,True,False,True
+4704.0,66108,Ndufa9,1010001N11Rik|Q9DC69,"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 9",ENSMUSG00000000399,True,False,True
+23479.0,66383,Iscu,2310020H20Rik|AA407971|Nifu|Nifun|Q9D7P6,IscU iron-sulfur cluster scaffold homolog (E. coli),ENSMUSG00000025825,True,False,True
+708.0,12261,C1qbp,AA407365|AA986492|D11Wsu182e|HABP1|P32|gC1qBP|Q8R5L1,"complement component 1, q subcomponent binding protein",ENSMUSG00000018446,True,False,True
+246269.0,215951,Lace1,CG8520|Q3V384,lactation elevated 1,ENSMUSG00000038302,True,False,True
+10063.0,12856,Cox17,AI037035|P56394,cytochrome c oxidase assembly protein 17,ENSMUSG00000046516,False,True,True
+440574.0,433771,Minos1,2310028O11Rik|Q7TNS2,mitochondrial inner membrane organizing system 1,ENSMUSG00000050608,False,True,True
+55245.0,56046,Uqcc1,2310079L17Rik|2410003P15Rik|3110038N19Rik|Bfzb|Bfzp|Uqcc|Q9CWU6,ubiquinol-cytochrome c reductase complex assembly factor 1,ENSMUSG00000005882,True,False,True
+9553.0,66845,Mrpl33,0610009M10Rik|L33mt|MRP-L33|Q9CQP0,mitochondrial ribosomal protein L33,ENSMUSG00000029142,False,False,True
+33.0,11363,Acadl,AA960361|AU018452|C79855|LCAD|P51174,"acyl-Coenzyme A dehydrogenase, long-chain",ENSMUSG00000026003,False,False,True
+4724.0,17993,Ndufs4,6720411N02Rik|C1-18k|Q9CXZ1,NADH dehydrogenase (ubiquinone) Fe-S protein 4,ENSMUSG00000021764,True,False,True
+11331.0,12034,Phb2,AU044498|BAP|Bap37|Bcap37|REA|O35129,prohibitin 2,ENSMUSG00000004264,False,False,True
+594.0,12040,Bckdhb,Q6P3A8,"branched chain ketoacid dehydrogenase E1, beta polypeptide",ENSMUSG00000032263,True,False,True
+6183.0,24030,Mrps12,AI327385|Rpms12|rps12|O35680,mitochondrial ribosomal protein S12,ENSMUSG00000045948,False,False,True
+79590.0,67707,Mrpl24,2010005E08Rik|2810470K06Rik|6720473G22Rik|AA407670|Q9CQ06,mitochondrial ribosomal protein L24,ENSMUSG00000019710,True,False,True
+27349.0,223722,Mcat,AI225907|BC025519|Q8R3F5,malonyl CoA:ACP acyltransferase (mitochondrial),ENSMUSG00000048755,True,False,True
+28998.0,68537,Mrpl13,1110002D09Rik|Q9D1P0,mitochondrial ribosomal protein L13,ENSMUSG00000022370,True,False,True
+5095.0,110821,Pcca,C79630|Q91ZA3,"propionyl-Coenzyme A carboxylase, alpha polypeptide",ENSMUSG00000041650,False,False,True
+63875.0,27397,Mrpl17,MRP-L26|Rpml26|Q9D8P4,mitochondrial ribosomal protein L17,ENSMUSG00000030879,True,False,True
+9131.0,26926,Aifm1,AIF|AIFsh2|Hq|Pdcd8|mAIF|Q9Z0X1,"apoptosis-inducing factor, mitochondrion-associated 1",ENSMUSG00000036932,False,True,True
+1327.0,12857,Cox4i1,AL024441|COXIV|Cox4|Cox4a|P19783,cytochrome c oxidase subunit IV isoform 1,ENSMUSG00000031818,True,True,True
+29078.0,68493,Ndufaf4,1110007M04Rik|3000003G13Rik|AW214064|Q9D1H6,"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, assembly factor 4",ENSMUSG00000028261,True,False,True
+399512.0,71998,Slc25a35,1810012H11Rik|Q5SWT3,"solute carrier family 25, member 35",ENSMUSG00000018740,True,False,True
+7818.0,65111,Dap3,4921514D13Rik|DAP-3|Q9ER88,death associated protein 3,ENSMUSG00000068921,True,False,True
+509.0,11949,Atp5c1,1700094F02Rik|Q91VR2,"ATP synthase, H+ transporting, mitochondrial F1 complex, gamma polypeptide 1",ENSMUSG00000025781,False,False,True
+26521.0,30057,Timm8b,Tim8b|P62077,translocase of inner mitochondrial membrane 8B,ENSMUSG00000039016,False,False,True
+8402.0,67863,Slc25a11,2310022P18Rik|2oxoc|Q9CR62,"solute carrier family 25 (mitochondrial carrier oxoglutarate carrier), member 11",ENSMUSG00000014606,False,False,True
+644096.0,68332,Sdhaf1,0610010E21Rik|AI430885|AW490662|Lyrm8|Q3U276,succinate dehydrogenase complex assembly factor 1,ENSMUSG00000074211,False,False,True
+29088.0,27395,Mrpl15,HSPC145|MRP-L7|Rpml7|Q9CPR5,mitochondrial ribosomal protein L15,ENSMUSG00000033845,True,False,True
+211.0,11655,Alas1,ALAS|ALAS-N|Alas-1|Alas-h|Q8VC19,aminolevulinic acid synthase 1,ENSMUSG00000032786,True,False,True
+56942.0,66531,Cmc2,1110046L09Rik|2310061C15Rik|DC13|Q8K199,COX assembly mitochondrial protein 2,ENSMUSG00000014633,False,True,True
+160760.0,320717,Pptc7,9130017A15Rik|AA672638|AI848390|TA-PP2C|Q6NVE9,PTC7 protein phosphatase homolog (S. cerevisiae),ENSMUSG00000038582,True,False,True
+10295.0,12041,Bckdk,AI327402|O55028,branched chain ketoacid dehydrogenase kinase,ENSMUSG00000030802,True,False,True
+25828.0,56551,Txn2,2510006J11Rik|AI788873|Trx2|P97493,thioredoxin 2,ENSMUSG00000005354,True,False,True
+8801.0,20917,Suclg2,AF171077|AW556404|D6Wsu120e|SCS-betaG|Q9Z2I8,"succinate-Coenzyme A ligase, GDP-forming, beta subunit",ENSMUSG00000061838,True,False,True
+55669.0,67414,Mfn1,2310002F04Rik|6330416C07Rik|D3Ertd265e|HR2|mKIAA4032|Q811U4,mitofusin 1,ENSMUSG00000027668,False,False,True
+10651.0,53375,Mtx2,1500012G02Rik|O88441,metaxin 2,ENSMUSG00000027099,False,False,True
+4698.0,68202,Ndufa5,2900002J19Rik|Q9CPP6,"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 5",ENSMUSG00000023089,True,False,True
+4712.0,230075,Ndufb6,Gm137|Q3UIU2,"NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 6",ENSMUSG00000071014,True,True,True
+55753.0,239017,Ogdhl,E9Q7L0,oxoglutarate dehydrogenase-like,ENSMUSG00000021913,True,False,True
+38.0,110446,Acat1,6330585C21Rik|Acat|Q8QZT1,acetyl-Coenzyme A acetyltransferase 1,ENSMUSG00000032047,True,False,True
+79746.0,67856,Echdc3,2310005D12Rik|AI662097|Q9D7J9,enoyl Coenzyme A hydratase domain containing 3,ENSMUSG00000039063,False,False,True
+27247.0,56748,Nfu1,0610006G17Rik|CGI-33|Hirip5|Q9QZ23,NFU1 iron-sulfur cluster scaffold homolog (S. cerevisiae),ENSMUSG00000029993,True,False,True
+219927.0,353242,Mrpl21,BC028768|Q9D1N9,mitochondrial ribosomal protein L21,ENSMUSG00000024829,True,False,True
+128308.0,67212,Mrpl55,2810038N09Rik|Q9CZ83,mitochondrial ribosomal protein L55,ENSMUSG00000036860,True,False,True
+51204.0,70207,Taco1,2310066I18Rik|Ccdc44|Q8K0Z7,translational activator of mitochondrially encoded cytochrome c oxidase I,ENSMUSG00000001983,True,False,True
+57001.0,71238,Acn9,0610005M07Rik|4933430A16Rik|Q8BQU3,ACN9 homolog (S. cerevisiae),ENSMUSG00000042505,False,False,True
+65003.0,66419,Mrpl11,2410001P07Rik|L11mt|Q9CQF0,mitochondrial ribosomal protein L11,ENSMUSG00000024902,False,False,True
+55268.0,52430,Echdc2,1300017C12Rik|2610009M20Rik|D4Ertd765e|Q3TLP5,enoyl Coenzyme A hydratase domain containing 2,ENSMUSG00000028601,False,False,True
+1329.0,12859,Cox5b,Q9D881,cytochrome c oxidase subunit Vb,ENSMUSG00000061518,True,True,True
+36.0,66885,Acadsb,1300003O09Rik|BB066609|Q9DBL1,"acyl-Coenzyme A dehydrogenase, short/branched chain",ENSMUSG00000030861,True,False,True
+26284.0,57837,Eral1,2610524P08Rik|9130407C09Rik|AU019798|Era|M-ERA|MERA-S|MERA-W|Q9CZU4,Era (G-protein)-like 1 (E. coli),ENSMUSG00000020832,True,False,True
+23456.0,56199,Abcb10,Abc-me|Abcb12|Q9JI39,"ATP-binding cassette, sub-family B (MDR/TAP), member 10",ENSMUSG00000031974,True,False,True
+617.0,66821,Bcs1l,9130022O19Rik|Q9CZP5,BCS1-like (yeast),ENSMUSG00000026172,True,False,True
+84263.0,72479,Hsdl2,2610207I16Rik|Q2TPA8,hydroxysteroid dehydrogenase like 2,ENSMUSG00000028383,True,False,True
+152100.0,67899,Cmc1,2010110K16Rik|2010312P05Rik|AI596001|Q9CPZ8,COX assembly mitochondrial protein 1,ENSMUSG00000039163,False,True,True
+10873.0,109264,Me3,1700020C08Rik|B230207H15Rik|Q8BMF3,"malic enzyme 3, NADP(+)-dependent, mitochondrial",ENSMUSG00000030621,False,False,True
+3329.0,15510,Hspd1,60kDa|Hsp60|P63038,heat shock protein 1 (chaperonin),ENSMUSG00000025980,True,False,True
+90624.0,75530,Lyrm7,1700024C24Rik|9330147L21Rik|Q9DA03,LYR motif containing 7,ENSMUSG00000020268,True,False,True
+10102.0,66399,Tsfm,2310050B20Rik|9430024O13Rik|EF-TS|EF-Tsmt|Q9CZR8,"Ts translation elongation factor, mitochondrial",ENSMUSG00000040521,True,False,True
+23474.0,66071,Ethe1,0610025L15Rik|Hsco|Q9DCM0,ethylmalonic encephalopathy 1,ENSMUSG00000064254,True,False,True
+8659.0,212647,Aldh4a1,A930035F14Rik|Ahd-1|Ahd1|Aldh4|Aldh5a1|E330022C09|P5cd|P5cdh|P5cdhl|P5cdhs|Ssdh1|Q8CHT0,"aldehyde dehydrogenase 4 family, member A1",ENSMUSG00000028737,True,False,True
+7417.0,22334,Vdac2,Vdac6|mVDAC2|mVDAC6|Q60930,voltage-dependent anion channel 2,ENSMUSG00000021771,False,True,True
+388753.0,67892,Coa6,1810063B05Rik|AI447995|Q8BGD8,cytochrome c oxidase assembly factor 6,ENSMUSG00000051671,False,True,True
+51117.0,227683,Coq4,A330041N06|D2Ertd97e|Q8BGB8,coenzyme Q4 homolog (yeast),ENSMUSG00000026798,False,False,True
+37.0,11370,Acadvl,vlcad|P50544,"acyl-Coenzyme A dehydrogenase, very long chain",ENSMUSG00000018574,True,False,True
+3712.0,56357,Ivd,1300016K07Rik|6720455E18Rik|AI463340|Q9JHI5,isovaleryl coenzyme A dehydrogenase,ENSMUSG00000027332,True,False,True
+6576.0,13358,Slc25a1,1300019P08Rik|2610100G11Rik|AI194714|Ctp|Dgsj|Slc20a3|Q8JZU2,"solute carrier family 25 (mitochondrial carrier, citrate transporter), member 1",ENSMUSG00000003528,False,False,True
+284439.0,73095,Slc25a42,2900084M01Rik|Q8R0Y8,"solute carrier family 25, member 42",ENSMUSG00000002346,False,False,True
+11194.0,74610,Abcb8,4833412N02Rik|AA409895|Q9CXJ4,"ATP-binding cassette, sub-family B (MDR/TAP), member 8",ENSMUSG00000028973,False,False,True
+4725.0,595136,Ndufs5,AI256693|Q99LY9,NADH dehydrogenase (ubiquinone) Fe-S protein 5,ENSMUSG00000028648,False,True,True
+51081.0,50529,Mrps7,MRP-S7|Rpms7|Q80X85,mitchondrial ribosomal protein S7,ENSMUSG00000046756,True,False,True
+56922.0,72039,Mccc1,1810045E08Rik|2310058B18Rik|MCCalpha|Mcca|R75106|Q99MR8,methylcrotonoyl-Coenzyme A carboxylase 1 (alpha),ENSMUSG00000027709,False,False,True
+740.0,18120,Mrpl49,4833419D18Rik|Nof1|Q9CQ40,mitochondrial ribosomal protein L49,ENSMUSG00000007338,True,False,True
+79133.0,69487,Ndufaf5,2310003L22Rik|A2APY7,"NADH dehydrogenase (ubiquinone) complex I, assembly factor 5",ENSMUSG00000027384,True,False,True
+64965.0,69527,Mrps9,2310002A08Rik|AW322516|Mrp-S9|S9mt|mg637|Q9D7N3,mitochondrial ribosomal protein S9,ENSMUSG00000060679,True,False,True
+4716.0,68342,Ndufb10,0610011B04Rik|22kDa|PDSW|Q9DCS9,"NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 10",ENSMUSG00000040048,True,False,True
+9093.0,83945,Dnaja3,1200003J13Rik|1810053A11Rik|C81173|Tid-1|Tid1l|Q99M87,"DnaJ (Hsp40) homolog, subfamily A, member 3",ENSMUSG00000004069,True,False,True
+9801.0,56284,Mrpl19,9030416F12Rik|9130412E02Rik|D6Ertd157e|MRP-L15|RLX1|Rpml15|Q9D338,mitochondrial ribosomal protein L19,ENSMUSG00000030045,True,False,True
+4285.0,70478,Mipep,5730405E07Rik|MIP|A6H611,mitochondrial intermediate peptidase,ENSMUSG00000021993,True,False,True
+84134.0,641376,Tomm40l,Q9CZR3,translocase of outer mitochondrial membrane 40 homolog-like (yeast),ENSMUSG00000005674,False,False,True
+137872.0,76187,Adhfe1,6330565B14Rik|AI043035|Adh8|Q8R0N6,"alcohol dehydrogenase, iron containing, 1",ENSMUSG00000025911,False,False,True
+56997.0,67426,Adck3,4632432J16Rik|AI462003|Cabc1|mKIAA0451|Q60936,aarF domain containing kinase 3,ENSMUSG00000026489,True,False,True
+622.0,71911,Bdh1,2310032J20Rik|AI327223|Bdh|Q80XN0,"3-hydroxybutyrate dehydrogenase, type 1",ENSMUSG00000046598,True,False,True
+54543.0,66169,Tomm7,1110020J08Rik|AW047273|Tom7|Q9D173,translocase of outer mitochondrial membrane 7 homolog (yeast),ENSMUSG00000028998,False,False,True
+3052.0,15159,Hccs,P53702,holocytochrome c synthetase,ENSMUSG00000031352,False,True,True
+54948.0,94063,Mrpl16,2310039D06Rik|Q99N93,mitochondrial ribosomal protein L16,ENSMUSG00000024683,False,False,True
+5625.0,19125,Prodh,Pro-1|Pro1|Ym24d07|Q9WU79,proline dehydrogenase,ENSMUSG00000003526,False,False,True
+51263.0,107734,Mrpl30,2310001L22Rik|MRP-L28|Rpml28|Q9D7N6,mitochondrial ribosomal protein L30,ENSMUSG00000026087,True,False,True
+4705.0,67273,Ndufa10,2900053E13Rik|Q99LC3,NADH dehydrogenase (ubiquinone) 1 alpha subcomplex 10,ENSMUSG00000026260,False,False,True
+92935.0,212679,Mars2,C730026E21Rik|MetRS|Q499X9,methionine-tRNA synthetase 2 (mitochondrial),ENSMUSG00000046994,True,False,True
+8192.0,53895,Clpp,AU019820|D17Wsu160e|O88696,"ClpP caseinolytic peptidase, ATP-dependent, proteolytic subunit",ENSMUSG00000002660,True,False,True
+50808.0,56248,Ak3,AA407498|AI506714|AK-3|Ak3l|Ak3l1|Akl3l|Q9WTP7,adenylate kinase 3,ENSMUSG00000024782,True,False,True
+6687.0,234847,Spg7,AI452278|AU015315|Cmar|PGN|Q3ULF4,spastic paraplegia 7 homolog (human),ENSMUSG00000000738,False,False,True
+6341.0,52892,Sco1,2610001C07Rik|D11Bwg1310e|Q5SUC9,SCO cytochrome oxidase deficient homolog 1 (yeast),ENSMUSG00000069844,True,True,True
+93974.0,11983,Atpif1,Atpi|If1|O35143,ATPase inhibitory factor 1,ENSMUSG00000054428,True,False,True
+54927.0,66075,Chchd3,0610041L09Rik|1700039J09Rik|AW558177|Q9CRB9,coiled-coil-helix-coiled-coil-helix domain containing 3,ENSMUSG00000053768,True,True,True
+,338350,Acad12,9330129D05Rik|D3Z7X0,"acyl-Coenzyme A dehydrogenase family, member 12",ENSMUSG00000042647,False,False,True
+11112.0,58875,Hibadh,6430402H10Rik|AI265272|Q99L13,3-hydroxyisobutyrate dehydrogenase,ENSMUSG00000029776,True,False,True
+283459.0,384281,Gatc,2010003O18Rik|Q8CBY0,"glutamyl-tRNA(Gln) amidotransferase, subunit C homolog (bacterial)",ENSMUSG00000029536,True,False,True
+,12869,Cox8b,Cox8h|CoxVIII-H|P48772,cytochrome c oxidase subunit VIIIb,ENSMUSG00000025488,False,False,True
+81570.0,20480,Clpb,AL118244|Skd3|Q60649,ClpB caseinolytic peptidase B,ENSMUSG00000001829,False,True,True
+84233.0,66271,Tmem126a,1810020E01Rik|Q9D8Y1,transmembrane protein 126A,ENSMUSG00000030615,False,False,True
+4329.0,104776,Aldh6a1,1110038I05Rik|AI314632|Mmsdh|Q9EQ20,"aldehyde dehydrogenase family 6, subfamily A1",ENSMUSG00000021238,True,False,True
+51023.0,68735,Mrps18c,1110037D14Rik|Q8R2L5,mitochondrial ribosomal protein S18C,ENSMUSG00000016833,False,False,True
+5163.0,228026,Pdk1,B830012B01|D530020C15Rik|Q8BFP9,"pyruvate dehydrogenase kinase, isoenzyme 1",ENSMUSG00000006494,True,False,True
+10105.0,105675,Ppif,AW457192|CyP-D|CyP-F|CypD|PPIase|Q99KR7,peptidylprolyl isomerase F (cyclophilin F),ENSMUSG00000021868,True,False,True
+57128.0,380840,Lyrm4,BC034664|Gm903|Q8K215,LYR motif containing 4,ENSMUSG00000046573,True,False,True
+1891.0,51798,Ech1,AA617331|O35459,"enoyl coenzyme A hydratase 1, peroxisomal",ENSMUSG00000053898,True,False,True
+10449.0,52538,Acaa2,0610011L04Rik|AI255831|AI265397|D18Ertd240e|Q8BWT1,acetyl-Coenzyme A acyltransferase 2 (mitochondrial 3-oxoacyl-Coenzyme A thiolase),ENSMUSG00000036880,True,False,True
+4701.0,66416,Ndufa7,14.5kDa|2400007M02Rik|CI-B14.5a|Q9Z1P6,"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 7 (B14.5a)",ENSMUSG00000041881,True,False,True
+51318.0,66223,Mrpl35,1110066C01Rik|Q9CQL6,mitochondrial ribosomal protein L35,ENSMUSG00000052962,True,False,True
+5096.0,66904,Pccb,1300012P06Rik|AI314687|R74805|Q99MN9,"propionyl Coenzyme A carboxylase, beta polypeptide",ENSMUSG00000032527,False,False,True
+27235.0,71883,Coq2,2310002F18Rik|Q66JT7,"coenzyme Q2 homolog, prenyltransferase (yeast)",ENSMUSG00000029319,False,False,True
+55052.0,66448,Mrpl20,2610008D01Rik|4930425I20Rik|Q9CQL4,mitochondrial ribosomal protein L20,ENSMUSG00000029066,True,False,True
+10440.0,21854,Timm17a,17kDa|mTim17a|Q9Z0V8,translocase of inner mitochondrial membrane 17a,ENSMUSG00000062580,False,True,True
+29928.0,56322,Timm22,2610511O07Rik|Tim22|Q9CQ85,translocase of inner mitochondrial membrane 22,ENSMUSG00000020843,False,False,True
+116541.0,66047,Mrpl54,0610008M19Rik|D10Sut1e|Q9CPW3,mitochondrial ribosomal protein L54,ENSMUSG00000034932,True,False,True
+56993.0,223696,Tomm22,2310047D01|Tom22|Q9CPQ3,translocase of outer mitochondrial membrane 22 homolog (yeast),ENSMUSG00000022427,False,False,True
+1384.0,12908,Crat,AW107812|CARAT|P47934,carnitine acetyltransferase,ENSMUSG00000026853,True,False,True
+64969.0,77721,Mrps5,1620401I16Rik|AI850294|Q99N87,mitochondrial ribosomal protein S5,ENSMUSG00000027374,True,False,True
+55526.0,209692,Dhtkd1,C330018I04Rik|A2ATU0,dehydrogenase E1 and transketolase domain containing 1,ENSMUSG00000025815,True,False,True
+54968.0,70397,Tmem70,1110020A09Rik|2210416J16Rik|Q921N7,transmembrane protein 70,ENSMUSG00000025940,True,False,True
+84266.0,66400,Alkbh7,2310045B01Rik|2510008E23Rik|Abh7|Spata11|Q9D6Z0,"alkB, alkylation repair homolog 7 (E. coli)",ENSMUSG00000002661,True,False,True
+56945.0,64655,Mrps22,3100002P07Rik|Rpms22|Q9CXW2,mitochondrial ribosomal protein S22,ENSMUSG00000032459,True,False,True
+1350.0,12867,Cox7c,COXVIIc|Cox7c1|P17665,cytochrome c oxidase subunit VIIc,ENSMUSG00000017778,False,True,True
+7381.0,67530,Uqcrb,2210415M14Rik|QP-C|QPC|UQBC|UQBP|UQPC|Q9CQB4,ubiquinol-cytochrome c reductase binding protein,ENSMUSG00000021520,True,False,True
+51103.0,69702,Ndufaf1,2410001M24Rik|CGI-65|CIA30|Q9CWX2,"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, assembly factor 1",ENSMUSG00000027305,True,False,True
+27034.0,66948,Acad8,2310016C19Rik|AI786953|Q9D7B6,"acyl-Coenzyme A dehydrogenase family, member 8",ENSMUSG00000031969,True,False,True
+10352.0,70560,Wars2,5730427B17Rik|9430020O07Rik|AI413375|TrpRS|Q9CYK1,tryptophanyl tRNA synthetase 2 (mitochondrial),ENSMUSG00000004233,True,False,True
+4708.0,68198,Ndufb2,1810011O01Rik|8kDa|AGGG|AI325567|CI-AGGG|Q9CPU2,"NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 2",ENSMUSG00000002416,False,False,True
+4731.0,78330,Ndufv3,1500032D16Rik|Q8BK30,NADH dehydrogenase (ubiquinone) flavoprotein 3,ENSMUSG00000024038,True,False,True
+65993.0,79044,Mrps34,0610007F04Rik|5330430D13Rik|AV001970|Tce2|Q9JIK9,mitochondrial ribosomal protein S34,ENSMUSG00000038880,True,False,True
+292.0,11740,Slc25a5,Ant2|P51881,"solute carrier family 25 (mitochondrial carrier, adenine nucleotide translocator), member 5",ENSMUSG00000016319,False,False,True
+8604.0,78830,Slc25a12,2610002D09Rik|AI839531|B230107K20Rik|BB129864|Q8BH59,"solute carrier family 25 (mitochondrial carrier, Aralar), member 12",ENSMUSG00000027010,False,False,True
+54460.0,66292,Mrps21,1810031B19Rik|P58059,mitochondrial ribosomal protein S21,ENSMUSG00000054312,False,False,True
+22921.0,76467,Msrb2,2310050L06Rik|Mrsb|Msrb|Pilb|Q78J03,methionine sulfoxide reductase B2,ENSMUSG00000023094,True,False,True
+51218.0,73046,Glrx5,2310004O13Rik|2900070E19Rik|AU020725|Q80Y14,glutaredoxin 5 homolog (S. cerevisiae),ENSMUSG00000021102,True,False,True
+400916.0,103172,Chchd10,1620401E04Rik|AI267078|Ndg2|Q7TNL9,coiled-coil-helix-coiled-coil-helix domain containing 10,ENSMUSG00000049422,False,False,True
+80219.0,67876,Coq10b,1500041J02Rik|1700030I21Rik|9530077A17Rik|AV002237|AW742641|Q3THF9,coenzyme Q10 homolog B (S. cerevisiae),ENSMUSG00000025981,False,False,True
+1468.0,27376,Slc25a10,Dic|Q9QZD8,"solute carrier family 25 (mitochondrial carrier, dicarboxylate transporter), member 10",ENSMUSG00000025792,False,False,True
+10165.0,50799,Slc25a13,AI785475|Ctrn|Q9QXX4,"solute carrier family 25 (mitochondrial carrier, adenine nucleotide translocator), member 13",ENSMUSG00000015112,False,False,True
+253512.0,67554,Slc25a30,4933433D23Rik|AV025504|AV221431|AW319655|KMCP1|Q9CR58,"solute carrier family 25, member 30",ENSMUSG00000022003,False,False,True
+1346.0,12865,Cox7a1,COX7A|COX7AH|COX7AM|P56392,cytochrome c oxidase subunit VIIa 1,ENSMUSG00000074218,False,False,True
+60386.0,67283,Slc25a19,2900089E13Rik|DNC|MUP1|TPC|Q9DAM5,"solute carrier family 25 (mitochondrial thiamine pyrophosphate carrier), member 19",ENSMUSG00000020744,False,False,True
+91689.0,69029,Smdt1,1500032L24Rik|Q9DB10,single-pass membrane protein with aspartate rich tail 1,ENSMUSG00000022452,False,False,True
+55173.0,64657,Mrps10,1110038B19Rik|AW743084|Rpms10|G5E8U5,mitochondrial ribosomal protein S10,ENSMUSG00000034729,True,False,True
+29093.0,216767,Mrpl22,E030011D16Rik|HSPC158|MRP-L25|Rpml25|Q8BU88,mitochondrial ribosomal protein L22,ENSMUSG00000020514,True,False,True
+,114896,Afg3l1,1700047G05Rik|3110061K15Rik|Q920A7,AFG3(ATPase family gene 3)-like 1 (yeast),ENSMUSG00000031967,False,False,True
+2232.0,14149,Fdxr,Q61578,ferredoxin reductase,ENSMUSG00000018861,True,False,True
+81892.0,380773,Slirp,1810035L17Rik|Q9D8T7,SRA stem-loop interacting RNA binding protein,ENSMUSG00000021040,True,False,True
+26073.0,67811,Poldip2,1300003F06Rik|Pdip38|Q91VA6,"polymerase (DNA-directed), delta interacting protein 2",ENSMUSG00000001100,True,False,True
+197322.0,257633,Acsf3,BB101783|Q3URE1,acyl-CoA synthetase family member 3,ENSMUSG00000015016,True,False,True
+5018.0,69089,Oxa1l,1810020M02Rik|AI894287|Q8BGA9,oxidase assembly 1-like,ENSMUSG00000000959,True,False,True
+3418.0,269951,Idh2,E430004F23|IDPm|Idh-2|P54071,"isocitrate dehydrogenase 2 (NADP+), mitochondrial",ENSMUSG00000030541,True,False,True
+10632.0,27425,Atp5l,4933437C06Rik|Q9CPQ8,"ATP synthase, H+ transporting, mitochondrial F0 complex, subunit G",ENSMUSG00000038717,True,False,True
+51027.0,69168,Bola1,1810037G04Rik|Q9D8S9,bolA-like 1 (E. coli),ENSMUSG00000015943,False,False,True
+51011.0,68126,Fahd2a,1500003K14Rik|B430104H02Rik|Cgi-105|Fahd2|Q3TC72,fumarylacetoacetate hydrolase domain containing 2A,ENSMUSG00000027371,True,False,True
+144363.0,67636,Lyrm5,4930469P12Rik|AL022899|Ghiso|Q91V16,LYR motif containing 5,ENSMUSG00000040370,False,False,True
+4718.0,68197,Ndufc2,1810004I06Rik|2010300P09Rik|G1|R75094|Q9CQ54,"NADH dehydrogenase (ubiquinone) 1, subcomplex unknown, 2",ENSMUSG00000030647,False,True,True
+4702.0,68375,Ndufa8,0610033L03Rik|AW261656|Q9DCJ5,"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 8",ENSMUSG00000026895,False,True,True
+25902.0,270685,Mthfd1l,2410004L15Rik|AI647056|Fthfsdc1|Q3V3R1,methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 1-like,ENSMUSG00000040675,True,False,True
+5165.0,236900,Pdk3,2610001M10Rik|AI035637|Q922H2,"pyruvate dehydrogenase kinase, isoenzyme 3",ENSMUSG00000035232,True,False,True
+84987.0,66379,Cox14,2310016M24Rik|AA959804|Q8BH51,cytochrome c oxidase assembly protein 14,ENSMUSG00000023020,False,False,True
+51258.0,66493,Mrpl51,2610511M02Rik|CDA09|HSPC241|Mrp64|Q9CPY1,mitochondrial ribosomal protein L51,ENSMUSG00000030335,True,False,True
+2639.0,270076,Gcdh,9030411L18|AI266902|D17825|GCD|Q60759,glutaryl-Coenzyme A dehydrogenase,ENSMUSG00000003809,True,False,True
+3029.0,14651,Hagh,BC019817|Glo-2|Glo2|Rsp29|Q99KB8,hydroxyacyl glutathione hydrolase,ENSMUSG00000024158,True,False,True
+4580.0,17827,Mtx1,Gcap6|Mtx|F7C846,metaxin 1,ENSMUSG00000064068,False,False,True
+10667.0,69955,Fars2,Fars1|pheRS|Q99M01,phenylalanine-tRNA synthetase 2 (mitochondrial),ENSMUSG00000021420,True,False,True
+84869.0,234309,Cbr4,A730083J17Rik|BC009118|Q91VT4,carbonyl reductase 4,ENSMUSG00000031641,True,False,True
+64983.0,75398,Mrpl32,0610033O15Rik|Q9DCI9,mitochondrial ribosomal protein L32,ENSMUSG00000015672,True,False,True
+221545.0,69662,2310061I04Rik,B8JJ69,RIKEN cDNA 2310061I04 gene,ENSMUSG00000050705,False,False,True
+112812.0,68165,Fdx1l,B230118G17Rik|Q9CPW2,ferredoxin 1-like,ENSMUSG00000079677,True,False,True
+4508.0,17705,ATP6,P00848,ATP synthase F0 subunit 6,ENSMUSG00000064357,False,False,True
+4513.0,17709,COX2,P00405,cytochrome c oxidase subunit II,ENSMUSG00000064354,True,True,True
+10131.0,68015,Trap1,2410002K23Rik|HSP75|Q9CQN1,TNF receptor-associated protein 1,ENSMUSG00000005981,True,False,True
+2820.0,14571,Gpd2,AA408484|AI448216|AU021455|AW494132|GPDH|Gdm1|Gpd-m|Gpdh-m|TISP38|Q64521,"glycerol phosphate dehydrogenase 2, mitochondrial",ENSMUSG00000026827,False,True,True
+22.0,11306,Abcb7,AA517758|AU019072|Abc7|Q61102,"ATP-binding cassette, sub-family B (MDR/TAP), member 7",ENSMUSG00000031333,True,False,True
+3028.0,15108,Hsd17b10,17bHSD10|Ads9|ERAB|Hadh2|Q99N15,hydroxysteroid (17-beta) dehydrogenase 10,ENSMUSG00000025260,True,False,True
+2746.0,14661,Glud1,AI118167|Gdh-X|Glud|Gludl|P26443,glutamate dehydrogenase 1,ENSMUSG00000021794,True,False,True
+217.0,11669,Aldh2,Ahd-5|Ahd5|P47738,"aldehyde dehydrogenase 2, mitochondrial",ENSMUSG00000029455,True,False,True
+7284.0,233870,Tufm,2300002G02Rik|C76308|C76389|EF-TuMT|EFTU|Q8BFR5,"Tu translation elongation factor, mitochondrial",ENSMUSG00000073838,True,False,True
+10901.0,28200,Dhrs4,AI043103|AI790593|CR|D14Ucla2|NDRD|PHCR|PSCD|RRD|mouNRDR|Q99LB2,dehydrogenase/reductase (SDR family) member 4,ENSMUSG00000022210,False,False,True
+30968.0,66592,Stoml2,0610038F01Rik|MSLP2|SLP-2|Q99JB2,stomatin (Epb7.2)-like 2,ENSMUSG00000028455,True,False,True
+223.0,56752,Aldh9a1,AA139417|Abaldh|ESTM40|TMABA-DH|Tmabadh|Q9JLJ2,"aldehyde dehydrogenase 9, subfamily A1",ENSMUSG00000026687,True,False,True
+79731.0,244141,Nars2,AI875199|Q8BGV0,asparaginyl-tRNA synthetase 2 (mitochondrial)(putative),ENSMUSG00000018995,False,False,True
+23078.0,219189,Vwa8,1300010F03Rik|4932416F07Rik|AI957255|Kiaa0564|mKIAA0564|Q8CC88,von Willebrand factor A domain containing 8,ENSMUSG00000058997,True,False,True
+64949.0,99045,Mrps26,AI648866|GI008|MRP-S13|MRP-S26|Rpms13|Q80ZS3,mitochondrial ribosomal protein S26,ENSMUSG00000037740,True,False,True
+203054.0,268822,Adck5,A230108P17|Q80V03,aarF domain containing kinase 5,ENSMUSG00000022550,False,False,True
+79587.0,71941,Cars2,2310051N18Rik|2410044A07Rik|D530030H10Rik|Q8BYM8,cysteinyl-tRNA synthetase 2 (mitochondrial)(putative),ENSMUSG00000056228,True,False,True
+1352.0,70383,Cox10,2410004F01Rik|AU042636|Q8CFY5,cytochrome c oxidase assembly protein 10,ENSMUSG00000042148,False,False,True
+54539.0,104130,Ndufb11,D5Bwg0566e|D5Bwg0577e|NP15.6|Np15|O09111,"NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 11",ENSMUSG00000031059,True,True,True
+,18598,Pdha2,Pdhal|P35487,pyruvate dehydrogenase E1 alpha 2,ENSMUSG00000047674,False,False,True
+51264.0,94064,Mrpl27,A630055F16Rik|D11Moh47|D18Ertd643e|Q99N92,mitochondrial ribosomal protein L27,ENSMUSG00000024414,True,False,True
+150274.0,100900,Hscb,AI325508|AW049829|Hsc20|Q8K3A0,HscB iron-sulfur cluster co-chaperone homolog (E. coli),ENSMUSG00000043510,True,False,True
+6742.0,381760,Ssbp1,2810480P10Rik|G630031O20Rik|MtSSB|mtDBP|Q9CYR0,single-stranded DNA binding protein 1,ENSMUSG00000029911,True,False,True
+84681.0,68917,Hint2,1190005L05Rik|Q9D0S9,histidine triad nucleotide binding protein 2,ENSMUSG00000028470,True,False,True
+2109.0,110826,Etfb,0610009I16Rik|2810441H06Rik|Q9DCW4,"electron transferring flavoprotein, beta polypeptide",ENSMUSG00000004610,True,False,True
+10166.0,18408,Slc25a15,D630044L02Rik|Ornt1|Q9WVD5,"solute carrier family 25 (mitochondrial carrier ornithine transporter), member 15",ENSMUSG00000031482,False,False,True
+92106.0,218885,Oxnad1,2410002F01Rik|AW492292|BC019806|Q8VE38,oxidoreductase NAD-binding domain containing 1,ENSMUSG00000021906,True,False,True
+54205.0,13063,Cycs,P62897,"cytochrome c, somatic",ENSMUSG00000058927,False,True,True
+,13067,Cyct,T-Cc|P00015,"cytochrome c, testis",ENSMUSG00000056436,False,False,True
+6150.0,19935,Mrpl23,L23mrp|Rpl23|Rpl23l|O35972,mitochondrial ribosomal protein L23,ENSMUSG00000037772,True,False,True
+65005.0,78523,Mrpl9,8030480E20Rik|AA409733|C330013D18Rik|L9mt|Q99N94,mitochondrial ribosomal protein L9,ENSMUSG00000028140,True,False,True
+118487.0,66121,Chchd1,1110001O19Rik|2400010G13Rik|MRP-S37|Q9CQA6,coiled-coil-helix-coiled-coil-helix domain containing 1,ENSMUSG00000063787,False,False,True
+55210.0,108888,Atad3a,2400004H09Rik|Atad3|Tob3|mKIAA1273|Q925I1,"ATPase family, AAA domain containing 3A",ENSMUSG00000029036,True,True,True
+4594.0,17850,Mut,D230010K02Rik|Mcm|P16332,methylmalonyl-Coenzyme A mutase,ENSMUSG00000023921,True,False,True
+55847.0,52637,Cisd1,AU043990|AW743335|D10Ertd214e|Zcd1|mitoNEET|Q91WS0,CDGSH iron sulfur domain 1,ENSMUSG00000037710,False,False,True
+55157.0,226539,Dars2,5830468K18Rik|Q8BIP0,aspartyl-tRNA synthetase 2 (mitochondrial),ENSMUSG00000026709,True,False,True
+5832.0,56454,Aldh18a1,2810433K04Rik|AI429789|Pycs|Q9Z110,"aldehyde dehydrogenase 18 family, member A1",ENSMUSG00000025007,False,False,True
+1351.0,12868,Cox8a,COX8L|Q64445,cytochrome c oxidase subunit VIIIa,ENSMUSG00000035885,False,False,True
+54534.0,28028,Mrpl50,AA408971|AI317351|D4Wsu125e|Q8VDT9,mitochondrial ribosomal protein L50,ENSMUSG00000044018,True,False,True
+3336.0,15528,Hspe1,10kDa|Hsp10|mt-cpn10|Q64433,heat shock protein 1 (chaperonin 10),ENSMUSG00000073676,True,True,True
+64968.0,121022,Mrps6,AW046321|P58064,mitochondrial ribosomal protein S6,ENSMUSG00000039680,True,False,True
+5091.0,18563,Pcx,Pc|Pcb|E9QPD7,pyruvate carboxylase,ENSMUSG00000024892,False,False,True
+27068.0,74776,Ppa2,1110013G13Rik|Sid6306|Q91VM9,pyrophosphatase (inorganic) 2,ENSMUSG00000028013,True,False,True
+2731.0,104174,Gldc,D030049L12Rik|D19Wsu57e|Q91W43,glycine decarboxylase,ENSMUSG00000024827,True,False,True
+132001.0,68971,Tamm41,1500001M20Rik|TAM41|G5E881,"TAM41, mitochondrial translocator assembly and maintenance protein, homolog (S. cerevisiae)",ENSMUSG00000030316,False,False,True
+518.0,228033,Atp5g3,6030447M23|P56384,"ATP synthase, H+ transporting, mitochondrial F0 complex, subunit C3 (subunit 9)",ENSMUSG00000018770,False,False,True
+64978.0,60441,Mrpl38,1110036N21Rik|4733401F03Rik|MRP-L3|R75240|Rpml3|Q8K2M0,mitochondrial ribosomal protein L38,ENSMUSG00000020775,True,False,True
+55967.0,66414,Ndufa12,2410011G03Rik|AW112974|Q7TMF3,"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 12",ENSMUSG00000020022,True,False,True
+64146.0,68023,Pdf,2610019N19Rik|S4R2K0,peptide deformylase (mitochondrial),ENSMUSG00000078931,True,False,True
+80724.0,71985,Acad10,2410021P16Rik|Q8K370,"acyl-Coenzyme A dehydrogenase family, member 10",ENSMUSG00000029456,True,False,True
+80142.0,96979,Ptges2,0610038H10Rik|C79137|Gbf1|Mpges2|Pges2|Q8BWM0,prostaglandin E synthase 2,ENSMUSG00000026820,True,True,True
+515.0,11950,Atp5f1,C76477|Q9CQQ7,"ATP synthase, H+ transporting, mitochondrial F0 complex, subunit B1",ENSMUSG00000000563,True,False,True
+10476.0,71679,Atp5h,0610009D10Rik|Q9DCX2,"ATP synthase, H+ transporting, mitochondrial F0 complex, subunit D",ENSMUSG00000034566,True,False,True
+83447.0,73333,Slc25a31,1700034J06Rik|Ant4|Sfec|Q3V132,"solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 31",ENSMUSG00000069041,False,False,True
+131076.0,381045,Ccdc58,A930007B11Rik|AI413631|Q8R3Q6,coiled-coil domain containing 58,ENSMUSG00000075229,False,True,True
+64975.0,107733,Mrpl41,MRP-L27|Rpml27|Q9CQN7,mitochondrial ribosomal protein L41,ENSMUSG00000036850,True,False,True
+10587.0,26462,Txnrd2,AA118373|ESTM573010|TGR|Tr3|Trxr2|Trxrd2|Q9JLT4,thioredoxin reductase 2,ENSMUSG00000075704,True,False,True
+84693.0,73724,Mcee,1110007A04Rik|Q9D1I5,methylmalonyl CoA epimerase,ENSMUSG00000033429,False,False,True
+64087.0,78038,Mccc2,4930552N12Rik|MCCB|Q3ULD5,methylcrotonoyl-Coenzyme A carboxylase 2 (beta),ENSMUSG00000021646,False,False,True
+79810.0,68927,Ptcd2,1190005P08Rik|Q8R3K3,pentatricopeptide repeat domain 2,ENSMUSG00000021650,False,False,True
+205.0,11639,Ak4,AK 4|Ak-3|Ak-4|Ak3|Ak3l1|D4Ertd274e|Q9WUR9,adenylate kinase 4,ENSMUSG00000028527,True,False,True
+10452.0,53333,Tomm40,AW539759|Mom35|Tom40|Q9QYA2,translocase of outer mitochondrial membrane 40 homolog (yeast),ENSMUSG00000002984,False,False,True
+114789.0,227731,Slc25a25,1110030N17Rik|MCSC|mKIAA1896|A2ASZ8,"solute carrier family 25 (mitochondrial carrier, phosphate carrier), member 25",ENSMUSG00000026819,False,False,True
+171425.0,69634,Clybl,0610033J05Rik|2310014M14Rik|AI256068|Clb|Q8R4N0,citrate lyase beta like,ENSMUSG00000025545,True,False,True
+80298.0,74238,Mterfd3,1700007D05Rik|Mterf2|Q8BKY8,MTERF domain containing 3,ENSMUSG00000049038,True,False,True
+55735.0,230935,Dnajc11,E030019A03Rik|Q5U458,"DnaJ (Hsp40) homolog, subfamily C, member 11",ENSMUSG00000039768,False,False,True
+1666.0,67460,Decr1,1200012F07Rik|Decr|Nadph|Q9CQ62,"2,4-dienoyl CoA reductase 1, mitochondrial",ENSMUSG00000028223,True,False,True
+137682.0,76947,Ndufaf6,2310030N02Rik|A2AIL4,"NADH dehydrogenase (ubiquinone) complex I, assembly factor 6",ENSMUSG00000050323,False,False,True
+55005.0,66084,Rmnd1,0610042C05Rik|AA408137|AI462664|AW536662|Q8CI78,required for meiotic nuclear division 1 homolog (S. cerevisiae),ENSMUSG00000019763,False,False,True
+138428.0,329384,Ptrh1,2210013M04Rik|AW046744|Q8BW00,peptidyl-tRNA hydrolase 1 homolog (S. cerevisiae),ENSMUSG00000053746,True,False,True
+23464.0,26912,Gcat,AI526977|Kbl|O88986,glycine C-acetyltransferase (2-amino-3-ketobutyrate-coenzyme A ligase),ENSMUSG00000006378,False,False,True
+100996939.0,66459,Pyurf,2610022G08Rik|AI847956|Prey|Q9D1C3,Pigy upstream reading frame,ENSMUSG00000043162,False,False,True
+116285.0,117147,Acsm1,Acas3|Bucs1|Macs|Q91VA0,acyl-CoA synthetase medium-chain family member 1,ENSMUSG00000033533,False,False,True
+84896.0,67979,Atad1,4921525H23Rik|AW107648|Thorase|Q9D5T0,"ATPase family, AAA domain containing 1",ENSMUSG00000013662,False,False,True
+51522.0,66154,Tmem14c,1110021D01Rik|AU020193|HSPC194|Q9CQN6,transmembrane protein 14C,ENSMUSG00000021361,False,False,True
+414919.0,223665,C030006K11Rik,1110033I13Rik|Q8VE95,RIKEN cDNA C030006K11 gene,ENSMUSG00000079002,True,False,True
+56954.0,52633,Nit2,1190017B19Rik|D16Ertd502e|Q9JHW2,"nitrilase family, member 2",ENSMUSG00000022751,False,False,True
+29090.0,67105,Timm21,1700034H14Rik|2700002I20Rik|Q8CCM6,tranlocase of inner mitochondrial membrane 21,ENSMUSG00000024645,False,True,True
+115286.0,67582,Slc25a26,4930433D19Rik|4933433F13Rik|AW557176|D6Bwg0781e|Slc25a6|Q5U680,"solute carrier family 25 (mitochondrial carrier, phosphate carrier), member 26",ENSMUSG00000045100,False,False,True
+4697.0,17992,Ndufa4,MLRQ|Q62425,"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 4",ENSMUSG00000029632,False,False,True
+25996.0,104444,Rexo2,1810038D15Rik|AW107347|Sfn|Smfn|Q9D8S4,"REX2, RNA exonuclease 2 homolog (S. cerevisiae)",ENSMUSG00000032026,True,False,True
+4200.0,107029,Me2,AW120568|D030040L20Rik|NAD-ME|Q99KE1,"malic enzyme 2, NAD(+)-dependent, mitochondrial",ENSMUSG00000024556,True,False,True
+54938.0,71984,Sars2,2410015F05Rik|D7Ertd353e|SerRS|SerRSmt|Q9JJL8,seryl-aminoacyl-tRNA synthetase 2,ENSMUSG00000070699,True,False,True
+728489.0,52838,Dnlz,1110034G11Rik|D2Bwg1335e|HEP1|Q9D113,DNL-type zinc finger,ENSMUSG00000075467,True,False,True
+1160.0,76722,Ckmt2,2300008A19Rik|ScCKmit|Q6P8J7,"creatine kinase, mitochondrial 2",ENSMUSG00000021622,False,False,True
+283377.0,66701,Spryd4,4633402N23Rik|AA114801|Q91WK1,SPRY domain containing 4,ENSMUSG00000051346,True,False,True
+670.0,68021,Bphl,2010012D11Rik|5730533B08Rik|AI115341|Q8R164,"biphenyl hydrolase-like (serine hydrolase, breast epithelial mucin-associated antigen)",ENSMUSG00000038286,False,False,True
+131474.0,72170,Chchd4,2410012P20Rik|2810014D17Rik|AI838740|Q8VEA4,coiled-coil-helix-coiled-coil-helix domain containing 4,ENSMUSG00000034203,False,True,True
+51253.0,56280,Mrpl37,2300004O14Rik|AI132596|MRP-L2|Rpml2|Q921S7,mitochondrial ribosomal protein L37,ENSMUSG00000028622,True,False,True
+92014.0,230125,Slc25a51,9130208E07Rik|D130005A03Rik|Gm138|Mcart1|Q5HZI9,"solute carrier family 25, member 51",ENSMUSG00000045973,False,False,True
+54996.0,67247,Marc2,2810484M10Rik|Mosc2|mARC1|Q922Q1,mitochondrial amidoxime reducing component 2,ENSMUSG00000073481,False,False,True
+196294.0,66541,Immp1l,1500034J20Rik|2610528O17Rik|AU042386|Q9CQU8,IMP1 inner mitochondrial membrane peptidase-like (S. cerevisiae),ENSMUSG00000042670,False,False,True
+64951.0,64660,Mrps24,3110030K20Rik|AI414579|Rpms24|Q9CQV5,mitochondrial ribosomal protein S24,ENSMUSG00000020477,True,False,True
+125228.0,108654,Fam210a,4933403F05Rik|AA987140|AV134576|AW491926|Q8BGY7,"family with sequence similarity 210, member A",ENSMUSG00000038121,False,False,True
+10245.0,21855,Timm17b,17kDa|Sfc3|mTim17b|Q9Z0V7,translocase of inner mitochondrial membrane 17b,ENSMUSG00000031158,False,True,True
+23438.0,70791,Hars2,4631412B19Rik|AI593507|HARSR|HO3|Harsl|Q99KK9,"histidyl-tRNA synthetase 2, mitochondrial (putative)",ENSMUSG00000019143,True,False,True
+51241.0,66272,Cox16,1810020G14Rik|1810055I05Rik|BB388670|Q9CR63,cytochrome c oxidase assembly protein 16,ENSMUSG00000091803,False,True,True
+57107.0,71365,Pdss2,5430420P03Rik|Gm60|Plmp|kd|mDLP1|Q33DR3,"prenyl (solanesyl) diphosphate synthase, subunit 2",ENSMUSG00000038240,True,False,True
+1632.0,13177,Eci1,Dci|eci|P42125,enoyl-Coenzyme A delta isomerase 1,ENSMUSG00000024132,True,False,True
+3158.0,15360,Hmgcs2,1300002P16|mHS|P54869,3-hydroxy-3-methylglutaryl-Coenzyme A synthase 2,ENSMUSG00000027875,False,False,True
+4722.0,68349,Ndufs3,0610010M09Rik|CI-30kD|Q9DCT2,NADH dehydrogenase (ubiquinone) Fe-S protein 3,ENSMUSG00000005510,True,False,True
+79944.0,217666,L2hgdh,BC016226|Q91YP0,L-2-hydroxyglutarate dehydrogenase,ENSMUSG00000020988,True,False,True
+284273.0,225791,Zadh2,C530046K17Rik|Q8BGC4,"zinc binding alcohol dehydrogenase, domain containing 2",ENSMUSG00000049090,False,False,True
+54998.0,66077,Aurkaip1,0610033H09Rik|Aip|Akip|MRP-S38|Q9DCJ7,aurora kinase A interacting protein 1,ENSMUSG00000065990,False,False,True
+493753.0,76178,Coa5,1700001A24Rik|6330578E17Rik|Pet191|Q99M07,cytochrome C oxidase assembly factor 5,ENSMUSG00000026112,False,True,True
+7923.0,14979,H2-Ke6,D17H6S112E|H-2Ke6|Hsd17b8|Ke-6|Ke6|Ring2|P50171,H2-K region expressed gene 6,ENSMUSG00000073422,True,False,True
+4713.0,66916,Ndufb7,1110002H15Rik|Q9CR61,"NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 7",ENSMUSG00000033938,True,True,True
+125988.0,224904,2410015M20Rik,QIL1|Q8R404,RIKEN cDNA 2410015M20 gene,ENSMUSG00000049760,False,False,True
+2631.0,14467,Gbas,AV006093|Nipsnap2|Q7TMG8,glioblastoma amplified sequence,ENSMUSG00000029432,True,False,True
+57129.0,74600,Mrpl47,4833424P18Rik|CGI-204|ENSMUSG00000051761|Gm9859|L47mt|MRP-L47|MTF/L47|NCM1|Q8K2Y7,mitochondrial ribosomal protein L47,ENSMUSG00000037531,True,False,True
+51250.0,67851,1700021F05Rik,Q9CQF4,RIKEN cDNA 1700021F05 gene,ENSMUSG00000019797,False,False,True
+55471.0,73694,Ndufaf7,2410091C18Rik|AL033374|PRO1853|Q9CWG8,NADH dehydrogenase (ubiquinone) 1 alpha subcomplex assembly factor 7,ENSMUSG00000024082,True,False,True
+28976.0,229211,Acad9,2600017P15Rik|4732402K02|C630012L17Rik|NPD002|Q8JZN5,"acyl-Coenzyme A dehydrogenase family, member 9",ENSMUSG00000027710,True,False,True
+162417.0,217214,Nags,1700120E20Rik|argA|Q8R4H7,N-acetylglutamate synthase,ENSMUSG00000048217,False,False,True
+197257.0,52815,Ldhd,4733401P21Rik|D8Bwg1320e|Q7TNG8,lactate dehydrogenase D,ENSMUSG00000031958,False,False,True
+1757.0,192166,Sardh,Q99LB7,sarcosine dehydrogenase,ENSMUSG00000009614,False,False,True
+6697.0,20751,Spr,AA409688|ENSMUSG00000071345|Gm10328|Q91XH5,sepiapterin reductase,ENSMUSG00000033735,False,False,True
+128240.0,246703,Apoa1bp,AA087124|AI-BP|AIBP|Apoa1ip|ESTM37|Q8K4Z3,apolipoprotein A-I binding protein,ENSMUSG00000028070,True,False,True
+100287932.0,53600,Timm23,Tim23|Q9CXU4,translocase of inner mitochondrial membrane 23,ENSMUSG00000013701,False,True,True
+4358.0,17527,Mpv17,Tg.Mpv17|P19258,MpV17 mitochondrial inner membrane protein,ENSMUSG00000090262,False,False,True
+92170.0,212508,Mtg1,Gm169|Gtpbp7|Q8R2R6,mitochondrial GTPase 1 homolog (S. cerevisiae),ENSMUSG00000039018,True,False,True
+3416.0,15925,Ide,1300012G03Rik|4833415K22Rik|AA675336|AI507533,insulin degrading enzyme,ENSMUSG00000056999,True,False,True
+51095.0,70047,Trnt1,2410043H24Rik|2610044E04Rik|9830143O18Rik|AA408384|C76540|CGI-47|mt-Trat|Q8K1J6,"tRNA nucleotidyl transferase, CCA-adding, 1",ENSMUSG00000013736,False,False,True
+64432.0,64658,Mrps25,2810429N01Rik|Rpms25|Q9D125,mitochondrial ribosomal protein S25,ENSMUSG00000014551,True,False,True
+64928.0,68463,Mrpl14,1110006I11Rik|AI846816|MRP-L32|Rpml32|Q9D1I6,mitochondrial ribosomal protein L14,ENSMUSG00000023939,True,False,True
+10884.0,59054,Mrps30,2610020A16Rik|AA968347|PAP|Pdcd9|Q9D0G0,mitochondrial ribosomal protein S30,ENSMUSG00000021731,True,False,True
+51021.0,66242,Mrps16,1500011E11Rik|Mprs16|Q9CPX7,mitochondrial ribosomal protein S16,ENSMUSG00000049960,True,False,True
+153768.0,77619,Prelid2,1700003A01Rik|C330008K14Rik|Q0VBB0,PRELI domain containing 2,ENSMUSG00000056671,False,False,True
+6472.0,108037,Shmt2,2700043D08Rik|AA408223|AA986903|Q9CZN7,serine hydroxymethyltransferase 2 (mitochondrial),ENSMUSG00000025403,True,False,True
+6821.0,211389,Suox,Q8R086,sulfite oxidase,ENSMUSG00000049858,False,True,True
+60492.0,66365,Ccdc90b,2310015N07Rik|C86558|Q8C3X2,coiled-coil domain containing 90B,ENSMUSG00000030613,True,False,True
+51115.0,66302,Rmdn1,Fam82b|RMD-1|Q9DCV4,regulator of microtubule dynamics 1,ENSMUSG00000028229,False,True,True
+54988.0,272428,Acsm5,C730019D22|C730027J19Rik|Q8BGA8,acyl-CoA synthetase medium-chain family member 5,ENSMUSG00000030972,False,False,True
+64979.0,94066,Mrpl36,AI646041|Q99N90,mitochondrial ribosomal protein L36,ENSMUSG00000021607,False,False,True
+373156.0,76263,Gstk1,0610025I19Rik|AW260476|DsbA-L|Q9DCM2,glutathione S-transferase kappa 1,ENSMUSG00000029864,False,False,True
+154791.0,66117,1110001J03Rik,Fmc1|Q9CR13,RIKEN cDNA 1110001J03 gene,ENSMUSG00000019689,True,False,True
+3396.0,68572,Ict1,1110001A02Rik|1110002E03Rik|MRP-L58|Q8R035,immature colon carcinoma transcript 1,ENSMUSG00000018858,True,False,True
+1374.0,12894,Cpt1a,C730027G07|CPTI|Cpt1|P97742,"carnitine palmitoyltransferase 1a, liver",ENSMUSG00000024900,False,False,True
+2710.0,14933,Gyk,D930012N15Rik|GK|Q64516,glycerol kinase,ENSMUSG00000025059,False,False,True
+204.0,11637,Ak2,Ak-2|D4Ertd220e|Q9WTP6,adenylate kinase 2,ENSMUSG00000028792,False,True,True
+91574.0,72650,2810006K23Rik,Q80VP5,RIKEN cDNA 2810006K23 gene,ENSMUSG00000047635,False,False,True
+2744.0,14660,Gls,6330442B14|AI314027|B230365M23Rik|D3Z7P3,glutaminase,ENSMUSG00000026103,True,False,True
+117145.0,75778,Them4,2700077M13Rik|4921507I02Rik|Q3UUI3,thioesterase superfamily member 4,ENSMUSG00000028145,True,False,True
+26164.0,52856,Mtg2,1810011P19Rik|2900056P18Rik|D2Bwg0647e|Gtpbp5|A2AFK4,mitochondrial ribosome associated GTPase 2,ENSMUSG00000039069,True,False,True
+23590.0,56075,Pdss1,2610203G20Rik|2700031G06Rik|TPT|TPT 1|Tprt|mDLP1|mSPS1|Q33DR2,"prenyl (solanesyl) diphosphate synthase, subunit 1",ENSMUSG00000026784,True,False,True
+64963.0,67994,Mrps11,0710005I03Rik|C79873|Q3U8Y1,mitochondrial ribosomal protein S11,ENSMUSG00000030611,False,False,True
+23417.0,56690,Mlycd,AI324784|Mcd|Q99J39,malonyl-CoA decarboxylase,ENSMUSG00000074064,True,False,True
+4717.0,66377,Ndufc1,2310016K22Rik|KFYI|Q9CQY9,"NADH dehydrogenase (ubiquinone) 1, subcomplex unknown, 1",ENSMUSG00000037152,False,False,True
+285343.0,382117,Tcaim,D9Ertd402e|Gm1129|TOAG-1|Q66JZ4,"T cell activation inhibitor, mitochondrial",ENSMUSG00000046603,True,False,True
+2936.0,14782,Gsr,AI325518|D8Ertd238e|Gr-1|Gr1|P47791,glutathione reductase,ENSMUSG00000031584,True,False,True
+57038.0,109093,Rars2,1500002I10Rik|PRO1992|Rarsl|Q3U186,"arginyl-tRNA synthetase 2, mitochondrial",ENSMUSG00000028292,True,False,True
+7419.0,22335,Vdac3,Q60931,voltage-dependent anion channel 3,ENSMUSG00000008892,False,False,True
+1678.0,30058,Timm8a1,DXHXS1274E|Ddp1|Fci-12|Tim8a|Timm8a|Q9WVA2,translocase of inner mitochondrial membrane 8A1,ENSMUSG00000045455,False,False,True
+51660.0,55951,Mpc1,0610006G08Rik|3830411I18Rik|Brp44l|P63030,mitochondrial pyruvate carrier 1,ENSMUSG00000023861,False,False,True
+79751.0,68267,Slc25a22,1300006L01Rik|AI060884|Gc1|Q9D6M3,"solute carrier family 25 (mitochondrial carrier, glutamate), member 22",ENSMUSG00000019082,False,False,True
+83733.0,71803,Slc25a18,1500015I14Rik|AW125787|Q9DB41,"solute carrier family 25 (mitochondrial carrier), member 18",ENSMUSG00000004902,False,False,True
+29957.0,229731,Slc25a24,2610016M12Rik|Q8BMD8,"solute carrier family 25 (mitochondrial carrier, phosphate carrier), member 24",ENSMUSG00000040322,False,True,True
+8165.0,11640,Akap1,AKAP121|AKAP84|Akap|C76494|C81186|DAKAP1|S-AKAP84|O08715,A kinase (PRKA) anchor protein 1,ENSMUSG00000018428,False,False,True
+10455.0,23986,Eci2,Acbd2|Drs1|Hca88|Peci|Q9WUR2,enoyl-Coenzyme A delta isomerase 2,ENSMUSG00000021417,True,False,True
+29960.0,68017,Ftsj2,2310037B18Rik|Q9CPY0,FtsJ homolog 2 (E. coli),ENSMUSG00000029557,False,False,True
+387787.0,67164,Lipt2,2610209A20Rik|Q9D009,lipoyl(octanoyl) transferase 2 (putative),ENSMUSG00000030725,False,False,True
+80224.0,76826,Nubpl,2410170E07Rik|Q9CWD8,nucleotide binding protein-like,ENSMUSG00000035142,False,False,True
+94081.0,14057,Sfxn1,2810002O05Rik|A930015P12Rik|f|Q99JR1,sideroflexin 1,ENSMUSG00000021474,False,False,True
+10463.0,109108,Slc30a9,2310024J23Rik|AL024256|GAC63|HUEL|Q5IRJ6,"solute carrier family 30 (zinc transporter), member 9",ENSMUSG00000029221,True,False,True
+2628.0,67092,Gatm,1810003P21Rik|AI314789|AT|Q9D964,glycine amidinotransferase (L-arginine:glycine amidinotransferase),ENSMUSG00000027199,False,False,True
+586.0,12035,Bcat1,BCATc|Eca39|P24288,"branched chain aminotransferase 1, cytosolic",ENSMUSG00000030268,False,False,True
+51499.0,69076,Triap1,1810015M01Rik|AU020874|AU043831|P53csv|Wf-1|Q9D8Z2,TP53 regulated inhibitor of apoptosis 1,ENSMUSG00000029535,False,False,True
+1371.0,12892,Cpox,CPX|Cpo|HCP|cac|nct|P36552,coproporphyrinogen oxidase,ENSMUSG00000022742,True,True,True
+63929.0,321003,Xpnpep3,APP3|E430012M05Rik|B7ZMP1,"X-prolyl aminopeptidase (aminopeptidase P) 3, putative",ENSMUSG00000022401,True,False,True
+50640.0,67452,Pnpla8,1200006O19Rik|AI467579|Ipla2(gamma)|Q8K1N1,patatin-like phospholipase domain containing 8,ENSMUSG00000036257,True,False,True
+90480.0,102060,Gadd45gip1,2310040G17Rik|AI425883|Crif1|MRP-L59|Plinp1|Q9CR59,"growth arrest and DNA-damage-inducible, gamma interacting protein 1",ENSMUSG00000033751,True,False,True
+2671.0,11692,Gfer,Alr|ERV1|P56213,"growth factor, erv1 (S. cerevisiae)-like (augmenter of liver regeneration)",ENSMUSG00000040888,False,False,True
+51335.0,83485,Ngrn,AW552001|Q99KS2,"neugrin, neurite outgrowth associated",ENSMUSG00000047084,True,False,True
+78988.0,67840,Mrp63,2610025P17Rik|AV005697|Q9CQF8,mitochondrial ribosomal protein 63,ENSMUSG00000021967,True,False,True
+4696.0,66091,Ndufa3,1010001M12Rik|1700022J01Rik|Q9CQ91,"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 3",ENSMUSG00000035674,False,False,True
+55037.0,69956,Ptcd3,2610034F17Rik|2810422B04Rik|AA589622|AU045708|MRP-S39|Q14C51,pentatricopeptide repeat domain 3,ENSMUSG00000063884,True,False,True
+84311.0,67036,Mrpl45,2600005P05Rik|AU043542|R75241|Q9D0Q7,mitochondrial ribosomal protein L45,ENSMUSG00000018882,True,False,True
+8034.0,73132,Slc25a16,3110021G18Rik|GDA|GDC|HGT.1|ML7|Q8C0K5,"solute carrier family 25 (mitochondrial carrier, Graves disease autoantigen), member 16",ENSMUSG00000071253,False,False,True
+7350.0,22227,Ucp1,AI385626|Slc25a7|Ucp|P12242,"uncoupling protein 1 (mitochondrial, proton carrier)",ENSMUSG00000031710,False,False,True
+80222.0,71807,Tars2,2610024N01Rik|AI429208|Tarsl1|Q3UQ84,"threonyl-tRNA synthetase 2, mitochondrial (putative)",ENSMUSG00000028107,True,False,True
+54802.0,66966,Trit1,2310075G14Rik|AI314189|AI314635|AV099619|IPT|MOD5|Q80UN9,tRNA isopentenyltransferase 1,ENSMUSG00000028653,True,False,True
+4706.0,70316,Ndufab1,2210401F17Rik|2310039H15Rik|2610003B19Rik|8kDa|9130423F15Rik|ACP|CI-SDAP|SDAP|Q9CR21,"NADH dehydrogenase (ubiquinone) 1, alpha/beta subcomplex, 1",ENSMUSG00000030869,True,False,True
+,71832,Csl,1700007H16Rik|Q80X68,citrate synthase like,ENSMUSG00000046934,False,False,True
+51012.0,66390,Slmo2,2310042G06Rik|AA407013|Q9CYY7,slowmo homolog 2 (Drosophila),ENSMUSG00000016257,False,False,True
+51629.0,68066,Slc25a39,3010027G13Rik|D11Ertd333e|Q9D8K8,"solute carrier family 25, member 39",ENSMUSG00000018677,False,False,True
+23787.0,56462,Mtch1,2310034O17Rik|AI255158|AU018396|C77849|PSAP|Q791T5,mitochondrial carrier homolog 1 (C. elegans),ENSMUSG00000024012,False,False,True
+9812.0,66839,0610009O20Rik,2700004E22Rik|Dele|Kiaa0141|Q9DCV6,RIKEN cDNA 0610009O20 gene,ENSMUSG00000024442,False,False,True
+,113868,Acaa1a,Acaa|Acaa1|D9Ertd25e|PTL|Q921H8,acetyl-Coenzyme A acyltransferase 1A,ENSMUSG00000036138,False,False,True
+55856.0,66834,Acot13,0610006O17Rik|Them2|Q9CQR4,acyl-CoA thioesterase 13,ENSMUSG00000006717,False,False,True
+51079.0,67184,Ndufa13,2700054G14Rik|AU022060|CDA016|CGI-39|GRIM-19|Grim19|F6W8I0,"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 13",ENSMUSG00000036199,False,True,True
+64902.0,268782,Agxt2,AI303810|AI663818|Q3UEG6,alanine-glyoxylate aminotransferase 2,ENSMUSG00000089678,False,False,True
+83642.0,223776,Selo,1300018J18Rik|Q9DBC0,selenoprotein O,ENSMUSG00000035757,False,False,True
+339229.0,66431,Oxld1,1810049H13Rik|Q9CR10,oxidoreductase like domain containing 1,ENSMUSG00000039670,False,False,True
+9927.0,170731,Mfn2,D630023P19Rik|Fzo|Q80U63,mitofusin 2,ENSMUSG00000029020,False,False,True
+4817.0,27045,Nit1,AI255805|ESTM30|W57327|Q8VDK1,nitrilase 1,ENSMUSG00000013997,True,False,True
+4482.0,110265,Msra,2310045J23Rik|6530413P12Rik|MSR-A|Q9D6Y7,methionine sulfoxide reductase A,ENSMUSG00000054733,False,False,True
+55349.0,218865,Chdh,AU041472|D630034H06Rik|Q8BJ64,choline dehydrogenase,ENSMUSG00000015970,True,False,True
+84701.0,84682,Cox4i2,Cox4b|CoxIV-2|Q91W29,cytochrome c oxidase subunit IV isoform 2,ENSMUSG00000009876,False,False,True
+7263.0,22117,Tst,Rhodanese|P52196,"thiosulfate sulfurtransferase, mitochondrial",ENSMUSG00000044986,True,False,True
+114294.0,80907,Lactb,LACT-1|Lact1|Mrpl56|Q9EP89,"lactamase, beta",ENSMUSG00000032370,False,True,True
+84334.0,68020,Apopt1,1700081D05Rik|2810002N01Rik|Apop-1|Apop1|Q9CQW7,"apoptogenic, mitochondrial 1",ENSMUSG00000037787,False,False,True
+58510.0,56189,Prodh2,2510028N04Rik|2510038B11Rik|MmPOX|MmPOX1|POX1|Q8VCZ9,proline dehydrogenase (oxidase) 2,ENSMUSG00000036892,False,False,True
+1349.0,66142,Cox7b,1100001F07Rik|1110004F07Rik|C80563|P56393,cytochrome c oxidase subunit VIIb,ENSMUSG00000031231,False,False,True
+51022.0,69367,Glrx2,1700010P22Rik|AI645710|Grx2|Q923X4,glutaredoxin 2 (thioltransferase),ENSMUSG00000018196,False,False,True
+219.0,72535,Aldh1b1,2700007F14Rik|Q9CZS1,"aldehyde dehydrogenase 1 family, member B1",ENSMUSG00000035561,True,False,True
+4709.0,66495,Ndufb3,2700033I16Rik|AI415450|Q9CQZ6,NADH dehydrogenase (ubiquinone) 1 beta subcomplex 3,ENSMUSG00000026032,True,True,True
+55862.0,52665,Echdc1,1700028A24Rik|AI314462|AI930038|D10Ertd667e|MMCD|Q9D9V3,enoyl Coenzyme A hydratase domain containing 1,ENSMUSG00000019883,False,False,True
+1962.0,74147,Ehhadh,1300002P22Rik|HD|L-PBE|LBFP|LBP|MFP|MFP1|PBFE|Q9DBM2,"enoyl-Coenzyme A, hydratase/3-hydroxyacyl Coenzyme A dehydrogenase",ENSMUSG00000022853,False,False,True
+55687.0,72026,Trmu,1110005N20Rik|1600025P05Rik|AI314320|Trmt1|Q9DAT5,tRNA 5-methylaminomethyl-2-thiouridylate methyltransferase,ENSMUSG00000022386,True,False,True
+57176.0,68915,Vars2,1190004I24Rik|Vars2l|mKIAA1885|Q3U2A8,"valyl-tRNA synthetase 2, mitochondrial (putative)",ENSMUSG00000038838,True,False,True
+64745.0,52535,Mettl17,2310032K15Rik|D14Ertd209e|Mett11d1|Q3U2U7,methyltransferase like 17,ENSMUSG00000004561,False,False,True
+10157.0,30956,Aass,LKR|LKR/SDH|LOR|LOR/SDH|Lorsdh|SDH|Q99K67,aminoadipate-semialdehyde synthase,ENSMUSG00000029695,True,False,True
+51166.0,23923,Aadat,AI875679|Aadt|KATII|Kat2|mKat-2|Q9WVM8,aminoadipate aminotransferase,ENSMUSG00000057228,False,False,True
+126328.0,69875,Ndufa11,2010012C24Rik|AV006275|B14.7|G5E814,NADH dehydrogenase (ubiquinone) 1 alpha subcomplex 11,ENSMUSG00000002379,False,True,True
+123096.0,214663,Slc25a29,C030003J19Rik|CACL|mCACL|Q8BL03,"solute carrier family 25 (mitochondrial carrier, palmitoylcarnitine transporter), member 29",ENSMUSG00000021265,False,False,True
+89874.0,217593,Slc25a21,9930033G19Rik|A630030I10|BB158148|Q8BZ09,"solute carrier family 25 (mitochondrial oxodicarboxylate carrier), member 21",ENSMUSG00000035472,False,False,True
+347411.0,245347,Gm4984,AI428901|EG245347,predicted pseudogene 4984,,False,False,True
+10797.0,17768,Mthfd2,AW558851|NMDMC|P18155,"methylenetetrahydrofolate dehydrogenase (NAD+ dependent), methenyltetrahydrofolate cyclohydrolase",ENSMUSG00000005667,True,False,True
+326625.0,77697,Mmab,9130222L19Rik|ATR|Q9D273,methylmalonic aciduria (cobalamin deficiency) type B homolog (human),ENSMUSG00000029575,True,False,True
+3295.0,15488,Hsd17b4,17-beta-HSD|17[b]-HSD|4|DBP|MFE-2|MFP2|MPF-2|Mfp-2|perMFE-2|P51660,hydroxysteroid (17-beta) dehydrogenase 4,ENSMUSG00000024507,False,False,True
+23530.0,18115,Nnt,4930423F13Rik|AI323702|BB168308|Q8C1W8,nicotinamide nucleotide transhydrogenase,,True,False,True
+8834.0,216821,Tmem11,5730466P16Rik|AA409091|Q8BK08,transmembrane protein 11,ENSMUSG00000043284,False,False,True
+55178.0,67390,Rnmtl1,4833420N02Rik|AI255153|HC90|Q5ND52,RNA methyltransferase like 1,ENSMUSG00000038046,True,False,True
+10247.0,15473,Hrsp12,HR12|HRP12|P52760,heat-responsive protein 12,ENSMUSG00000022323,True,False,True
+1339.0,12862,Cox6a2,CoxVIaH|VIaH|P43023,cytochrome c oxidase subunit VIa polypeptide 2,ENSMUSG00000030785,False,False,True
+9997.0,100126824,Sco2,Q8VCL2,SCO cytochrome oxidase deficient homolog 2 (yeast),ENSMUSG00000091780,False,True,True
+285521.0,231430,Cox18,BC038311|Q8VC74,cytochrome c oxidase assembly protein 18,ENSMUSG00000035505,False,False,True
+2653.0,68133,Gcsh,1100001L02Rik|5730591C18Rik|Q91WK5,glycine cleavage system protein H (aminomethyl carrier),ENSMUSG00000034424,True,False,True
+29958.0,74129,Dmgdh,1200014D15Rik|AI787269|Q9DBT9,dimethylglycine dehydrogenase precursor,ENSMUSG00000042102,False,False,True
+112724.0,108841,Rdh13,8430425D21Rik|Q8CEE7,retinol dehydrogenase 13 (all-trans and 9-cis),ENSMUSG00000008435,False,False,True
+57226.0,108755,Lyrm2,2610208E05Rik|Q8R033,LYR motif containing 2,ENSMUSG00000045854,True,False,True
+25824.0,54683,Prdx5,AOEB166|AOPP|Pmp20|Prdx6|PrxV|P99029,peroxiredoxin 5,ENSMUSG00000024953,True,False,True
+79568.0,68115,9430016H08Rik,AA409999|C78988|Q8BHE8,RIKEN cDNA 9430016H08 gene,ENSMUSG00000025971,False,False,True
+2954.0,14874,Gstz1,MAAI|Q9WVL0,glutathione transferase zeta 1 (maleylacetoacetate isomerase),ENSMUSG00000021033,True,False,True
+56652.0,226153,Peo1,D19Ertd626e|PEO|Twinl|Q8CIW5,progressive external ophthalmoplegia 1 (human),ENSMUSG00000025209,True,False,True
+79736.0,68550,Tefm,1110002N22Rik|Q5SSK3,"transcription elongation factor, mitochondrial",ENSMUSG00000046909,True,False,True
+28958.0,52469,Coa3,1810033A19Rik|Ccdc56|D11Ertd99e|HSPC009|Q9D2R6,cytochrome C oxidase assembly factor 3,ENSMUSG00000017188,True,True,True
+63933.0,76137,Mcur1,6230416A05Rik|AU015498|AV136929|AW554392|C88263|Ccdc90a|Q9CXD6,mitochondrial calcium uniporter regulator 1,ENSMUSG00000021371,True,False,True
+3155.0,15356,Hmgcl,AW476067|HL|P38060,3-hydroxy-3-methylglutaryl-Coenzyme A lyase,ENSMUSG00000028672,True,False,True
+5106.0,74551,Pck2,1810010O14Rik|9130022B02Rik|PEPCK-M|Q8BH04,phosphoenolpyruvate carboxykinase 2 (mitochondrial),ENSMUSG00000040618,False,False,True
+55347.0,213012,Abhd10,Q6PE15,abhydrolase domain containing 10,ENSMUSG00000033157,True,True,True
+283951.0,214489,BC003965,Ccsmst1|Q6RUT7,cDNA sequence BC003965,ENSMUSG00000067722,False,True,True
+10965.0,171210,Acot2,AA571646|MTE-I|Mte1|Q9QYR9,acyl-CoA thioesterase 2,ENSMUSG00000021226,False,False,True
+212.0,11656,Alas2,ALAS|ALAS-E|ALASE|Alas-2|P08680,"aminolevulinic acid synthase 2, erythroid",ENSMUSG00000025270,False,False,True
+6296.0,20216,Acsm3,Sa|Sah|Q3UNX5,acyl-CoA synthetase medium-chain family member 3,ENSMUSG00000030935,False,False,True
+140823.0,67067,Romo1,2010100O12Rik|AI853864|P60603,reactive oxygen species modulator 1,ENSMUSG00000067847,False,True,True
+54148.0,27393,Mrpl39,C21orf8|MRP-L5|ORF22|Rpml5|Q9JKF7,mitochondrial ribosomal protein L39,ENSMUSG00000022889,True,False,True
+89941.0,214952,Rhot2,Arht2|Miro2|Q8JZN7,"ras homolog gene family, member T2",ENSMUSG00000025733,False,False,True
+25994.0,56295,Higd1a,2210020B17Rik|7420700H20Rik|AI303276|AW049839|HIMP1|Hig1|Q9JLR9,"HIG1 domain family, member 1A",ENSMUSG00000038412,False,True,True
+9238.0,21379,Tbrg4,2310042P22Rik|AA120735|AA408001|AI527316|Cpr2|R74877|Tb-12|mKIAA0948|Q91YM4,transforming growth factor beta regulated gene 4,ENSMUSG00000000384,True,False,True
+79135.0,68316,Apoo,0610008C08Rik|1110019O03Rik|Q9DCZ4,apolipoprotein O,ENSMUSG00000049233,False,True,True
+54704.0,381511,Pdp1,Gm1024|Ppm2c|Q3UV70,pyruvate dehyrogenase phosphatase catalytic subunit 1,ENSMUSG00000049225,True,False,True
+29103.0,66148,Dnajc15,1110003P16Rik|Dnajd1|Q78YY6,"DnaJ (Hsp40) homolog, subfamily C, member 15",ENSMUSG00000022013,False,False,True
+587.0,12036,Bcat2,Bcat-2|Eca40|O35855,"branched chain aminotransferase 2, mitochondrial",ENSMUSG00000030826,True,False,True
+5825.0,19299,Abcd3,AI313901|AU018866|AW146054|PMP68|PMP70|Pxmp1|P55096,"ATP-binding cassette, sub-family D (ALD), member 3",ENSMUSG00000028127,False,False,True
+1373.0,227231,Cps1,4732433M03Rik|CPS|D1Ucla3|Q8C196,carbamoyl-phosphate synthetase 1,ENSMUSG00000025991,True,False,True
+9556.0,70257,2010107E04Rik,9430003J03Rik|AU043134|AV124504|Mp68|P56379,RIKEN cDNA 2010107E04 gene,ENSMUSG00000021290,False,False,True
+4942.0,18242,Oat,AI194874|P29758,ornithine aminotransferase,ENSMUSG00000030934,True,False,True
+51179.0,56185,Hao2,AI325478|Hao-2|Hao3|Haox3|Q9NYQ2,hydroxyacid oxidase 2,ENSMUSG00000027870,False,False,True
+,71776,Tha1,1300017K07Rik|GLY1|Q6XPS7,threonine aldolase 1,ENSMUSG00000017713,False,False,True
+3032.0,231086,Hadhb,4930479F15Rik|Mtpb|TP-beta|Q99JY0,"hydroxyacyl-Coenzyme A dehydrogenase/3-ketoacyl-Coenzyme A thiolase/enoyl-Coenzyme A hydratase (trifunctional protein), beta subunit",ENSMUSG00000059447,False,False,True
+57665.0,105014,Rdh14,3110030G19Rik|AW215439|PAN2|Q9ERI6,retinol dehydrogenase 14 (all-trans and 9-cis),ENSMUSG00000020621,False,False,True
+79675.0,320720,Fastkd1,5330408N05Rik|mKIAA1800|Q6DI86,FAST kinase domains 1,ENSMUSG00000027086,True,False,True
+11238.0,56078,Car5b,7330410H16Rik|CAVB|Ca5b|CarVb|D730005F19Rik|Q9QZA0,"carbonic anhydrase 5b, mitochondrial",ENSMUSG00000031373,False,False,True
+134266.0,17714,Grpel2,mt-GrpE#2|mt-Grpel2|O88396,"GrpE-like 2, mitochondrial",ENSMUSG00000024580,True,False,True
+51373.0,66258,Mrps17,1810006P02Rik|Mprs17|Q9CQE3,mitochondrial ribosomal protein S17,ENSMUSG00000034211,False,False,True
+51601.0,623661,Lipt1,EG623661|Q8VCM4,lipoyltransferase 1,ENSMUSG00000037216,False,False,True
+9673.0,229517,Slc25a44,6720482A19|B430110G05Rik|Q8BGF9,"solute carrier family 25, member 44",ENSMUSG00000050144,False,False,True
+1854.0,110074,Dut,5031412I06Rik|5133400F09Rik|D2Bwg0749e|Dutp|dUTPase|Q8VCG1,deoxyuridine triphosphatase,ENSMUSG00000027203,False,False,True
+83943.0,93757,Immp2l,AI853880|IMP2|Q8BPT6,IMP2 inner mitochondrial membrane peptidase-like (S. cerevisiae),ENSMUSG00000056899,False,False,True
+90639.0,68033,Cox19,1810074D02Rik|2810437L13Rik|Q8K0C8,cytochrome c oxidase assembly protein 19,ENSMUSG00000045438,False,False,True
+160428.0,216188,Aldh1l2,D330038I09Rik|mtFDH|Q8K009,"aldehyde dehydrogenase 1 family, member L2",ENSMUSG00000020256,True,False,True
+51142.0,14004,Chchd2,AL033347|Etohi6|Q9D1L0,coiled-coil-helix-coiled-coil-helix domain containing 2,ENSMUSG00000070493,False,True,True
+23761.0,320951,Pisd,9030221M09Rik|Q8BSF4,phosphatidylserine decarboxylase,ENSMUSG00000023452,False,False,True
+54677.0,74114,Crot,1200003H03Rik|Q9DC50,carnitine O-octanoyltransferase,ENSMUSG00000003623,False,False,True
+84273.0,56412,Noa1,2610024G14Rik|AU022345|AtNOS1|mAtNOS1|Q9JJG9,nitric oxide associated 1,ENSMUSG00000036285,True,False,True
+284184.0,208501,1810043H04Rik,A2AMZ4,RIKEN cDNA 1810043H04 gene,ENSMUSG00000078572,False,False,True
+30.0,235674,Acaa1b,Q8VCH0,acetyl-Coenzyme A acyltransferase 1B,ENSMUSG00000010651,False,False,True
+54516.0,108853,Mtrf1l,9130004K12Rik|Q8BJU9,mitochondrial translational release factor 1-like,ENSMUSG00000019774,False,False,True
+91419.0,68876,Xrcc6bp1,1110068E08Rik|2410012H02Rik|Q9CWQ3,XRCC6 binding protein 1,ENSMUSG00000025436,False,False,True
+10730.0,27377,Yme1l1,FtsH1|Ftsh|O88967,YME1-like 1 (S. cerevisiae),ENSMUSG00000026775,False,True,True
+501.0,110695,Aldh7a1,Atq1|D18Wsu181e|Q9DBF1,"aldehyde dehydrogenase family 7, member A1",ENSMUSG00000053644,True,False,True
+27440.0,214932,Cecr5,A930002G03Rik|Q91WM2,"cat eye syndrome chromosome region, candidate 5",ENSMUSG00000058979,True,False,True
+79145.0,66433,Chchd7,1810049H20Rik|Q8K2Q5,coiled-coil-helix-coiled-coil-helix domain containing 7,ENSMUSG00000042198,False,False,True
+57486.0,75805,Nln,4930472G13Rik|C79345|Q91YP2,neurolysin (metallopeptidase M3 family),ENSMUSG00000021710,True,False,True
+55066.0,319518,Pdpr,4930402E16Rik|AU018056|mKIAA1990|Q7TSQ8,pyruvate dehydrogenase phosphatase regulatory subunit,ENSMUSG00000033624,True,False,True
+91942.0,75597,Ndufaf2,1810058I14Rik|C86051|Ndufa12l|mimitin|Q59J78,"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, assembly factor 2",ENSMUSG00000068184,True,False,True
+22868.0,75619,Fastkd2,2810421I24Rik|Q922E6,FAST kinase domains 2,ENSMUSG00000025962,True,False,True
+79877.0,68087,Dcakd,3010024O21Rik|6720485C15Rik|AI849483|Q8BHC4,dephospho-CoA kinase domain containing,ENSMUSG00000020935,False,False,True
+56948.0,654795,Sdr39u1,2310014G06Rik|Q5M8N4,"short chain dehydrogenase/reductase family 39U, member 1",ENSMUSG00000022223,False,False,True
+2617.0,353172,Gars,GENA202|Gena201|Nmf249|Sgrp23|Q9CZD3,glycyl-tRNA synthetase,ENSMUSG00000029777,False,False,True
+10975.0,66594,Uqcr11,0710008D09Rik|AL022707|Uqcr|Q9CPX8,"ubiquinol-cytochrome c reductase, complex III subunit XI",ENSMUSG00000020163,False,False,True
+124454.0,67417,Ears2,3230401I01Rik|AL024049|mKIAA1970|Q9CXJ1,glutamyl-tRNA synthetase 2 (mitochondrial)(putative),ENSMUSG00000030871,True,False,True
+26515.0,14356,Timm10b,Fxc1|Tim10b|Tim9b|Q9WV96,translocase of inner mitochondrial membrane 10B,ENSMUSG00000089847,False,True,True
+125965.0,333182,Cox6b2,1700067P11Rik|BC048670|COXVIB2|Q80ZN9,cytochrome c oxidase subunit VIb polypeptide 2,ENSMUSG00000051811,False,False,True
+64756.0,230649,Atpaf1,6330547J17Rik|AI593252|ATP11|ATP11p|H3BLL2,ATP synthase mitochondrial F1 complex assembly factor 1,ENSMUSG00000028710,True,False,True
+83752.0,66887,Lonp2,1300002A08Rik|AU015403|Lonp|Q9DBN5,"lon peptidase 2, peroxisomal",ENSMUSG00000047866,False,False,True
+81855.0,94280,Sfxn3,Q91V61,sideroflexin 3,ENSMUSG00000025212,False,False,True
+6566.0,20501,Slc16a1,AL022710|Mct1|P53986,"solute carrier family 16 (monocarboxylic acid transporters), member 1",ENSMUSG00000032902,False,False,True
+225.0,26874,Abcd2,ABC39|ALDL1|ALDR|ALDRP|Q61285,"ATP-binding cassette, sub-family D (ALD), member 2",ENSMUSG00000055782,False,False,True
+58472.0,59010,Sqrdl,0610039J17Rik|4930557M22Rik|Q9R112,sulfide quinone reductase-like (yeast),ENSMUSG00000005803,False,False,True
+25961.0,67725,Nudt13,4933433B15Rik|Q8JZU0,nudix (nucleoside diphosphate linked moiety X)-type motif 13,ENSMUSG00000021809,False,False,True
+23408.0,68346,Sirt5,0610012J09Rik|1500032M05Rik|AV001953|Q8K2C6,sirtuin 5,ENSMUSG00000054021,True,False,True
+84129.0,102632,Acad11,5730439E10Rik|AI987948|Q80XL6,"acyl-Coenzyme A dehydrogenase family, member 11",ENSMUSG00000090150,False,False,True
+5498.0,19044,Ppox,Ppo|P51175,protoporphyrinogen oxidase,ENSMUSG00000062729,True,False,True
+728294.0,98314,D2hgdh,AA408776|AA408778|AI325464|Q8CIM3,D-2-hydroxyglutarate dehydrogenase,ENSMUSG00000073609,True,False,True
+56616.0,66593,Diablo,0610041G12Rik|1700006L01Rik|AU040403|Smac|Q9JIQ3,diablo homolog (Drosophila),ENSMUSG00000029433,False,True,True
+283130.0,107375,Slc25a45,AW491445|Q8CFJ7,"solute carrier family 25, member 45",ENSMUSG00000024818,False,False,True
+54902.0,72795,Ttc19,2010204O13Rik|2810460C24Rik|AI505442|Q8CC21,tetratricopeptide repeat domain 19,ENSMUSG00000042298,False,True,True
+189.0,11611,Agxt,AGT|Agt1|Agxt1|SPT|O35423,alanine-glyoxylate aminotransferase,ENSMUSG00000026272,False,False,True
+80017.0,217830,9030617O03Rik,Q8BH86,RIKEN cDNA 9030617O03 gene,ENSMUSG00000021185,True,False,True
+123263.0,69606,Mtfmt,2310020P08Rik|Q9D799,mitochondrial methionyl-tRNA formyltransferase,ENSMUSG00000059183,True,False,True
+4512.0,17708,COX1,CoxI|P00397,cytochrome c oxidase subunit I,ENSMUSG00000064351,False,True,True
+2021.0,13804,Endog,O08600,endonuclease G,ENSMUSG00000015337,False,True,True
+26355.0,70186,Fam162a,2310056P07Rik|HGTD-P|Q9D6U8,"family with sequence similarity 162, member A",ENSMUSG00000003955,True,True,True
+9551.0,57423,Atp5j2,1110019H14Rik|P56135,"ATP synthase, H+ transporting, mitochondrial F0 complex, subunit F2",ENSMUSG00000038690,False,False,True
+51650.0,14548,Mrps33,AI841153|CGI-139|Gdap3|MRP-S33|PTD003|Q9D2R8,mitochondrial ribosomal protein S33,ENSMUSG00000029918,False,False,True
+51300.0,76916,Timmdc1,2810021C21Rik|4930455C21Rik|AV135763|Q8BUY5,translocase of inner mitochondrial membrane domain containing 1,ENSMUSG00000002846,True,True,True
+27165.0,216456,Gls2,A330074B06Rik|AI195532|GA|GLS|Lga|Q571F8,"glutaminase 2 (liver, mitochondrial)",ENSMUSG00000044005,False,False,True
+7019.0,21780,Tfam,AI661103|Hmgts|mtTFA|tsHMG|P40630,"transcription factor A, mitochondrial",ENSMUSG00000003923,True,False,True
+51295.0,26940,Ecsit,Sitpec|Q9QZH6,ECSIT homolog (Drosophila),ENSMUSG00000066839,True,False,True
+57380.0,380836,Mrs2,Gm902|HPT|Mrs2l|RPT|Q5NCE8,MRS2 magnesium homeostasis factor homolog (S. cerevisiae),ENSMUSG00000021339,True,False,True
+10058.0,74104,Abcb6,1200005B17Rik|Q9DC29,"ATP-binding cassette, sub-family B (MDR/TAP), member 6",ENSMUSG00000026198,False,False,True
+10478.0,20524,Slc25a17,34kDa|47kDa|PMP34|Pmp47|O70579,"solute carrier family 25 (mitochondrial carrier, peroxisomal membrane protein), member 17",ENSMUSG00000022404,False,False,True
+56181.0,76824,Mtfr1l,2410166I05Rik|AI480750|Fam54b|Q9CWE0,mitochondrial fission regulator 1-like,ENSMUSG00000046671,False,False,True
+51056.0,66988,Lap3,2410015L10Rik|AA410100|LAP-3|Lap|Lapep|Pep-7|Pep-S|Pep7|Peps|Q9CPY7,leucine aminopeptidase 3,ENSMUSG00000039682,True,False,True
+84706.0,108682,Gpt2,4631422C05Rik|ALT2|AU014768|AU041193|C87201|Q8BGT5,glutamic pyruvate transaminase (alanine aminotransferase) 2,ENSMUSG00000031700,True,False,True
+80221.0,264895,Acsf2,Q8VCW8,acyl-CoA synthetase family member 2,ENSMUSG00000076435,True,False,True
+9380.0,76238,Grhpr,1110059D05Rik|6430629L09Rik|Q91Z53,glyoxylate reductase/hydroxypyruvate reductase,ENSMUSG00000035637,True,False,True
+2040.0,13830,Stom,Epb7.2|P54116,stomatin,ENSMUSG00000026880,False,False,True
+51031.0,67201,Glod4,1700082G03Rik|2700085E05Rik|C81254|Q9CPV4,glyoxalase domain containing 4,ENSMUSG00000017286,True,False,True
+100188893.0,66119,Tomm6,1110002E23Rik|AI663970|Q9CQN3,translocase of outer mitochondrial membrane 6 homolog (yeast),ENSMUSG00000033475,False,False,True
+92259.0,66128,Mrps36,1110018B13Rik|S36mt|Q9CQX8,mitochondrial ribosomal protein S36,ENSMUSG00000061474,True,False,True
+157378.0,74868,Tmem65,2610029O13Rik|4930438D12Rik|Q4VAE3,transmembrane protein 65,ENSMUSG00000062373,True,False,True
+9868.0,28185,Tomm70a,2610044B22Rik|D16Ium22|D16Ium22e|D16Wsu109e|Tom70|mKIAA0719|Q9CZW5,translocase of outer mitochondrial membrane 70 homolog A (yeast),ENSMUSG00000022752,False,False,True
+2272.0,14198,Fhit,AW045638|Fra14A2|O89106,fragile histidine triad gene,ENSMUSG00000060579,False,False,True
+54675.0,66586,Crls1,0610009I22Rik|4930557M15Rik|5730490M08Rik|Q80ZM8,cardiolipin synthase 1,ENSMUSG00000027357,False,False,True
+64172.0,72085,Osgepl1,2610001M19Rik|AA416452|Q6PEB4,O-sialoglycoprotein endopeptidase-like 1,ENSMUSG00000026096,True,False,True
+4190.0,17449,Mdh1,B230377B03Rik|D17921|MDH-s|MDHA|Mor-2|Mor2|P14152,"malate dehydrogenase 1, NAD (soluble)",ENSMUSG00000020321,False,False,True
+4337.0,56738,Mocs1,3110045D15Rik|AI043170|AW536397|Q5RKZ7,molybdenum cofactor synthesis 1,ENSMUSG00000064120,True,False,True
+,14626,Gk2,GKTA|Gk-rs2|Q9WU65,glycerol kinase 2,ENSMUSG00000050553,False,False,True
+10840.0,107747,Aldh1l1,1810048F20Rik|FDH|Fthfd|Neut2|Q8R0Y6,"aldehyde dehydrogenase 1 family, member L1",ENSMUSG00000030088,True,False,True
+55312.0,54391,Rfk,0610038L10Rik|AF031381|KOI-4|Q8CFV9,riboflavin kinase,ENSMUSG00000024712,False,False,True
+115817.0,52585,Dhrs1,1110029G07Rik|AW112170|D14Ertd484e|Q99L04,dehydrogenase/reductase (SDR family) member 1,ENSMUSG00000002332,False,False,True
+5428.0,18975,Polg,AA409516|PolgA|Q3UG70,"polymerase (DNA directed), gamma",ENSMUSG00000039176,True,False,True
+9016.0,20523,Slc25a14,BMCP1|UCP5|UCP5L|UCP5S|Q9Z2B2,"solute carrier family 25 (mitochondrial carrier, brain), member 14",ENSMUSG00000031105,False,False,True
+,223262,Timm8a2,Q4FZG7,translocase of inner mitochondrial membrane 8A2,ENSMUSG00000071229,False,False,True
+10650.0,225655,Slmo1,A230074A19Rik|BC019561|Q8VE85,slowmo homolog 1 (Drosophila),ENSMUSG00000024530,False,False,True
+55288.0,59040,Rhot1,2210403N23Rik|AA415293|AF244542|AI834919|Arht1|C430039G08Rik|Miro1|Q8BG51,"ras homolog gene family, member T1",ENSMUSG00000017686,False,False,True
+2876.0,14775,Gpx1,AI195024|AL033363|CGPx|GPx-1|GSHPx-1|Gpx|P11352,glutathione peroxidase 1,ENSMUSG00000063856,True,False,True
+91137.0,67453,Slc25a46,1200007B05Rik|AI325987|Q9CQS4,"solute carrier family 25, member 46",ENSMUSG00000024259,False,False,True
+4536.0,17717,ND2,P03893,NADH dehydrogenase subunit 2,ENSMUSG00000064345,False,False,True
+4538.0,17719,ND4,P03911,NADH dehydrogenase subunit 4,ENSMUSG00000064363,True,True,True
+4540.0,17721,ND5,P03921,NADH dehydrogenase subunit 5,ENSMUSG00000064367,True,True,True
+27166.0,66494,Prelid1,2610524G07Rik|Preli|Q8R107,PRELI domain containing 1,ENSMUSG00000021486,False,True,True
+100130890.0,77032,Tstd3,2610029I01Rik|Q9D0B5,thiosulfate sulfurtransferase (rhodanese)-like domain containing 3,ENSMUSG00000028251,False,False,True
+81034.0,69906,Slc25a32,2610043O12Rik|Mftc|Q8BMG8,"solute carrier family 25, member 32",ENSMUSG00000022299,False,False,True
+90550.0,215999,Mcu,2010012O16Rik|AV064928|C10orf42|Ccdc109a|D130073L02Rik|Gm64|Q3UMR5,mitochondrial calcium uniporter,ENSMUSG00000009647,False,False,True
+8508.0,18082,Nipsnap1,O55125,4-nitrophenylphosphatase domain and non-neuronal SNAP25-like protein homolog 1 (C. elegans),ENSMUSG00000034285,True,False,True
+80324.0,56361,Pus1,A730013B20Rik|MPUS1|mPus1p|Q9WU56,pseudouridine synthase 1,ENSMUSG00000029507,True,False,True
+57546.0,382051,Pdp2,4833426J09Rik|Gm1705|mKIAA1348|Q504M2,pyruvate dehyrogenase phosphatase catalytic subunit 2,ENSMUSG00000048371,True,False,True
+10434.0,18777,Lypla1,Pla1a|P97823,lysophospholipase 1,ENSMUSG00000025903,False,False,True
+79934.0,76889,Adck4,0610012P18Rik|E9QLB8,aarF domain containing kinase 4,ENSMUSG00000003762,True,False,True
+9617.0,211253,Mtrf1,A830062K05Rik|MtRF-1|Q8K126,mitochondrial translational release factor 1,ENSMUSG00000022022,True,False,True
+441024.0,665563,Mthfd2l,1110019K23Rik|C630010D07Rik|D3YZG8,methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 2-like,ENSMUSG00000029376,False,False,True
+51409.0,69536,Hemk1,2310008M14Rik|AW049265|Q921L7,HemK methyltransferase family member 1,ENSMUSG00000032579,False,False,True
+8574.0,110198,Akr7a5,0610025K21Rik|Afar|Afar1|Akr7a2|Q8CG76,"aldo-keto reductase family 7, member A5 (aflatoxin aldehyde reductase)",ENSMUSG00000028743,True,False,True
+,64059,Oxct2a,Oxct|Oxct2|Scot|Scot-t1|Q9JJN4,3-oxoacid CoA transferase 2A,ENSMUSG00000076436,False,False,True
+1593.0,104086,Cyp27a1,1300013A03Rik|Cyp27|Q9DBG1,"cytochrome P450, family 27, subfamily a, polypeptide 1",ENSMUSG00000026170,False,False,True
+122704.0,68836,Mrpl52,1110047B07Rik|Q9D0Y8,mitochondrial ribosomal protein L52,ENSMUSG00000010406,True,False,True
+51024.0,66437,Fis1,2010003O14Rik|Ttc11|Q9CQ92,fission 1 (mitochondrial outer membrane) homolog (yeast),ENSMUSG00000019054,False,False,True
+4199.0,17436,Me1,D9Ertd267e|Mdh-1|Mod-1|Mod1|P06801,"malic enzyme 1, NADP(+)-dependent, cytosolic",ENSMUSG00000032418,False,False,True
+9941.0,208194,Exog,AW557704|ENGL-B|ENGL-a|Endogl1|Endogl2|Engl|Engla|Englb|Q8C163,"endo/exonuclease (5'-3'), endonuclease G-like",ENSMUSG00000042787,False,True,True
+275.0,434437,Amt,EG434437|Q8CFA2,aminomethyltransferase,ENSMUSG00000032607,False,False,True
+4357.0,246221,Mpst,Mst|Q3UW66,mercaptopyruvate sulfurtransferase,ENSMUSG00000071711,True,False,True
+55163.0,103711,Pnpo,AI415282|Q91XF0,pyridoxine 5'-phosphate oxidase,ENSMUSG00000018659,True,False,True
+84769.0,234384,Mpv17l2,Fksg24|Q8VIK2,MPV17 mitochondrial membrane protein-like 2,ENSMUSG00000035559,False,False,True
+65991.0,67391,Fundc2,4833415N24Rik|DC44|HCBP6|Q9D6K8,FUN14 domain containing 2,ENSMUSG00000031198,False,False,True
+29074.0,67681,Mrpl18,1010001C05Rik|C79879|HSPC071|MRP-L18|Q9CQL5,mitochondrial ribosomal protein L18,ENSMUSG00000057388,True,False,True
+517.0,67942,Atp5g2,1810041M08Rik|P56383,"ATP synthase, H+ transporting, mitochondrial F0 complex, subunit C2 (subunit 9)",ENSMUSG00000062683,False,False,True
+132160.0,67905,Ppm1m,2810423O19Rik|AW610647|C77250|PP2Ceta|Q8BU27,protein phosphatase 1M,ENSMUSG00000020253,False,False,True
+29081.0,75422,Mettl5,2810410A08Rik|Q8K1A0,methyltransferase like 5,ENSMUSG00000051730,False,False,True
+54977.0,208638,Slc25a38,AV019094|BC010801|Q91XD8,"solute carrier family 25, member 38",ENSMUSG00000032519,False,False,True
+,243996,4933405O20Rik,AV046776|Q8BPC6,RIKEN cDNA 4933405O20 gene,ENSMUSG00000084234,False,False,True
+55186.0,192287,Slc25a36,C330005L02Rik|Q922G0,"solute carrier family 25, member 36",ENSMUSG00000032449,False,False,True
+79979.0,215201,Trmt2b,4732479N06Rik|Q8BQJ6,TRM2 tRNA methyltransferase 2B,ENSMUSG00000067369,False,False,True
+548596.0,12716,Ckmt1,Mt-CK|ScCKmit|UbCKmit|mi-CK|P30275,"creatine kinase, mitochondrial 1, ubiquitous",ENSMUSG00000000308,False,False,True
+2806.0,14719,Got2,AL022787|FABP-pm|Got-2|mAspAT|P05202,"glutamate oxaloacetate transaminase 2, mitochondrial",ENSMUSG00000031672,True,True,True
+7915.0,214579,Aldh5a1,6330403E24Rik|Ahd-1|Ahd1|D630032B01Rik|OTTMUSG00000000613|SSADH|Ssdh1|Q8BWF0,"aldhehyde dehydrogenase family 5, subfamily A1",ENSMUSG00000035936,True,False,True
+18.0,268860,Abat,9630038C02Rik|AI255750|ENSMUSG00000051226|Gabaat|Gabat|Gm9851|I54|Laibat|X61497|P61922,4-aminobutyrate aminotransferase,ENSMUSG00000057880,True,False,True
+84705.0,70359,Gtpbp3,2410009F13Rik|AI607903|Q923K4,GTP binding protein 3,ENSMUSG00000007610,True,False,True
+23410.0,64384,Sirt3,2310003L23Rik|AI848213|Sir2l3|Q8R104,sirtuin 3,ENSMUSG00000025486,True,False,True
+401207.0,77422,C330018D20Rik,AU018666|Q9CWB7,RIKEN cDNA C330018D20 gene,ENSMUSG00000024592,False,False,True
+55486.0,381038,Parl,D16Ertd607e|PRO2207|PSARL1|PSENIP2|Psarl|Q5XJY4,"presenilin associated, rhomboid-like",ENSMUSG00000033918,False,False,True
+,71970,2410018M08Rik,Scand3|B2RPU8,RIKEN cDNA 2410018M08 gene,ENSMUSG00000034173,False,False,True
+2647.0,14533,Bloc1s1,AI839753|BLOS1|Gcn5l1|O55102,"biogenesis of lysosomal organelles complex-1, subunit 1",ENSMUSG00000090247,False,False,True
+341947.0,75483,Cox8c,1700007F21Rik|COX8-3|COXVIII-3|A6H666,cytochrome c oxidase subunit VIIIc,ENSMUSG00000043319,False,False,True
+47.0,104112,Acly,A730098H14Rik|AW538652|Q91V92,ATP citrate lyase,ENSMUSG00000020917,True,False,True
+94097.0,94282,Sfxn5,C230001H08Rik|Q925N0,sideroflexin 5,ENSMUSG00000033720,False,False,True
+7352.0,22229,Ucp3,AI645527|Slc25a9|UCP-3|P56501,"uncoupling protein 3 (mitochondrial, proton carrier)",ENSMUSG00000032942,False,False,True
+79085.0,66972,Slc25a23,2310067G05Rik|SCaMC-3|Q6GQS1,"solute carrier family 25 (mitochondrial carrier; phosphate carrier), member 23",ENSMUSG00000046329,False,False,True
+9481.0,74011,Slc25a27,3632410G24Rik|9430092A03Rik|D530043E16Rik|Ucp4|Q9D6D0,"solute carrier family 25, member 27",ENSMUSG00000023912,False,False,True
+55972.0,319653,Slc25a40,B230315F11Rik|Q8BGP6,"solute carrier family 25, member 40",ENSMUSG00000054099,False,False,True
+27429.0,64704,Htra2,AI481710|Omi|Prss25|mnd2|Q9JIY5,HtrA serine peptidase 2,ENSMUSG00000068329,False,True,True
+2821.0,14751,Gpi1,Amf|Gpi|Gpi-1|Gpi-1r|Gpi-1s|Gpi-1t|Gpi1-r|Gpi1-s|Gpi1-t|Gpi1s|MF|NK|NK/GPI|Nlk|Org|Pgi|Phi|P06745,glucose phosphate isomerase 1,ENSMUSG00000036427,False,False,True
+133686.0,68646,Nadk2,MNADK|Nadkd1|Q8C5H8,"NAD kinase 2, mitochondrial",ENSMUSG00000022253,True,False,True
+4519.0,17711,CYTB,P00158,cytochrome b,ENSMUSG00000064370,False,False,True
+84269.0,66170,Chchd5,1110027L01Rik|AW045710|Q9CQP3,coiled-coil-helix-coiled-coil-helix domain containing 5,ENSMUSG00000037938,False,True,True
+10240.0,57312,Mrps31,1500002D03Rik|AA960481|Imogen38|Imogen44|Q61733,mitochondrial ribosomal protein S31,ENSMUSG00000031533,True,False,True
+4694.0,54405,Ndufa1,1810049F12Rik|MWFE|O35683,"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 1",ENSMUSG00000016427,False,False,True
+112817.0,67432,Hoga1,0610010D20Rik|Dhdpsl|Npl2|Q9DCU9,4-hydroxy-2-oxoglutarate aldolase 1,ENSMUSG00000025176,False,False,True
+224.0,11671,Aldh3a2,AI194803|Ahd-3|Ahd-3r|Ahd3|Ahd3-r|Aldh4|Aldh4-r|FALDH|P47740,"aldehyde dehydrogenase family 3, subfamily A2",ENSMUSG00000010025,False,False,True
+51025.0,66449,Pam16,2010110I09Rik|AV006767|CGI-136|Magmas|Tim16|Timm16|Q9CQV1,presequence translocase-asssociated motor 16 homolog (S. cerevisiae),ENSMUSG00000014301,True,False,True
+84908.0,66488,Fam136a,2010309E21Rik|AW124904|Hyccin|Q9CR98,"family with sequence similarity 136, member A",ENSMUSG00000057497,False,True,True
+4710.0,68194,Ndufb4,0610006N12Rik|1300010H20Rik|Q9CQC7,NADH dehydrogenase (ubiquinone) 1 beta subcomplex 4,ENSMUSG00000022820,False,False,True
+401505.0,68512,Tomm5,1110019J04Rik|Tom5|B1AXP6,translocase of outer mitochondrial membrane 5 homolog (yeast),ENSMUSG00000078713,False,False,True
+1375.0,12895,Cpt1b,Cpt1|Cpt1-m|Cpti|Cpti-m|M-cpti|Q924X2,"carnitine palmitoyltransferase 1b, muscle",ENSMUSG00000078937,False,False,True
+,14625,Gykl1,AI449806|Gk-rs1|Q8C635,glycerol kinase-like 1,ENSMUSG00000053624,False,False,True
+255027.0,93734,Mpv17l,M-LP|Q99MS3,"Mpv17 transgene, kidney disease mutant-like",ENSMUSG00000022679,False,False,True
+57016.0,67861,Akr1b10,2310005E10Rik|Akr1b16|G5E895,"aldo-keto reductase family 1, member B10 (aldose reductase)",ENSMUSG00000061758,False,False,True
+401612.0,67062,Slc25a53,2310046F18Rik|2810402A17Rik|AI448995|AI841128|Mcart6|A2AF28,"solute carrier family 25, member 53",ENSMUSG00000044348,False,False,True
+,83885,Slc25a2,Ornt2|Q99ML6,"solute carrier family 25 (mitochondrial carrier, ornithine transporter) member 2",ENSMUSG00000050304,False,False,True
+80207.0,403187,Opa3,D630048P19Rik|Gm1425|Gm472|Q505D7,optic atrophy 3,ENSMUSG00000052214,False,False,True
+81889.0,68636,Fahd1,1110025H10Rik|AV002085|Q8R0F8,fumarylacetoacetate hydrolase domain containing 1,ENSMUSG00000045316,True,False,True
+11264.0,59038,Pxmp4,3010018P03Rik|Pmp24|Q9JJW0,peroxisomal membrane protein 4,ENSMUSG00000000876,False,False,True
+60491.0,65102,Nif3l1,1110030G24Rik|Q9EQ80,Ngg1 interacting factor 3-like 1 (S. pombe),ENSMUSG00000026036,True,False,True
+3099.0,15277,Hk2,AI642394|HKII|O08528,hexokinase 2,ENSMUSG00000000628,False,False,True
+2926.0,231413,Grsf1,BB232551|C80280|D5Wsu31e|Q8C5Q4,G-rich RNA sequence binding factor 1,ENSMUSG00000044221,True,False,True
+28992.0,107227,Macrod1,AI604841|AW743046|D930010J01Rik|Lrp16|Q922B1,MACRO domain containing 1,ENSMUSG00000036278,True,False,True
+254552.0,66387,Nudt8,2310039H17Rik|Q9CR24,nudix (nucleoside diphosphate linked moiety X)-type motif 8,ENSMUSG00000024869,True,False,True
+349565.0,74080,Nmnat3,4933408N02Rik|PNAT3|Q99JR6,nicotinamide nucleotide adenylyltransferase 3,ENSMUSG00000032456,False,False,True
+284106.0,217149,Cisd3,Mel-13|Mel13|B1AR13,CDGSH iron sulfur domain 3,ENSMUSG00000078695,True,False,True
+847.0,12359,Cat,2210418N07|Cas-1|Cas1|Cs-1|P24270,catalase,ENSMUSG00000027187,False,False,True
+131118.0,67713,Dnajc19,1810055D05Rik|AA959924|Tim14|Q9CQV7,"DnaJ (Hsp40) homolog, subfamily C, member 19",ENSMUSG00000027679,True,False,True
+60528.0,68626,Elac2,1110017O07Rik|D11Wsu80e|Hpc2|Q80Y81,elaC homolog 2 (E. coli),ENSMUSG00000020549,True,False,True
+79783.0,192136,Sugct,5033411D12Rik|D17907|Q7TNE1,succinyl-CoA glutarate-CoA transferase,ENSMUSG00000055137,True,False,True
+135114.0,66847,Hint3,0610010I17Rik|AV009015|HINT-3|HINT-4|HINT4|Q9CPS6,histidine triad nucleotide binding protein 3,ENSMUSG00000019791,False,False,True
+3735.0,85305,Kars,AA589550|AL024334|AL033315|AL033367|D8Ertd698e|D8Wsu108e|LysRS|mKIAA0070|Q99MN1,lysyl-tRNA synthetase,ENSMUSG00000031948,False,False,True
+54943.0,246738,Dnajc28,BC020175|ORF28|Q8VCE1,"DnaJ (Hsp40) homolog, subfamily C, member 28",ENSMUSG00000039763,False,False,True
+318.0,66401,Nudt2,2310051L06Rik|AA939917|APAH1|P56380,nudix (nucleoside diphosphate linked moiety X)-type motif 2,ENSMUSG00000028443,False,False,True
+80777.0,66427,Cyb5b,1810044O22Rik|AU015618|Cyb5m|Q9CQX2,cytochrome b5 type B,ENSMUSG00000031924,False,False,True
+5264.0,16922,Phyh,AI256161|AI265699|Lnap1|PAHX|O35386,phytanoyl-CoA hydroxylase,ENSMUSG00000026664,False,False,True
+2987.0,14923,Guk1,AA409738|AL033299|AL033300|AV026611|Gmk|Guk-1|Q64520,guanylate kinase 1,ENSMUSG00000020444,True,False,True
+,237880,1700071K01Rik,Q3V2K0,RIKEN cDNA 1700071K01 gene,ENSMUSG00000038845,False,False,True
+390916.0,110959,Nudt19,D7Rp2|D7Rp2-r|D7Rp2-s|D7Rp2e|RP2-r|RP2-s|P11930,nudix (nucleoside diphosphate linked moiety X)-type motif 19,ENSMUSG00000034875,True,False,True
+4514.0,17710,COX3,P00416,cytochrome c oxidase subunit III,ENSMUSG00000064358,False,False,True
+28977.0,67270,Mrpl42,2700009F22Rik|2900055D03Rik|D10Ertd322e|HSPC204|L31mt|MRP-L31|PTD007|Rpml31|Q9CPV3,mitochondrial ribosomal protein L42,ENSMUSG00000062981,True,False,True
+9703.0,72503,2610507B11Rik,AU022687|D11Bhm178e|D11Bhm179e|E1|Kiaa0100|mKIAA0100|Q5SYL3,RIKEN cDNA 2610507B11 gene,ENSMUSG00000010277,False,False,True
+25979.0,216820,Dhrs7b,BC003479|C79874|C80074|PexRAP|Q99J47,dehydrogenase/reductase (SDR family) member 7B,ENSMUSG00000042569,False,False,True
+56953.0,103850,Nt5m,2010013E09Rik|AI846937|dNT-2|Q8VCE6,"5',3'-nucleotidase, mitochondrial",ENSMUSG00000032615,False,False,True
+4833.0,56520,Nme4,2610027N22Rik|2810024O08Rik|5730493H09Rik|NM23-M4|Nm23M4|Q9WV84,NME/NM23 nucleoside diphosphate kinase 4,ENSMUSG00000024177,True,False,True
+,107885,Mthfs,1110034I12Rik|2310020H23Rik|AI119695|Q9D110,"5, 10-methenyltetrahydrofolate synthetase",ENSMUSG00000066442,False,False,True
+10588.0,100039707,Gm2382,L7N466,predicted gene 2382,ENSMUSG00000079427,False,False,True
+115209.0,67013,Oma1,2010001O09Rik|MPRP-1|ZMPOMA1|Q9D8H7,"OMA1 homolog, zinc metallopeptidase (S. cerevisiae)",ENSMUSG00000035069,False,True,True
+23305.0,216739,Acsl6,A330035H04Rik|AW050338|Facl6|LACS|Lacsl|mKIAA0837|Q91WC3,acyl-CoA synthetase long-chain family member 6,ENSMUSG00000020333,False,False,True
+285367.0,101122,Rpusd3,AI527266|Q14AI6,RNA pseudouridylate synthase domain containing 3,ENSMUSG00000051169,True,False,True
+3417.0,15926,Idh1,AI314845|AI788952|E030024J03Rik|Id-1|Idh-1|Idpc|O88844,"isocitrate dehydrogenase 1 (NADP+), soluble",ENSMUSG00000025950,False,False,True
+1716.0,27369,Dguok,dGK|dGK1|dGK2|dGK3|Q9QX60,deoxyguanosine kinase,ENSMUSG00000014554,True,False,True
+84532.0,68738,Acss1,1110032O15Rik|AI788978|Acas2|Acas2l|AceCS2|Q99NB1,acyl-CoA synthetase short-chain family member 1,ENSMUSG00000027452,True,False,True
+25973.0,230577,Pars2,BC027073|Q8CFI5,prolyl-tRNA synthetase (mitochondrial)(putative),ENSMUSG00000043572,True,False,True
+10553.0,53415,Htatip2,AW111545|Cc3|Tip30|Q9Z2G9,"HIV-1 tat interactive protein 2, homolog (human)",ENSMUSG00000039745,False,False,True
+55278.0,76563,Qrsl1,2700038P16Rik|C80053|GatA|Q9CZN8,glutaminyl-tRNA synthase (glutamine-hydrolyzing)-like 1,ENSMUSG00000019863,True,False,True
+55739.0,69225,Carkd,0710008K08Rik|2810407E01Rik|Q9CZ42,carbohydrate kinase domain containing,ENSMUSG00000031505,False,False,True
+84303.0,66098,Chchd6,0710001P09Rik|1700021B03Rik|Q91VN4,coiled-coil-helix-coiled-coil-helix domain containing 6,ENSMUSG00000030086,True,True,True
+23576.0,69219,Ddah1,2410006N07Rik|2510015N06Rik|AI987801|AW050362|Q9CWS0,dimethylarginine dimethylaminohydrolase 1,ENSMUSG00000028194,False,False,True
+7086.0,21881,Tkt,p68|P40142,transketolase,ENSMUSG00000021957,False,False,True
+84105.0,72562,Pcbd2,2700061N24Rik|Dcoh2|Dcohm|Q9CZL5,pterin 4 alpha carbinolamine dehydratase/dimerization cofactor of hepatocyte nuclear factor 1 alpha (TCF1) 2,ENSMUSG00000021496,False,False,True
+221154.0,68514,Micu2,1110008L20Rik|4833427E09Rik|AU041871|Efha1|Smhs2|Q8CD10,mitochondrial calcium uptake 2,ENSMUSG00000021973,False,True,True
+79814.0,75986,Agmat,5033405N08Rik|A2AS89,agmatine ureohydrolase (agmatinase),ENSMUSG00000040706,False,False,True
+,11997,Akr1b7,AR|Avdp|MVDP|P21300,"aldo-keto reductase family 1, member B7",ENSMUSG00000052131,False,False,True
+6342.0,20280,Scp2,AA409774|AA409893|C76618|C79031|NSL-TP|SCP-2|SCP-X|SCPX|ns-LTP|P32020,"sterol carrier protein 2, liver",ENSMUSG00000028603,False,False,True
+53917.0,19336,Rab24,6530406O07Rik|P35290,"RAB24, member RAS oncogene family",ENSMUSG00000034789,False,False,True
+55013.0,66815,Ccdc109b,9030408N13Rik|MCUb|Q810S1,coiled-coil domain containing 109B,ENSMUSG00000027994,False,False,True
+127018.0,226791,Lyplal1,BC027340|Q96AVO|Q3UFF7,lysophospholipase-like 1,ENSMUSG00000039246,False,False,True
+4509.0,17706,ATP8,P03930,ATP synthase F0 subunit 8,ENSMUSG00000064356,False,False,True
+219938.0,75469,Spata19,1700001L23Rik|AV047838|Q9DAQ9,spermatogenesis associated 19,ENSMUSG00000031991,False,False,True
+9446.0,14873,Gsto1,AA407097|AI194287|AU018802|GSTO 1-1|GSTX|SPG-R|p28|O09131,glutathione S-transferase omega 1,ENSMUSG00000025068,False,False,True
+92483.0,106557,Ldhal6b,4933402O15Rik|AI326310|LDHL|Ldhal|Q8BVP2,lactate dehydrogenase A-like 6B,,False,False,True
+,26358,Aldh1a7,AI987940|Ahd2-like|Aldh-pb|Aldh1a4|Aldhpb|O35945,"aldehyde dehydrogenase family 1, subfamily A7",ENSMUSG00000024747,False,False,True
+54995.0,71147,Oxsm,4933425A18Rik|C80494|Q9D404,"3-oxoacyl-ACP synthase, mitochondrial",ENSMUSG00000021786,True,False,True
+56267.0,229905,Ccbl2,BC037135|C430041M20|KATIII|Kat3|Q71RI9,cysteine conjugate-beta lyase 2,ENSMUSG00000040213,True,False,True
+4537.0,17718,ND3,P03899,NADH dehydrogenase subunit 3,ENSMUSG00000064360,False,False,True
+90353.0,233189,Ctu1,Atpbd3|BC005752|Q99J10,cytosolic thiouridylase subunit 1 homolog (S. pombe),ENSMUSG00000038888,False,False,True
+57143.0,72113,Adck1,2610005A10Rik|Q9D0L4,aarF domain containing kinase 1,ENSMUSG00000021044,False,False,True
+5805.0,19286,Pts,PTPS|Q9R1Z7,6-pyruvoyl-tetrahydropterin synthase,ENSMUSG00000032067,False,False,True
+84275.0,70556,Slc25a33,5730438N18Rik|Pnc1|Q3TZX3,"solute carrier family 25, member 33",ENSMUSG00000028982,False,False,True
+57412.0,57344,As3mt,2310045H08Rik|Cyt19|Q91WU5,arsenic (+3 oxidation state) methyltransferase,ENSMUSG00000003559,False,False,True
+4257.0,56615,Mgst1,1500002K10Rik|Gst|Q91VS7,microsomal glutathione S-transferase 1,ENSMUSG00000008540,False,False,True
+7374.0,22256,Ung,UNG1|UNG2|P97931,uracil DNA glycosylase,ENSMUSG00000029591,False,False,True
+387338.0,72181,Nsun4,2310010O12Rik|2810405F18Rik|AI507900|Shtap|Q9CZ57,"NOL1/NOP2/Sun domain family, member 4",ENSMUSG00000028706,True,False,True
+374882.0,235043,Tmem205,Q91XE8,transmembrane protein 205,ENSMUSG00000040883,False,False,True
+1622.0,13167,Dbi,ACBD1|Acbp|EP|endozepine|P31786,diazepam binding inhibitor,ENSMUSG00000026385,False,False,True
+80347.0,71743,Coasy,1300003G02Rik|Dpck|Ppat|Ukr1|Q9DBL7,Coenzyme A synthase,ENSMUSG00000001755,True,False,True
+56910.0,99138,Stard7,AI852671|AL022671|AW544915|Q8R1R3,START domain containing 7,ENSMUSG00000027367,False,True,True
+137994.0,270035,Letm2,6030453H13|D030041N04Rik|Q7TNU7,leucine zipper-EF-hand containing transmembrane protein 2,ENSMUSG00000037363,False,False,True
+10381.0,22152,Tubb3,3200002H15Rik|M(beta)3|M(beta)6|Q9ERD7,"tubulin, beta 3 class III",ENSMUSG00000062380,False,False,True
+26024.0,71799,Ptcd1,1110069M14Rik|Q8C2E4,pentatricopeptide repeat domain 1,ENSMUSG00000029624,False,False,True
+51537.0,67900,Mtfp1,1700020C11Rik|2610507A21Rik|AV005788|Mtp18|Q9CRB8,mitochondrial fission process 1,ENSMUSG00000004748,False,False,True
+51287.0,68185,Coa4,5330414O08Rik|AI115477|AW047259|Chchd8|E2ig2|Q8BT51,cytochrome c oxidase assembly factor 4,ENSMUSG00000044881,False,False,True
+2053.0,13850,Ephx2,CEH|Eph2|SEH|sEP|P34914,"epoxide hydrolase 2, cytoplasmic",ENSMUSG00000022040,False,False,True
+4898.0,230598,Nrd1,2600011I06Rik|AI875733|NRD-C|Q8BHG1,"nardilysin, N-arginine dibasic convertase, NRD convertase 1",ENSMUSG00000053510,False,False,True
+32.0,100705,Acacb,AI597064|AW743042|Acc2|Accb|E9Q4Z2,acetyl-Coenzyme A carboxylase beta,ENSMUSG00000042010,False,False,True
+57506.0,228607,Mavs,D430028G21Rik|IPS-1|Visa|cardif|Q8VCF0,mitochondrial antiviral signaling protein,ENSMUSG00000037523,False,False,True
+55260.0,70209,Tmem143,2310076O21Rik|AI481604|Q8VD26,transmembrane protein 143,ENSMUSG00000002781,False,False,True
+55149.0,67440,Mtpap,0610027A18Rik|AW551379|Papd1|Q9D0D3,mitochondrial poly(A) polymerase,ENSMUSG00000024234,True,False,True
+113675.0,257635,Sdsl,4432411H13Rik|AI504310|SDH1|SDS-RS1|TDH|Q8R238,serine dehydratase-like,ENSMUSG00000029596,False,False,True
+129607.0,22169,Cmpk2,1200004E04Rik|TDKI|Tyki|Q3U5Q7,"cytidine monophosphate (UMP-CMP) kinase 2, mitochondrial",ENSMUSG00000020638,False,False,True
+132158.0,235582,Glyctk,6230410P16Rik|C430006L12|Q8QZY2,glycerate kinase,ENSMUSG00000020258,False,False,True
+84881.0,71989,Rpusd4,2410001E19Rik|Q9CWX4,RNA pseudouridylate synthase domain containing 4,ENSMUSG00000032044,True,False,True
+4515.0,17763,Mtcp1,Cmc4|P13MTCP1|p8MTCP1|Q60945,mature T cell proliferation 1,ENSMUSG00000031200,False,False,True
+389203.0,66278,Smim20,1110067B18Rik|1810013D10Rik|N28078|D3Z7Q2,small integral membrane protein 20,ENSMUSG00000061461,False,False,True
+130916.0,69821,Mterfd2,1810059A23Rik|4933412H03Rik|Mterf4|Q8BVN4,MTERF domain containing 2,ENSMUSG00000026273,True,False,True
+116447.0,72960,Top1mt,2900052H09Rik|Q8R4U6,"DNA topoisomerase 1, mitochondrial",ENSMUSG00000000934,True,False,True
+384.0,11847,Arg2,AII|AU022422|O08691,arginase type II,ENSMUSG00000021125,True,False,True
+51651.0,217057,Ptrh2,A230072I16Rik|Bit1|CGI-147|Q8R2Y8,peptidyl-tRNA hydrolase 2,ENSMUSG00000072582,False,False,True
+57149.0,73919,Lyrm1,1110065L10Rik|2310004B22Rik|4930404J24Rik|Q9CQB7,LYR motif containing 1,ENSMUSG00000030922,False,False,True
+57505.0,224805,Aars2,Aarsl|AlaRS|Gm89|Q14CH7,"alanyl-tRNA synthetase 2, mitochondrial (putative)",ENSMUSG00000023938,True,False,True
+2180.0,14081,Acsl1,Acas|Acas1|Acs|FACS|Facl2|P41216,acyl-CoA synthetase long-chain family member 1,ENSMUSG00000018796,False,False,True
+84277.0,66114,Dnajc30,1300007M11Rik|Wbscr18|P59041,"DnaJ (Hsp40) homolog, subfamily C, member 30",ENSMUSG00000061118,True,False,True
+55217.0,192289,Tmlhe,Bbox2|D430017M14Rik|TMLH|Q91ZE0,"trimethyllysine hydroxylase, epsilon",ENSMUSG00000079834,True,False,True
+4522.0,108156,Mthfd1,Dcs|E430024A07Rik|Mthfd|Q922D8,"methylenetetrahydrofolate dehydrogenase (NADP+ dependent), methenyltetrahydrofolate cyclohydrolase, formyltetrahydrofolate synthase",ENSMUSG00000021048,False,False,True
+581.0,12028,Bax,Q07813,BCL2-associated X protein,ENSMUSG00000003873,False,False,True
+,226527,BC026585,Q3UNZ8,cDNA sequence BC026585,ENSMUSG00000033488,False,False,True
+5827.0,19301,Pxmp2,22kDa|PMP22|P42925,peroxisomal membrane protein 2,ENSMUSG00000029499,False,False,True
+10059.0,74006,Dnm1l,6330417M19Rik|AI450666|Dlp1|Dnmlp1|Drp1|python|Q8K1M6,dynamin 1-like,ENSMUSG00000022789,False,False,True
+116228.0,66359,Cox20,2310005N03Rik|Fam36a|Q9D7J4,COX20 Cox2 chaperone,ENSMUSG00000026500,False,True,True
+3283.0,15492,Hsd3b1,D3Ertd383e|P24815,"hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 1",ENSMUSG00000027871,False,False,True
+80775.0,66343,Tmem177,2300008B03Rik|Q8BPE4,transmembrane protein 177,ENSMUSG00000036975,False,False,True
+7084.0,57813,Tk2,AU024611|mt-TK|Q8BN51,"thymidine kinase 2, mitochondrial",ENSMUSG00000035824,False,False,True
+139341.0,72018,Fundc1,1500005J14Rik|1810033P05Rik|Q9DB70,FUN14 domain containing 1,ENSMUSG00000025040,False,False,True
+9489.0,74451,Pgs1,2610019F11Rik|4933424M23Rik|SAF|Q8BHF7,phosphatidylglycerophosphate synthase 1,ENSMUSG00000017715,False,False,True
+2194.0,14104,Fasn,A630082H08Rik|FAS|P19096,fatty acid synthase,ENSMUSG00000025153,False,False,True
+,12409,Cbr2,MLCR|P08074,carbonyl reductase 2,ENSMUSG00000025150,False,False,True
+56994.0,212862,Chpt1,Q8C025,choline phosphotransferase 1,ENSMUSG00000060002,False,False,True
+516.0,11951,Atp5g1,Q9CR84,"ATP synthase, H+ transporting, mitochondrial F0 complex, subunit C1 (subunit 9)",ENSMUSG00000006057,False,False,True
+116151.0,67017,Fam210b,2010011I20Rik|AI430961|AV108736|Q9D8B6,"family with sequence similarity 210, member B",ENSMUSG00000027495,False,False,True
+118980.0,94279,Sfxn2,C79732|F630107H02Rik|Q925N2,sideroflexin 2,ENSMUSG00000025036,False,False,True
+27249.0,109129,Mmadhc,2010311D03Rik|AI314967|Q99LS1,"methylmalonic aciduria (cobalamin deficiency) cblD type, with homocystinuria",ENSMUSG00000026766,True,False,True
+5009.0,18416,Otc,AI265390|Sf|spf|P11725,ornithine transcarbamylase,ENSMUSG00000031173,False,False,True
+7296.0,50493,Txnrd1,TR|TR1|TrxR1|Q9JMH6,thioredoxin reductase 1,ENSMUSG00000020250,False,False,True
+3145.0,15288,Hmbs,PBGD|T25658|Ups|Uros1|P22907,hydroxymethylbilane synthase,ENSMUSG00000032126,False,False,True
+381.0,11844,Arf5,P84084,ADP-ribosylation factor 5,ENSMUSG00000020440,False,False,True
+22852.0,232339,Ankrd26,5730521P14Rik|BC008111|mKIAA1074|D3Z482,ankyrin repeat domain 26,ENSMUSG00000007827,False,False,True
+2356.0,14287,Fpgs,AA408187|P48760,folylpolyglutamyl synthetase,ENSMUSG00000009566,True,False,True
+54931.0,52575,Trmt10c,1300018J16Rik|D16Ertd454e|Rg9mtd1|Rnmtd1|Q3UFY8,tRNA methyltransferase 10C,ENSMUSG00000044763,True,False,True
+,74088,0610012H03Rik,Q9DCP4,RIKEN cDNA 0610012H03 gene,ENSMUSG00000055312,False,False,True
+51110.0,212442,Lactb2,Cgi-83|E430032H21Rik|Q99KR3,"lactamase, beta 2",ENSMUSG00000025937,False,False,True
+,228715,Gm561,Q3V460,predicted gene 561,ENSMUSG00000074754,False,False,True
+50865.0,15199,Hebp1,Hebp|Q9R257,heme binding protein 1,ENSMUSG00000042770,False,True,True
+114971.0,66461,Ptpmt1,1110001D10Rik|2810004N20Rik|PLIP|Q66GT5,"protein tyrosine phosphatase, mitochondrial 1",,True,False,True
+192111.0,72542,Pgam5,2610528A17Rik|Q8BX10,phosphoglycerate mutase family member 5,ENSMUSG00000029500,False,True,True
+215.0,11666,Abcd1,ALDP|Ald|Aldgh|P48410,"ATP-binding cassette, sub-family D (ALD), member 1",ENSMUSG00000031378,False,False,True
+83693.0,72552,Hsdl1,2700067E09Rik|Q8BTX9,hydroxysteroid dehydrogenase like 1,ENSMUSG00000034189,False,False,True
+874.0,109857,Cbr3,1110001J05Rik|C81353|Q8K354,carbonyl reductase 3,ENSMUSG00000022947,False,False,True
+9588.0,11758,Prdx6,1-cysPrx|9430088D19Rik|AA690119|Aop2|Aop2-rs3|Brp-12|CC26|CP-3|GPx|Ltw-4|Ltw4|Lvtw-4|NSGP|NSGPx|ORF06|Prdx5|Prdx6-rs3|aiPLA2|mKIAA0106|O08709,peroxiredoxin 6,ENSMUSG00000026701,False,False,True
+219743.0,71767,Tysnd1,1300019N10Rik|Q9DBA6,trypsin domain containing 1,ENSMUSG00000020087,False,False,True
+3338.0,57431,Dnajc4,2010301J22Rik|Hspf2|Mcg18|Q9D844,"DnaJ (Hsp40) homolog, subfamily C, member 4",ENSMUSG00000024963,False,False,True
+,68554,1110001A16Rik,Q8BTE5,RIKEN cDNA 1110001A16 gene,ENSMUSG00000062691,False,False,True
+55572.0,235169,Foxred1,BC024806|TEG-23|Tex23|Q3TQB2,FAD-dependent oxidoreductase domain containing 1,ENSMUSG00000039048,False,False,True
+79033.0,140546,Eri3,PINT1|Prnpip1|Q8C460,exoribonuclease 3,ENSMUSG00000033423,False,False,True
+22907.0,72831,Dhx30,2810477H02Rik|C130058C04Rik|Ddx30|HELG|Ret-CoR|Q99PU8,DEAH (Asp-Glu-Ala-His) box polypeptide 30,ENSMUSG00000032480,False,False,True
+23786.0,94044,Bcl2l13,BCL-RAMBO|E430016C20Rik|Mil-1|Mil1|P59017,BCL2-like 13 (apoptosis facilitator),ENSMUSG00000009112,False,False,True
+2542.0,14385,Slc37a4,G6PT|G6pt1|GSD-1b|mG6PT|Q9D1F9,"solute carrier family 37 (glucose-6-phosphate transporter), member 4",ENSMUSG00000032114,False,False,True
+51205.0,66659,Acp6,5730559A09Rik|ACPL1|AU022842|mPACPL1|Q8BP40,"acid phosphatase 6, lysophosphatidic",ENSMUSG00000028093,False,True,True
+9167.0,20463,Cox7a2l,COX7AR|COX7RP|EB1|SIG-81|SIG81|Silg81|Q61387,cytochrome c oxidase subunit VIIa polypeptide 2-like,ENSMUSG00000024248,True,True,True
+100131187.0,226654,Tstd1,AV065366|EG226654|Gm4848|KAT|E9PY03,thiosulfate sulfurtransferase (rhodanese)-like domain containing 1,ENSMUSG00000091166,False,False,True
+6222.0,20084,Rps18,H-2Ke3|H2-Ke3|Ke-3|ke3|P62270,ribosomal protein S18,ENSMUSG00000008668,False,False,True
+5860.0,110391,Qdpr,2610008L04Rik|D5Ertd371e|Dhpr|PKU2|Q8BVI4,quinoid dihydropteridine reductase,ENSMUSG00000015806,True,False,True
+6897.0,110960,Tars,D15Wsu59e|ThrRS|Q9D0R2,threonyl-tRNA synthetase,ENSMUSG00000022241,False,False,True
+27129.0,29818,Hspb7,27kDa|Hsp25-2|cvHsp|P35385,"heat shock protein family, member 7 (cardiovascular)",ENSMUSG00000006221,False,False,True
+123876.0,233799,Acsm2,AI315615|BC031140|Q8K0L3,acyl-CoA synthetase medium-chain family member 2,ENSMUSG00000030945,False,False,True
+90956.0,57869,Adck2,AA408112|BB006057|Q6NSR3,aarF domain containing kinase 2,ENSMUSG00000046947,False,False,True
+6470.0,20425,Shmt1,AI324848|AI385541|C81125|Shmt|mshmt|mshmt1|mshmt2|P50431,serine hydroxymethyltransferase 1 (soluble),ENSMUSG00000020534,False,False,True
+114876.0,64291,Osbpl1a,G430090F17Rik|Gm753|ORP-1|Osbpl1b|Q91XL9,oxysterol binding protein-like 1A,ENSMUSG00000044252,False,False,True
+55621.0,212528,Trmt1,6720406L13Rik|6720477L24|D8Ertd812e|Q3TX08,tRNA methyltransferase 1,ENSMUSG00000001909,False,False,True
+219402.0,76366,Mtif3,2810012L14Rik|AI414549|Q9CZD5,mitochondrial translational initiation factor 3,ENSMUSG00000016510,True,False,True
+100131801.0,100503890,Pet100,2900053A13Rik|P0DJE0,PET100 homolog (S. cerevisiae),ENSMUSG00000087687,False,False,True
+60678.0,65967,Eefsec,Selb|sec|Q9JHW4,"eukaryotic elongation factor, selenocysteine-tRNA-specific",ENSMUSG00000033216,False,False,True
+51109.0,17252,Rdh11,2610319N22Rik|AI428145|AU045252|Arsdr1|C85936|CGI-82|HCBP12|M42C60|Mdt1|Psdr1|SCALD|UBE-1c1|Ube-1c|Q9QYF1,retinol dehydrogenase 11,ENSMUSG00000066441,False,False,True
+9650.0,67472,Mtfr1,1300002C08Rik|1700080D04Rik|2810026O10Rik|4930579E05Rik|Chppr|Fam54a2|Q99MB2,mitochondrial fission regulator 1,ENSMUSG00000027601,False,False,True
+51106.0,224481,Tfb1m,AI429207|Q8JZM0,"transcription factor B1, mitochondrial",ENSMUSG00000036983,True,False,True
+706.0,12257,Tspo,Bzrp|IBP|PBR|Tspo1|P50637,translocator protein,ENSMUSG00000041736,False,False,True
+2495.0,14319,Fth1,FHC|Fth|HFt|MFH|P09528,ferritin heavy chain 1,ENSMUSG00000024661,False,False,True
+10249.0,107146,Glyat,A330009E03Rik|ACGNAT|AI195249|AI315345|CAT|GAT|Q91XE0,glycine-N-acyltransferase,ENSMUSG00000063683,False,False,True
+48.0,11428,Aco1,Aco-1|Irebp|Irp1|P28271,aconitase 1,ENSMUSG00000028405,False,False,True
+246243.0,19819,Rnaseh1,E9QLN8,ribonuclease H1,ENSMUSG00000020630,True,False,True
+79863.0,68731,Rbfa,1110032A13Rik|AI595940|Q6P3B9,ribosome binding factor A,ENSMUSG00000024570,True,False,True
+8310.0,80911,Acox3,BI685180|EST-s59|PCOX|Q9EPL9,"acyl-Coenzyme A oxidase 3, pristanoyl",ENSMUSG00000029098,False,False,True
+8799.0,18632,Pex11b,PEX11beta|Pex11pbeta|Q9Z210,peroxisomal biogenesis factor 11 beta,ENSMUSG00000028102,False,False,True
+25880.0,66690,Tmem186,2810440M13Rik|4432406C05Rik|AI648175|AW210586|Q9CR76,transmembrane protein 186,ENSMUSG00000043140,False,False,True
+11164.0,53893,Nudt5,Q9JKX6,nudix (nucleoside diphosphate linked moiety X)-type motif 5,ENSMUSG00000025817,False,False,True
+6647.0,20655,Sod1,B430204E11Rik|Cu/Zn-SOD|CuZnSOD|Ipo-1|Ipo1|SODC|Sod-1|P08228,"superoxide dismutase 1, soluble",ENSMUSG00000022982,False,False,True
+6770.0,20845,Star,AV363654|D8Ertd419e|P51557,steroidogenic acute regulatory protein,ENSMUSG00000031574,False,False,True
+23457.0,56325,Abcb9,TAPL|mKIAA1520|Q9JJ59,"ATP-binding cassette, sub-family B (MDR/TAP), member 9",ENSMUSG00000029408,False,False,True
+85865.0,207704,Gtpbp10,4930545J22Rik|BC034507|Q8K013,GTP-binding protein 10 (putative),ENSMUSG00000040464,True,False,True
+,320769,Prdx6b,1-cysPrx-P1|4930414C22Rik|Aop2-rs1|Prdx5-rs1|Prdx6-ps1|Prdx6-rs1|Prdx6-rs1-ps|Q8BG37,peroxiredoxin 6B,ENSMUSG00000050114,False,False,True
+11021.0,77407,Rab35,9530019H02Rik|AU040256|H-ray|RAB1C|RAY|Q6PHN9,"RAB35, member RAS oncogene family",ENSMUSG00000029518,False,False,True
+79611.0,380660,Acss3,8430416H19Rik|Gm874|Q14DH7,acyl-CoA synthetase short-chain family member 3,ENSMUSG00000035948,False,False,True
+5775.0,19258,Ptpn4,PTPMEG|Ptn4|TEP|TEP/mPTPMEG|hPTP-MEG|Q9WU22,"protein tyrosine phosphatase, non-receptor type 4",ENSMUSG00000026384,False,False,True
+23597.0,56360,Acot9,0610041P13Rik|Acate2|C76421|MT-ACT48|U8|p48|Q9R0X4,acyl-CoA thioesterase 9,ENSMUSG00000025287,False,False,True
+79714.0,66658,Ccdc51,5730568A12Rik|AI551049|Q3URS9,coiled-coil domain containing 51,ENSMUSG00000025645,True,False,True
+2597.0,14433,Gapdh,Gapd|P16858,glyceraldehyde-3-phosphate dehydrogenase,ENSMUSG00000057666,False,False,True
+145567.0,104718,Ttc7b,AA408451|Ttc7l1|E9Q6P5,tetratricopeptide repeat domain 7B,ENSMUSG00000033530,False,False,True
+25915.0,66706,Ndufaf3,4733401H18Rik|Q9JKL4,"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, assembly factor 3",ENSMUSG00000070283,False,False,True
+493856.0,67006,Cisd2,1500009M05Rik|1500026J14Rik|1500031D15Rik|AI848398|B630006A20Rik|Miner1|Noxp70|Zcd2|Q9CQB5,CDGSH iron sulfur domain 2,ENSMUSG00000028165,False,False,True
+80308.0,319945,Flad1,A930017E24Rik|Pp591|Q8R123,"RFad1, flavin adenine dinucleotide synthetase, homolog (yeast)",ENSMUSG00000042642,True,False,True
+31.0,107476,Acaca,A530025K05Rik|Acac|Acc1|Gm738|Q5SWU9,acetyl-Coenzyme A carboxylase alpha,ENSMUSG00000020532,False,False,True
+3098.0,15275,Hk1,BB404130|Hk-1|Hk1-s|dea|mHk1-s|P17710,hexokinase 1,ENSMUSG00000037012,False,False,True
+51706.0,72017,Cyb5r1,1500005G05Rik|B5R.1|C80155|Nqo3a2|Q9DB73,cytochrome b5 reductase 1,ENSMUSG00000026456,False,False,True
+8564.0,98256,Kmo,AI046660|Q91WN4,kynurenine 3-monooxygenase (kynurenine 3-hydroxylase),ENSMUSG00000039783,False,False,True
+51001.0,66410,Mterfd1,2410017I18Rik|MTERF3|Q8R3J4,MTERF domain containing 1,ENSMUSG00000021519,True,False,True
+55074.0,170719,Oxr1,2210416C20Rik|C7|C7B|Q4KMM3,oxidation resistance 1,ENSMUSG00000022307,False,False,True
+27158.0,78797,Ndor1,4930447P04Rik|NR1|Ndor|A2AI05,NADPH dependent diflavin oxidoreductase 1,ENSMUSG00000006471,False,False,True
+53343.0,74167,Nudt9,1190002C07Rik|AI462474|Q8BVU5,nudix (nucleoside diphosphate linked moiety X)-type motif 9,ENSMUSG00000029310,True,False,True
+51643.0,68212,Tmbim4,0610007H07Rik|AU022431|Q9DA39,transmembrane BAX inhibitor motif containing 4,ENSMUSG00000020225,False,False,True
+7167.0,21991,Tpi1,AI255506|Tpi|Tpi-1|P17751,triosephosphate isomerase 1,ENSMUSG00000023456,False,False,True
+6311.0,20239,Atxn2,9630045M23Rik|ATX2|AW544490|Sca2|O70305,ataxin 2,ENSMUSG00000042605,False,False,True
+29920.0,69051,Pycr2,1810018M05Rik|P5cr2|Q922Q4,"pyrroline-5-carboxylate reductase family, member 2",ENSMUSG00000026520,True,False,True
+79896.0,208967,Thnsl1,AW413632|Q8BH55,threonine synthase-like 1 (bacterial),ENSMUSG00000048550,True,False,True
+3094.0,15254,Hint1,AA673479|Hint|Ipk1|PKCI-1|PRKCNH1|P70349,histidine triad nucleotide binding protein 1,ENSMUSG00000020267,False,False,True
+84033.0,380698,Obscn,BC046431|Gm878|OTTMUSG00000005786|UNC89|H7BX05,"obscurin, cytoskeletal calmodulin and titin-interacting RhoGEF",ENSMUSG00000061462,False,False,True
+1528.0,109672,Cyb5,0610009N12Rik|Cyb5a|P56395,cytochrome b-5,ENSMUSG00000024646,False,False,True
+7351.0,22228,Ucp2,Slc25a8|P70406,"uncoupling protein 2 (mitochondrial, proton carrier)",ENSMUSG00000033685,False,False,True
+51312.0,67712,Slc25a37,1700020E22Rik|4930513O14Rik|4930526G11Rik|AI848481|C330015G08Rik|Mfrn|Mfrn1|Mscp|frascati|mitoferrin|Q920G8,"solute carrier family 25, member 37",ENSMUSG00000034248,False,False,True
+,74686,Slc25a54,4930443G12Rik|SCaMC-1like|B1AUS6,"solute carrier family 25, member 54",ENSMUSG00000027880,False,False,True
+284427.0,103775,Slc25a41,4933406J04Rik|AI507137|Q8BVN7,"solute carrier family 25, member 41",ENSMUSG00000011486,False,False,True
+283600.0,104910,Slc25a47,AI132487|AI876593|HDMCP|Q6IS41,"solute carrier family 25, member 47",ENSMUSG00000048856,False,False,True
+203427.0,194744,Slc25a43,Gm8|A2A3V2,"solute carrier family 25, member 43",ENSMUSG00000037636,False,False,True
+81894.0,246696,Slc25a28,2210403D18Rik|Mfrn2|Mrs3/4|Q8R0Z5,"solute carrier family 25, member 28",ENSMUSG00000040414,False,False,True
+153328.0,328258,Slc25a48,AU042651|E230025K15|Q8BW66,"solute carrier family 25, member 48",ENSMUSG00000021509,False,False,True
+284723.0,384071,Slc25a34,Gm1369|A2ADF7,"solute carrier family 25, member 34",ENSMUSG00000040740,False,False,True
+54059.0,216119,Ybey,1110068N23Rik|A130042E20Rik|C21orf57|ORF57|ORF66|Q8CAV0,ybeY metallopeptidase,ENSMUSG00000033126,True,False,True
+4968.0,18294,Ogg1,Mmh|O08760,8-oxoguanine DNA-glycosylase 1,ENSMUSG00000030271,False,False,True
+2168.0,14080,Fabp1,Fabpl|L-FABP|P12710,"fatty acid binding protein 1, liver",ENSMUSG00000054422,False,False,True
+,240549,Gm4952,EG240549|Q5FW57,predicted gene 4952,ENSMUSG00000071633,False,False,True
+196074.0,76894,Mettl15,0610027B03Rik|AI303697|AW049952|Mett5d1|Q9DCL4,methyltransferase like 15,ENSMUSG00000057234,True,False,True
+51.0,11430,Acox1,AOX|Acox|D130055E20Rik|Paox|Q9R0H0,"acyl-Coenzyme A oxidase 1, palmitoyl",ENSMUSG00000020777,False,False,True
+5313.0,18770,Pklr,Pk-1|Pk1|R-PK|G3X925,pyruvate kinase liver and red blood cell,ENSMUSG00000041237,False,False,True
+254042.0,66559,Metap1d,2310066F24Rik|3110033D18Rik|AV117938|MAP 1D|Map1d|MetAP 1D|Metapl1|Q9CPW9,methionyl aminopeptidase type 1D (mitochondrial),ENSMUSG00000041921,True,False,True
+11212.0,114863,Prosc,1700024N20Rik|2200002F22Rik|Q9Z2Y8,proline synthetase co-transcribed,ENSMUSG00000031485,True,False,True
+79594.0,68350,Mul1,0610009K11Rik|AV000801|Gide|Q8VCM5,mitochondrial ubiquitin ligase activator of NFKB 1,ENSMUSG00000041241,False,False,True
+65018.0,68943,Pink1,1190006F07Rik|AU042772|AW557854|BRPK|mFLJ00387|Q99MQ3,PTEN induced putative kinase 1,ENSMUSG00000028756,False,False,True
+11162.0,229228,Nudt6,Asfgf2b|Q8CH40,nudix (nucleoside diphosphate linked moiety X)-type motif 6,ENSMUSG00000050174,True,False,True
+55101.0,66349,Atp5sl,2310004L02Rik|C030044E10Rik|Q9D7K5,ATP5S-like,ENSMUSG00000057229,True,False,True
+10367.0,216001,Micu1,C730016L05Rik|Calc|Cbara1|Q8VCX5,mitochondrial calcium uptake 1,ENSMUSG00000020111,False,True,True
+25934.0,73398,Nipsnap3a,1700054F22Rik|AI429120|G3X8S9,nipsnap homolog 3A (C. elegans),ENSMUSG00000015242,True,False,True
+51559.0,103466,Nt5dc3,AU040402|AW540062|C630002B14Rik|TU12B1-TY|Q3UHB1,5'-nucleotidase domain containing 3,ENSMUSG00000054027,True,False,True
+7156.0,21975,Top3a,O70157,topoisomerase (DNA) III alpha,ENSMUSG00000002814,True,False,True
+23600.0,17117,Amacr,Macr1|O09174,alpha-methylacyl-CoA racemase,ENSMUSG00000022244,False,False,True
+763.0,12352,Car5a,CAV|Ca5a|Car5|P23589,"carbonic anhydrase 5a, mitochondrial",ENSMUSG00000025317,False,False,True
+4913.0,18207,Nthl1,Nth1|Octs3|O35980,nth (endonuclease III)-like 1 (E.coli),ENSMUSG00000041429,False,False,True
+55333.0,24071,Synj2bp,AA409442|ARIP2|ARIP2a|ActRIP4|D12Wsu118e|OMP25|Q9D6K5,synaptojanin 2 binding protein,ENSMUSG00000090935,False,True,True
+402.0,56327,Arl2,2610009M23Rik|AI115441|AW553335|Q9D0J4,ADP-ribosylation factor-like 2,ENSMUSG00000024944,False,False,True
+3852.0,110308,Krt5,3300001P10Rik|AW146334|CK5|K5|Krt2-5|Tfip8|Q922U2,keratin 5,ENSMUSG00000061527,False,False,True
+7978.0,208595,Mterf1b,ENSMUSG00000053178|Gm9897|B9EJ57,mitochondrial transcription termination factor 1b,ENSMUSG00000053178,True,False,True
+79828.0,228019,Mettl8,BC004636|Tip|A2AUU0,methyltransferase like 8,ENSMUSG00000041975,True,False,True
+55316.0,237926,Rsad1,B430319G23|BC056485|Q5SUV1,radical S-adenosyl methionine domain containing 1,ENSMUSG00000039096,True,False,True
+54940.0,68095,Ociad1,6030432N09Rik|AI481327|AW557942|Asrij|B230209J16Rik|BB021357|Emi2|Imi2|OCIA|TPA018|Q9CRD0,OCIA domain containing 1,ENSMUSG00000029152,False,True,True
+10922.0,66587,Fastk,0610011K02Rik|610011K02Rik|Q8C725,Fas-activated serine/threonine kinase,ENSMUSG00000028959,False,False,True
+10201.0,54369,Nme6,nm23-M6|O88425,NME/NM23 nucleoside diphosphate kinase 6,ENSMUSG00000032478,True,False,True
+664.0,12176,Bnip3,Nip3|O55003,BCL2/adenovirus E1B interacting protein 3,ENSMUSG00000078566,False,False,True
+23770.0,14232,Fkbp8,38kDa|FKBP-38|FKBP-8|Fkbp38|O35465,FK506 binding protein 8,ENSMUSG00000019428,False,False,True
+87178.0,71701,Pnpt1,1200003F12Rik|Old35|PNPase|Pnptl1|Q8K1R3,polyribonucleotide nucleotidyltransferase 1,ENSMUSG00000020464,True,False,True
+64216.0,15278,Tfb2m,Hkp1|Q3TL26,"transcription factor B2, mitochondrial",ENSMUSG00000026492,True,False,True
+201626.0,211948,Pde12,2'-PDE|E430028B21Rik|Q3TIU4,phosphodiesterase 12,ENSMUSG00000043702,True,False,True
+28973.0,66973,Mrps18b,2400002C15Rik|Q99N84,mitochondrial ribosomal protein S18B,ENSMUSG00000024436,True,False,True
+578.0,12018,Bak1,Bak|N-BAK1|N-Bak|O08734,BCL2-antagonist/killer 1,ENSMUSG00000057789,False,False,True
+54332.0,14545,Gdap1,O88741,ganglioside-induced differentiation-associated-protein 1,ENSMUSG00000025777,False,True,True
+51642.0,52443,Mrpl48,1810030E20Rik|2610028L11Rik|CGI-118|D4Ertd786e|Q8JZS9,mitochondrial ribosomal protein L48,ENSMUSG00000030706,True,False,True
+1723.0,56749,Dhodh,2810417D19Rik|AI834883|O35435,dihydroorotate dehydrogenase,ENSMUSG00000031730,False,False,True
+4259.0,66447,Mgst3,2010012L10Rik|2010306B17Rik|2700004G04Rik|AA516734|GST-III|Q9CPU4,microsomal glutathione S-transferase 3,ENSMUSG00000026688,False,True,True
+84293.0,70564,Fam213a,5730469M10Rik|AU040822|Pamm|Q9CYH2,"family with sequence similarity 213, member A",ENSMUSG00000021792,False,False,True
+4129.0,109731,Maob,6330414K01Rik|MAO-B|Q8BW75,monoamine oxidase B,ENSMUSG00000040147,False,False,True
+4535.0,17716,ND1,P03888,NADH dehydrogenase subunit 1,ENSMUSG00000064341,False,False,True
+51181.0,67880,Dcxr,0610038K04Rik|1810027P18Rik|Q91X52,dicarbonyl L-xylulose reductase,ENSMUSG00000039450,True,False,True
+5366.0,58801,Pmaip1,Noxa|Q9JM54,phorbol-12-myristate-13-acetate-induced protein 1,ENSMUSG00000024521,False,False,True
+55335.0,66536,Nipsnap3b,2700063N13Rik|Nipsnap3a|Q9CQE1,nipsnap homolog 3B (C. elegans),ENSMUSG00000015247,False,False,True
+1583.0,13070,Cyp11a1,Cyp11a|Cypxia1|D9Ertd411e|P450scc|Scc|cscc|Q9QZ82,"cytochrome P450, family 11, subfamily a, polypeptide 1",ENSMUSG00000032323,False,False,True
+84883.0,71361,Aifm2,5430437E11Rik|Amid|D730001I10Rik|PRG3|Q8BUE4,"apoptosis-inducing factor, mitochondrion-associated 2",ENSMUSG00000020085,False,False,True
+54708.0,69104,March5,1810015H18Rik|2310008I22Rik|2700055A20Rik|5730499H23Rik|E130202O05Rik|MARCH-V|MITOL|Marchv|Rnf153|Q3KNM2,membrane-associated ring finger (C3HC4) 5,ENSMUSG00000023307,False,False,True
+7001.0,21672,Prdx2,AL022839|Band-8|NkefB|PRP|PrxII|TDX1|TPx|TPx-B|TR|TSA|Tdpx1|Torin|Q61171,peroxiredoxin 2,ENSMUSG00000005161,False,False,True
+119559.0,94281,Sfxn4,Q925N1,sideroflexin 4,ENSMUSG00000063698,False,False,True
+3429.0,52668,Ifi27,1110013J02Rik|2900026P10Rik|D12Ertd647e|ISG12a|Ifi27l1|Q8C6G0,"interferon, alpha-inducible protein 27",ENSMUSG00000064215,False,False,True
+55794.0,71986,Ddx28,2410004K13Rik|AI449652|Mddx28|Q9CWT6,DEAD (Asp-Glu-Ala-Asp) box polypeptide 28,ENSMUSG00000045538,True,False,True
+10350.0,217262,Abca9,D630040K07Rik|Q8K449,"ATP-binding cassette, sub-family A (ABC1), member 9",ENSMUSG00000041797,False,False,True
+145853.0,69478,2300009A05Rik,Q0VG49,RIKEN cDNA 2300009A05 gene,ENSMUSG00000032403,True,False,True
+55326.0,52123,Agpat5,1110013A05Rik|D8Ertd319e|Q9D1E8,"1-acylglycerol-3-phosphate O-acyltransferase 5 (lysophosphatidic acid acyltransferase, epsilon)",ENSMUSG00000031467,False,False,True
+26235.0,269514,Fbxl4,4732456I21|AI836810|FBL4|FBL5|Q8BH70,F-box and leucine-rich repeat protein 4,ENSMUSG00000040410,False,False,True
+94033.0,67634,Ftmt,4930447C24Rik|FerH|Fth3|MtF|Q9D5H4,ferritin mitochondrial,ENSMUSG00000024510,False,False,True
+57678.0,14732,Gpam,GPAT|GPAT1|Q61586,"glycerol-3-phosphate acyltransferase, mitochondrial",ENSMUSG00000024978,False,False,True
+25974.0,67096,Mmachc,1810037K07Rik|Q9CZD0,"methylmalonic aciduria cblC type, with homocystinuria",ENSMUSG00000028690,False,False,True
+81890.0,60507,Qtrt1,2610028E17Rik|Tgt|Q9JMA2,queuine tRNA-ribosyltransferase 1,ENSMUSG00000002825,True,False,True
+79763.0,664994,Isoc2a,Isoc2|P85094,isochorismatase domain containing 2a,ENSMUSG00000086784,True,False,True
+6210.0,267019,Rps15a,A630031B11Rik|P62245,ribosomal protein S15A,ENSMUSG00000008683,False,False,True
+1585.0,13072,Cyp11b2,Cpn2|Cyp11b|Cyp11b-2|P15539,"cytochrome P450, family 11, subfamily b, polypeptide 2",ENSMUSG00000022589,False,False,True
+,110115,Cyp11b1,AA389061|CPN1|Cyp11b|Cyp11b-1|FHI|Q3TG86,"cytochrome P450, family 11, subfamily b, polypeptide 1",ENSMUSG00000075604,False,False,True
+100303755.0,100048644,Pet117,Gm20571|P0DJF2,PET117 homolog (S. cerevisiae),ENSMUSG00000098387,False,False,True
+4736.0,19896,Rpl10a,CsA-19|Nedd6|Q5XJF6,ribosomal protein L10A,ENSMUSG00000037805,False,False,True
+27044.0,56463,Snd1,AL033314|Q78PY7,staphylococcal nuclease and tudor domain containing 1,ENSMUSG00000001424,False,False,True
+4128.0,17161,Maoa,1110061B18Rik|AA407771|Q64133,monoamine oxidase A,ENSMUSG00000025037,False,False,True
+1727.0,109754,Cyb5r3,0610016L08Rik|2500002N19Rik|C85115|Dia-1|Dia1|WU:AL591952.1-001|WU:AL591952.1-002|WU:AL591952.1-003|WU:Cyb5r3|Q9DCN2,cytochrome b5 reductase 3,ENSMUSG00000018042,False,False,True
+56947.0,75734,Mff,5230400G24Rik|AI314724|Q6PCP5,mitochondrial fission factor,ENSMUSG00000026150,False,False,True
+79671.0,270151,Nlrx1,BC034204|NOD9|Q3TL44,NLR family member X1,ENSMUSG00000032109,True,False,True
+222234.0,330050,Fam185a,4631428I10|AI847670|Q7TPD2,"family with sequence similarity 185, member A",ENSMUSG00000047221,True,False,True
+54471.0,239555,Mief1,A230016E22|AI452372|Smcr7l|Q8BGV8,mitochondrial elongation factor 1,ENSMUSG00000022412,False,False,True
+65260.0,69893,Coa7,2010305A19Rik|AI451324|D4Ertd796e|Selrc1|Q921H9,cytochrome c oxidase assembly factor 7,ENSMUSG00000048351,False,True,True
+23095.0,16561,Kif1b,A530096N05Rik|AI448212|AI506502|D4Mil1e|KIF1Bp130|KIF1Bp204|mKIAA0591|Q60575,kinesin family member 1B,ENSMUSG00000063077,False,False,True
+6208.0,20044,Rps14,2600014J02Rik|AL023078|P62264,ribosomal protein S14,ENSMUSG00000024608,False,False,True
+126789.0,433813,Pusl1,2810021I11Rik|AI853843|D18346|A2ADA5,pseudouridylate synthase-like 1,ENSMUSG00000051557,True,False,True
+84833.0,66477,Usmg5,2010301L15Rik|Q78IK2,upregulated during skeletal muscle growth 5,ENSMUSG00000071528,False,False,True
+55177.0,67809,Rmdn3,1200015F23Rik|AI131757|Fam82a2|Ptpip51|RMD-3|Rmd3|Q3UJU9,regulator of microtubule dynamics 3,ENSMUSG00000070730,False,True,True
+27109.0,68055,Atp5s,1110015E18Rik|ATPW|Q9CRA7,"ATP synthase, H+ transporting, mitochondrial F0 complex, subunit S",ENSMUSG00000054894,True,False,True
+9804.0,67952,Tomm20,1810060K07Rik|BB284719|Gm19268|MAS20|MOM19|TOM20|mKIAA0016|Q9DCC8,translocase of outer mitochondrial membrane 20 homolog (yeast),ENSMUSG00000093904,False,False,True
+665.0,12177,Bnip3l,C86132|D14Ertd719e|Nip3L|Nix|Q9Z2F7,BCL2/adenovirus E1B interacting protein 3-like,ENSMUSG00000022051,False,False,True
+150209.0,72168,Aifm3,2810401C16Rik|AI840249|Aifl|Q3TY86,"apoptosis-inducing factor, mitochondrion-associated 3",ENSMUSG00000022763,False,False,True
+23409.0,75387,Sirt4,4930596O17Rik|Q8R216,sirtuin 4,ENSMUSG00000029524,False,False,True
+152926.0,243382,Ppm1k,2900063A19Rik|A930026L03Rik|PP2Cm|Q8BXN7,protein phosphatase 1K (PP2C domain containing),ENSMUSG00000037826,False,False,True
+5917.0,104458,Rars,2610011N19Rik|2610037E21Rik|AL033339|AW985894|Q9D0I9,arginyl-tRNA synthetase,ENSMUSG00000018848,False,False,True
+118672.0,214580,Pstk,5430423O14Rik|5730458D16Rik|Gm1099|R75284|Q8BP74,phosphoseryl-tRNA kinase,ENSMUSG00000063179,False,False,True
+11315.0,57320,Park7,DJ-1|Dj1|Q99LX0,"Parkinson disease (autosomal recessive, early onset) 7",ENSMUSG00000028964,False,False,True
+,545725,Mterf1a,4931431L11Rik|9230106K09Rik|Mterf|Mterf1|Q8CHZ9,mitochondrial transcription termination factor 1a,ENSMUSG00000040429,True,False,True
+4539.0,17720,ND4L,P03903,NADH dehydrogenase subunit 4L,ENSMUSG00000065947,False,False,True
+51097.0,109232,Sccpdh,AW214504|C330023F11Rik|Q8R127,saccharopine dehydrogenase (putative),ENSMUSG00000038936,False,False,True
+84419.0,433470,AA467197,Nmes1|Q810Q5,expressed sequence AA467197,ENSMUSG00000033213,False,False,True
+84300.0,67267,Uqcc2,2900010M23Rik|M19|Mnf1|Q9CQY6,ubiquinol-cytochrome c reductase complex assembly factor 2,ENSMUSG00000024208,True,False,True
+4832.0,79059,Nme3,1810009F08Rik|AI413736|DR-nm23|Ndk3|Nm23-DR|Nm23-M3|Q9WV85,NME/NM23 nucleoside diphosphate kinase 3,ENSMUSG00000073435,False,False,True
+8225.0,107999,Gtpbp6,AV119224|Pgbpll|pgpl|Q3U6U5,GTP binding protein 6 (putative),ENSMUSG00000033434,True,False,True
+98.0,75572,Acyp2,2310004B09Rik|P56375,"acylphosphatase 2, muscle type",ENSMUSG00000060923,False,False,True
+84709.0,67749,Mgarp,4930583H14Rik|AI195347|CESP-1|HUMMR|Osap|Qsap|Q8VI64,mitochondria localized glutamic acid rich protein,ENSMUSG00000037161,False,True,True
+60314.0,60315,Myg1,0610023A07Rik|2810433J21Rik|5830429P19Rik|AI325965|Gamm1|Q9JK81,melanocyte proliferating gene 1,ENSMUSG00000001285,False,False,True
+4595.0,70603,Mutyh,5730495A01Rik|Mutyha|Mutyhalpha|Mutyhb|Mutyhbeta|Mutyhc|Myh|Q99P21,mutY homolog (E. coli),ENSMUSG00000028687,False,False,True
+60493.0,380601,Fastkd5,C78212|mKIAA1792|Q7TMV3,FAST kinase domains 5,ENSMUSG00000079043,True,False,True
+10606.0,67054,Paics,2610511I09Rik|ADE2H1|AIRC|PAIS|Q9DCL9,"phosphoribosylaminoimidazole carboxylase, phosphoribosylaminoribosylaminoimidazole, succinocarboxamide synthetase",ENSMUSG00000029247,True,False,True
+126129.0,78070,Cpt1c,6530437J22Rik|9630004I06Rik|Q8BGD5,carnitine palmitoyltransferase 1c,ENSMUSG00000007783,False,False,True
+81554.0,94254,Wbscr16,5730496C04Rik|AU019812|Q9CYF5,Williams-Beuren syndrome chromosome region 16 homolog (human),ENSMUSG00000061979,True,False,True
+10574.0,12468,Cct7,AA408524|AL022769|Ccth|Cctz|P80313,"chaperonin containing Tcp1, subunit 7 (eta)",ENSMUSG00000030007,False,False,True
+10549.0,53381,Prdx4,AOE372|Prx-iv|Prx4|TRANK|O08807,peroxiredoxin 4,ENSMUSG00000025289,False,True,True
+5034.0,18453,P4hb,ERp59|PDI|Pdia1|Thbp|P09103,"prolyl 4-hydroxylase, beta polypeptide",ENSMUSG00000025130,False,True,True
+1429.0,12972,Cryz,Sez9|P47199,"crystallin, zeta",ENSMUSG00000028199,True,False,True
+5831.0,209027,Pycr1,Q922W5,pyrroline-5-carboxylate reductase 1,ENSMUSG00000025140,False,False,True
+90806.0,52477,Angel2,2610307I21Rik|5730410O10Rik|AI845692|D1Ertd396e|D1Ertd654e|Q8K1C0,angel homolog 2 (Drosophila),ENSMUSG00000026634,True,False,True
+92667.0,74528,Mgme1,8430406I07Rik|AI426476|Q9CXC3,mitochondrial genome maintainance exonuclease 1,ENSMUSG00000027424,True,False,True
+118881.0,69156,Comtd1,1810030M08Rik|MT773|Q8BIG7,catechol-O-methyltransferase domain containing 1,ENSMUSG00000021773,False,False,True
+471.0,108147,Atic,2610509C24Rik|AA536954|AW212393|Q9CWJ9,5-aminoimidazole-4-carboxamide ribonucleotide formyltransferase/IMP cyclohydrolase,ENSMUSG00000026192,False,False,True
+129807.0,241159,Neu4,9330166I04|Q8BZL1,sialidase 4,ENSMUSG00000034000,False,False,True
+27301.0,77622,Apex2,C430040P13Rik|ape2|Q68G58,apurinic/apyrimidinic endonuclease 2,ENSMUSG00000025269,False,False,True
+51060.0,66073,Txndc12,0610040B21Rik|ERp16|ERp19|Q9CQU0,thioredoxin domain containing 12 (endoplasmic reticulum),ENSMUSG00000028567,False,True,True
+1594.0,13115,Cyp27b1,Cp2b|Cyp1|Cyp27b|Cyp40|P450c1|Pddr|Vdd1|Vddr|VddrI|Vdr|O35084,"cytochrome P450, family 27, subfamily b, polypeptide 1",ENSMUSG00000006724,False,False,True
+78986.0,66959,Dusp26,2310043K02Rik|Skrp3|Q9D700,dual specificity phosphatase 26 (putative),ENSMUSG00000039661,False,False,True
+81932.0,72748,Hdhd3,2810435D12Rik|Q9CYW4,haloacid dehalogenase-like hydrolase domain containing 3,ENSMUSG00000038422,True,False,True
+10061.0,27407,Abcf2,0710005O05Rik|Drr3|E430001O06|Q99LE6,"ATP-binding cassette, sub-family F (GCN20), member 2",ENSMUSG00000028953,False,False,True
+4541.0,17722,ND6,P03925,NADH dehydrogenase subunit 6,ENSMUSG00000064368,False,False,True
+11022.0,72634,Tdrkh,2700091C21Rik|Tdrd2|Q80VL1,tudor and KH domain containing protein,ENSMUSG00000041912,False,False,True
+2879.0,625249,Gpx4,GPx-4|GSHPx-4|PHGPx|mtPHGPx|snGPx|Q91XR9,glutathione peroxidase 4,ENSMUSG00000075706,False,False,True
+1312.0,12846,Comt,Comt1|D16Wsu103e|O88587,catechol-O-methyltransferase,ENSMUSG00000000326,False,False,True
+6583.0,30805,Slc22a4,Octn1|Q9Z306,"solute carrier family 22 (organic cation transporter), member 4",ENSMUSG00000020334,False,False,True
+1407.0,12952,Cry1,AU020726|AU021000|Phll1|P97784,cryptochrome 1 (photolyase-like),ENSMUSG00000020038,False,False,True
+26995.0,227682,Trub2,G430055L02Rik|Q91WG3,TruB pseudouridine (psi) synthase homolog 2 (E. coli),ENSMUSG00000039826,True,False,True
+133957.0,67433,Ccdc127,0610011N22Rik|5430420E17Rik|A430066A18|AI256405|AW050060|C130002N06|Q3TC33,coiled-coil domain containing 127,ENSMUSG00000021578,False,True,True
+2182.0,50790,Acsl4,9430020A05Rik|ACS4|AU018108|Facl4|Lacs4|Q9QUJ7,acyl-CoA synthetase long-chain family member 4,ENSMUSG00000031278,False,False,True
+9581.0,213760,Prepl,2810457N15Rik|9530014L06Rik|D030028O16Rik|mKIAA0436|Q8C167,prolyl endopeptidase-like,ENSMUSG00000024127,True,False,True
+2787.0,14707,Gng5,G(y)5|Q80SZ7,"guanine nucleotide binding protein (G protein), gamma 5",ENSMUSG00000068523,False,False,True
+54974.0,66628,Thg1l,1700121M19Rik|5730409G07Rik|AA387658|Q9CY52,tRNA-histidine guanylyltransferase 1-like (S. cerevisiae),ENSMUSG00000011254,False,False,True
+80119.0,208084,Pif1,4631410M14|AI449441|Q80SX8,PIF1 5'-to-3' DNA helicase homolog (S. cerevisiae),ENSMUSG00000041064,False,False,True
+55969.0,67388,1110008F13Rik,AI316789|Q9CQT9,RIKEN cDNA 1110008F13 gene,ENSMUSG00000027637,False,False,True
+,64833,Acot10,Acate3|MT-ACT48|p48|Q32MW3,acyl-CoA thioesterase 10,ENSMUSG00000047565,False,False,True
+84902.0,72140,Cep89,2610507L03Rik|Ccdc123|Q9CZX2,centrosomal protein 89,ENSMUSG00000023072,False,False,True
+9694.0,66736,Emc2,4921531G14Rik|AV060620|AW209495|Ttc35|Q9CRD2,ER membrane protein complex subunit 2,ENSMUSG00000022337,False,False,True
+80303.0,98363,Efhd1,4931430I01Rik|AI452351|PP3051|mitocalcin|Q9D4J1,EF hand domain containing 1,ENSMUSG00000026255,False,False,True
+637.0,12122,Bid,2700049M22Rik|AI875481|AU022477|P70444,BH3 interacting domain death agonist,ENSMUSG00000004446,False,False,True
+1591.0,13081,Cyp24a1,24-OHase|CP24|Cyp24|Q64441,"cytochrome P450, family 24, subfamily a, polypeptide 1",ENSMUSG00000038567,False,False,True
+55676.0,210148,Slc30a6,9530029F08Rik|ZnT6|Q8BJM5,"solute carrier family 30 (zinc transporter), member 6",ENSMUSG00000024069,False,False,True
+9517.0,20773,Sptlc2,AI173915|LCB2|mKIAA0526|P97363,"serine palmitoyltransferase, long chain base subunit 2",ENSMUSG00000021036,False,False,True
+10551.0,23795,Agr2,Agr2h|Gob-4|HAG-2|XAG-2|mAG-2|O88312,anterior gradient 2,ENSMUSG00000020581,False,False,True
+285315.0,329659,E130311K13Rik,Q8BN57,RIKEN cDNA E130311K13 gene,ENSMUSG00000048581,True,False,True
+84260.0,77832,Tchp,A930031F18Rik|AV279199|Q3TVW5,"trichoplein, keratin filament binding",ENSMUSG00000002486,False,False,True
+30833.0,50773,Nt5c,Dnt|Dnt1|Umph-2|Umph2|Q9JM14,"5',3'-nucleotidase, cytosolic",ENSMUSG00000020736,False,False,True
+55750.0,69923,Agk,2610037M15Rik|6720408I04Rik|AI465370|Mulk|Q9ESW4,acylglycerol kinase,ENSMUSG00000029916,False,True,True
+54920.0,66369,Dus2,2310016K04Rik|Dus2l|Q9D7B1,dihydrouridine synthase 2,ENSMUSG00000031901,False,False,True
+11232.0,50776,Polg2,Q9QZM2,"polymerase (DNA directed), gamma 2, accessory subunit",ENSMUSG00000020718,True,False,True
+80025.0,74450,Pank2,4933409I19Rik|AI642621|Q3U4S0,pantothenate kinase 2,ENSMUSG00000037514,False,False,True
+10953.0,67145,Tomm34,2610100K07Rik|TOM34|Tomm34a|Tomm34b|Q9CYG7,translocase of outer mitochondrial membrane 34,ENSMUSG00000018322,False,False,True
+6165.0,57808,Rpl35a,2810431L15Rik|Rpl35|O55142,ribosomal protein L35A,ENSMUSG00000060636,False,False,True
+60681.0,14230,Fkbp10,AI325255|FKBP-10|FKBP-65|FKBP65|Fkbp-rs1|Fkbp1-rs|Fkbp6|Fkbprp|Q61576,FK506 binding protein 10,ENSMUSG00000001555,False,True,True
+598.0,12048,Bcl2l1,Bcl(X)L|Bcl-XL|Bcl2l|BclX|bcl-x|bcl2-L-1|Q64373,BCL2-like 1,ENSMUSG00000007659,False,False,True
+64083.0,66629,Golph3,4733401N08Rik|5730410D03Rik|AW413496|Q9CRA5,golgi phosphoprotein 3,ENSMUSG00000022200,False,False,True
+10981.0,67844,Rab32,2810011A17Rik|AU022057|Q9CZE3,"RAB32, member RAS oncogene family",ENSMUSG00000019832,False,False,True
+51700.0,320635,Cyb5r2,D630003K02Rik|b5R.2|Q3KNK3,cytochrome b5 reductase 2,ENSMUSG00000048065,False,False,True
+83787.0,67211,Armc10,2810037C14Rik|Svh|Q9D0L7,armadillo repeat containing 10,ENSMUSG00000038525,False,False,True
+64943.0,70021,Nt5dc2,2510015F01Rik|Q91X76,5'-nucleotidase domain containing 2,ENSMUSG00000071547,True,False,True
+11216.0,56697,Akap10,1500031L16Rik|B130049N18Rik|D-AKAP-2|D-AKAP2|PRKA10|O88845,A kinase (PRKA) anchor protein 10,ENSMUSG00000047804,False,False,True
+8846.0,211064,Alkbh1,2700073G19Rik|Abh|Alkbh|alkB|hABH|P0CB42,"alkB, alkylation repair homolog 1 (E. coli)",ENSMUSG00000079036,True,False,True
+84947.0,321007,Serac1,4930511N22Rik|D17Ertd141e|Q3U213,serine active site containing 1,ENSMUSG00000015659,False,True,True
+5414.0,18952,Sept4,ARTS|Bh5|OTTMUSG00000001265|Pnutl2|P28661,septin 4,ENSMUSG00000020486,False,False,True
+4925.0,53322,Nucb2,AI607786|Calnuc|Nefa|Nesfatin-1|P81117,nucleobindin 2,ENSMUSG00000030659,False,True,True
+79072.0,69577,Fastkd3,2310010B21Rik|AW048587|Q8BSN9,FAST kinase domains 3,ENSMUSG00000021532,True,False,True
+4077.0,17966,Nbr1,mKIAA0049|P97432,neighbor of Brca1 gene 1,ENSMUSG00000017119,False,True,True
+10312.0,27060,Tcirg1,ATP6N1C|ATP6a3|Atp6i|OC-116|OPTB1|Stv1|TIRC7|Vph1|oc|Q9JHF5,"T cell, immune regulator 1, ATPase, H+ transporting, lysosomal V0 protein A3",ENSMUSG00000001750,False,False,True
+22934.0,19895,Rpia,RPI|P47968,ribose 5-phosphate isomerase A,ENSMUSG00000053604,True,False,True
+5955.0,26611,Rcn2,AA408742|Tcbp49|Q8BP92,reticulocalbin 2,ENSMUSG00000032320,False,True,True
+9692.0,66132,1110008L16Rik,Kiaa0391|Mrpp3|mKIAA0391|Q8JZY4,RIKEN cDNA 1110008L16 gene,ENSMUSG00000021023,True,False,True
+3915.0,226519,Lamc1,Lamb2|F8VQJ3,"laminin, gamma 1",ENSMUSG00000026478,False,True,True
+55014.0,67727,Stx17,4833418L03Rik|6330411F21Rik|9030425C21Rik|AW048351|Q9D0I4,syntaxin 17,ENSMUSG00000061455,False,True,True
+572.0,12015,Bad,AI325008|Bbc2|Q61337,BCL2-associated agonist of cell death,ENSMUSG00000024959,False,False,True
+596.0,12043,Bcl2,AW986256|Bcl-2|C430015F12Rik|D630044D05Rik|D830018M01Rik|P10417,B cell leukemia/lymphoma 2,ENSMUSG00000057329,False,False,True
+599.0,12050,Bcl2l2,AW048834|Bcl-w|Gtrgal2|Gtrosa41|bclw|c98|P70345,BCL2-like 2,ENSMUSG00000089682,False,False,True
+841.0,12370,Casp8,CASP-8|FLICE|MACH|Mch5|O89110,caspase 8,ENSMUSG00000026029,False,False,True
+995.0,12532,Cdc25c,Cdc25|P48967,cell division cycle 25C,ENSMUSG00000044201,False,True,True
+1760.0,13400,Dmpk,DM|DMK|Dm15|MDPK|MT-PK|P54265,dystrophia myotonica-protein kinase,ENSMUSG00000030409,False,False,True
+9463.0,18693,Pick1,Prkcabp|Q8C1W2,protein interacting with C kinase 1,ENSMUSG00000068206,False,False,True
+,83408,Gimap3,2010110D23Rik|Gimap5|Ian4|Q99MI6,"GTPase, IMAP family member 3",ENSMUSG00000039264,False,False,True
+140886.0,93728,Pabpc5,C820015E17|Q8C7D3,"poly(A) binding protein, cytoplasmic 5",ENSMUSG00000034732,False,False,True
+63899.0,106338,Nsun3,6720484A09Rik|AU022521|Q8CCT7,NOL1/NOP2/Sun domain family member 3,ENSMUSG00000050312,True,False,True
+57144.0,241656,Pak7,2900083L08Rik|6430627N20|Pak5|Q8C015,p21 protein (Cdc42/Rac)-activated kinase 7,ENSMUSG00000039913,False,False,True
+167681.0,244954,Prss35,6030424L22Rik|P3D9|Q8C0F9,"protease, serine 35",ENSMUSG00000033491,False,False,True
+1763.0,327762,Dna2,Dna2l|E130315B21Rik|Q6ZQJ5,DNA replication helicase 2 homolog (yeast),ENSMUSG00000036875,False,False,True
+57205.0,231287,Atp10d,9830145H18Rik|ATPVD|D5Buc24e|Q8K2X1,"ATPase, class V, type 10D",,False,False,True
+64847.0,217116,Spata20,Tisp78|Q80YT5,spermatogenesis associated 20,ENSMUSG00000020867,True,False,True
+6164.0,68436,Rpl34,1100001I22Rik,ribosomal protein L34,ENSMUSG00000062006,False,False,True
+55848.0,67759,Plgrkt,1110007H22Rik|5033414D02Rik|AI852040|Plg-R(KT)|Plg-RKT|Q9D3P8,"plasminogen receptor, C-terminal lysine transmembrane protein",ENSMUSG00000016495,False,False,True
+26056.0,52055,Rab11fip5,9130206P09Rik|C75969|D6Ertd32e|GAF1|RIP11|Q8R361,RAB11 family interacting protein 5 (class I),ENSMUSG00000051343,False,False,True
+79048.0,75420,Secisbp2,2210413N07Rik|2810012K13Rik|SBP2|Q3TGQ4,SECIS binding protein 2,ENSMUSG00000035139,False,False,True
+8031.0,27057,Ncoa4,ARA70|Rfg|Q5U4H9,nuclear receptor coactivator 4,ENSMUSG00000056234,False,False,True
+205327.0,73467,1700066M21Rik,AI428479|Q9D9H8,RIKEN cDNA 1700066M21 gene,ENSMUSG00000038323,True,False,True
+,78617,Cstad,9530039B02Rik|Q9D245,"CSA-conditional, T cell activation-dependent protein",ENSMUSG00000047363,False,False,True
+11067.0,213393,8430408G22Rik,Depp|Fseg|Q8K2F3,RIKEN cDNA 8430408G22 gene,ENSMUSG00000048489,False,False,True
+56624.0,54447,Asah2,AI585898|Q9JHE3,N-acylsphingosine amidohydrolase 2,ENSMUSG00000024887,False,False,True
+25932.0,29876,Clic4,D0Jmb3|TU-74|mc3s5|mtCLIC|Q9QYB1,chloride intracellular channel 4 (mitochondrial),ENSMUSG00000037242,False,False,True
+9342.0,67474,Snap29,1300018G05Rik|AI891940|AU020222|BB131856|Gs32|Q9ERB0,synaptosomal-associated protein 29,ENSMUSG00000022765,False,True,True
+60487.0,73681,Trmt11,2410075D05Rik|3110045I18Rik|AW213713|Q9CWH5,tRNA methyltransferase 11,ENSMUSG00000019792,True,False,True

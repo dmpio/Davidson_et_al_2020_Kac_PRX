@@ -1,0 +1,26 @@
+Accession,Name,Symbol,Gene Symbol,Entrez,Matrix,IMS,Acetylated Residues,DKOvsDFC_FC,TACMIvsSham_FC
+Q8BMS1,"Trifunctional enzyme subunit alpha, mitochondrial",Hadha,Hadha,97212,True,False,K406; K411,31.144595610554898,14.559895188698674
+Q91VD9,"NADH-ubiquinone oxidoreductase 75 kDa subunit, mitochondrial",Ndufs1,Ndufs1,227197,True,False,K98,2.040480423934609,12.848653237578567
+P56382,"ATP synthase subunit epsilon, mitochondrial",Atp5e,Atp5e,67126,False,False,K44,33.668000051599556,10.211539125586338
+Q3ULD5,"Methylcrotonoyl-CoA carboxylase beta chain, mitochondrial",Mccc2,Mccc2,78038,False,False,K511,13.56001851527428,8.34020414282297
+Q8BMS1,"Trifunctional enzyme subunit alpha, mitochondrial",Hadha,Hadha,97212,True,False,K411,14.9070195198371,7.462295935061696
+P08249,"Malate dehydrogenase, mitochondrial",Mdh2,Mdh2,17448,True,False,K335,20.870724558558607,7.257768114840502
+O35459,"Delta(3,5)-Delta(2,4)-dienoyl-CoA isomerase, mitochondrial",Ech1,Ech1,51798,True,False,K316,8.587264140148145,7.177512041498086
+Q9DB20,"ATP synthase subunit O, mitochondrial",Atp5o,Atp5o; LOC100047429; LOC102641678,28080,True,False,K97,22.475375172502357,7.103397879514934
+Q61941,"NAD(P) transhydrogenase, mitochondrial",Nnt,Nnt,18115,True,False,K1079,11.34693297525102,6.960996463042894
+Q8BMS1,"Trifunctional enzyme subunit alpha, mitochondrial",Hadha,Hadha,97212,True,False,K406,36.202807337325154,6.866816879473521
+Q8K2B3,"Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial",Sdha,Sdha,66945,True,False,K335,5.592148354917824,6.758111998664674
+Q61425,"Hydroxyacyl-coenzyme A dehydrogenase, mitochondrial",Hadh,Hadh,15107,True,False,K81,12.974757912830093,6.695966900613533
+Q8BMF4,"Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex, mitochondrial",Dlat,Dlat,235339,True,False,K363,12.352290974497086,6.612545684485277
+Q8BMS1,"Trifunctional enzyme subunit alpha, mitochondrial",Hadha,Hadha,97212,True,False,K259,36.723008802472066,6.573859375314391
+D3Z7X0,"Acyl-Coenzyme A dehydrogenase family, member 12",Acad12,Acad12,338350,False,False,K542,14.66994351064155,6.0167290174521675
+Q8QZS1,"3-hydroxyisobutyryl-CoA hydrolase, mitochondrial",Hibch,Hibch,227095,True,False,K300,4.42691846881535,5.999390605989952
+Q8BMS1,"Trifunctional enzyme subunit alpha, mitochondrial",Hadha,Hadha,97212,True,False,K411,13.814082798800152,5.799123101028264
+Q61425,"Hydroxyacyl-coenzyme A dehydrogenase, mitochondrial",Hadh,Hadh,15107,True,False,K75,14.118028688800077,5.759802341140863
+Q03265,"ATP synthase subunit alpha, mitochondrial",Atp5a1,Atp5a1,11946,True,False,K498,10.010359470462936,5.519598012863754
+Q4VWZ5,Acyl-CoA-binding protein,Dbi,Dbi,13167,False,False,K103,2.6902748299842005,5.42542462868488
+Q9Z2I9,"Succinate--CoA ligase [ADP-forming] subunit beta, mitochondrial",Sucla2,Sucla2,20916,True,False,K88,19.689016734320553,5.330786559190956
+Q91VA7,"Isocitrate dehydrogenase [NAD] subunit, mitochondrial",Idh3b,Idh3b,170718,True,False,K134,2.6433485301790167,5.29868570354905
+Q8QZT1,"Acetyl-CoA acetyltransferase, mitochondrial",Acat1,Acat1,110446,True,False,K227,3.77282511752255,5.207061893403572
+P03930,ATP synthase protein 8,Mtatp8,ATP8,17706,False,False,K46,28.42597125412708,5.144664915627701
+Q03265,"ATP synthase subunit alpha, mitochondrial",Atp5a1,Atp5a1,11946,True,False,K427,15.283507411503328,5.112067071681011
