@@ -23,12 +23,12 @@ colnames(design) <- c("DFC_Sham", "DFC_TAC", "DKO_Sham", "DKO_TAC")
 fit <- lmFit(log2, design)
 
 # Generate the contrast map
-contMat <- makeContrasts(DKO_TACvsDFC_TAC = DKO_TAC - DFC_TAC,
-                         DKO_ShamvsDFC_Sham = DKO_Sham - DFC_Sham,
-                         DKO_ShamvsDFC_TAC = DKO_Sham - DFC_TAC,
-                         DFC_TACvsDFC_Sham = DFC_TAC - DFC_Sham,
-                         DKO_TACvsDKO_Sham = DKO_TAC - DKO_Sham,
-                         levels=design)
+contMat <- makeContrasts(DKO_TACvsDFC_TAC = DKO_TAC-DFC_TAC,
+                         DKO_ShamvsDFC_Sham = DKO_Sham-DFC_Sham,
+                         DKO_ShamvsDFC_TAC = DKO_Sham-DFC_TAC,
+                         DFC_TACvsDFC_Sham = DFC_TAC-DFC_Sham,
+                         DKO_TACvsDKO_Sham = DKO_TAC-DKO_Sham,
+                         level = design)
 
 # Fit the Contrasts to the product of lmFit
 fit.cont <- contrasts.fit(fit, contMat)
@@ -40,7 +40,7 @@ fit.cont.eb <- eBayes(fit.cont)
 # Perform the comparisons, with each contrast individually
 # Use Benj. Hoch. for With FDR = 0.05
 fit.cont.eb.decide <- decideTests(fit.cont.eb, 
-                                  method="separate", 
+                                  method = "separate", 
                                   adjust.method = "BH", 
                                   p.value = 0.05)
 
