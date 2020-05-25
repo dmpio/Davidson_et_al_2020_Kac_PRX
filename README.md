@@ -5,7 +5,7 @@ Proteomic Data Analysis for the following publication:
 > Davidson, M.T., Grimsrud, P.A., Lai, L., Draper, J.A., Fisher-Wellman, K.H., Narowski, T.M., Abraham, D.M., Koves, T.R., Kelly, D.P., and Muoio, D.M. (2019). Disruption of acetyl group balance in cardiomyocytes augments the mitochondrial acetylproteome without affecting respiratory function or heart susceptibility to pressure overload.  *In review* [link placeholder]
 
 ## Raw Data
-The raw data for the proteomics experiments was submitted to the Proteome Xchange Consortium via the jPOST Repository [Accession Number & link Placeholder]
+The raw data for the proteomics experiments was submitted to the Proteome Xchange Consortium via the PRIDE partner Repository with the dataset identifier [PXD013935](http://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD013935)
 
 ## Directory Structure
 The directory contains the analyses for 3 individual proteomic experiments. The structure of these folders is summarized below.
