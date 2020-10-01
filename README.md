@@ -2,7 +2,7 @@
 
 Proteomic Data Analysis for the following publication:
 
-> Davidson, M.T., Grimsrud, P.A., Lai, L., Draper, J.A., Fisher-Wellman, K.H., Narowski, T.M., Abraham, D.M., Koves, T.R., Kelly, D.P., and Muoio, D.M. (2020). Disruption of acetyl group balance in cardiomyocytes augments the mitochondrial acetylproteome without affecting respiratory function or heart susceptibility to pressure overload.  *In review* [link placeholder]
+> Davidson, M.T., Grimsrud, P.A., Lai, L., Draper, J.A., Fisher-Wellman, K.H., Narowski, T.M., Abraham, D.M., Koves, T.R., Kelly, D.P., and Muoio, D.M. (2020). Extreme Acetylation of the Cardiac Mitochondrial Proteome Does Not Promote Heart Failure.  *Circulation Research.* 2020;127:1094–1108. [10.1161/CIRCRESAHA.120.317293](https://doi.org/10.1161/CIRCRESAHA.120.317293) [PMID: 32660330](https://pubmed.ncbi.nlm.nih.gov/32660330/)
 
 ## Raw Data
 The raw data for the proteomics experiments was submitted to the Proteome Xchange Consortium via the PRIDE partner Repository with the dataset identifier [PXD013935](http://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD013935)
